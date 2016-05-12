@@ -81,24 +81,25 @@
 			<p>Lorem Ipsum es simplemente el texto de relleno<br>
 			de las imprentas y archivos de texto.</p>
 
-			<div class="producto espaciado-producto">
-				<img src="img/arena-antifog-2mg.jpg">
-				<h3>ARENA ANTIFOG – LIQUIDO ANTIPANENTE</h3>
-				<p>Desempañar gafas de buceó, actividades de natación, lentes de seguridad de actividades industriales (minería)</p>
-				<h4>CODIGO: 97590</h4>
-				<a href=""><div class="boton-mas-info"><img src="img/ver-mas-negro.png">MÁS INFO.</div></a>
+			<div class="productos-centrados">
+				<div class="producto espaciado-producto">
+					<img src="img/arena-antifog-2mg.jpg">
+					<h3>ARENA ANTIFOG – LIQUIDO ANTIPANENTE</h3>
+					<p>Desempañar gafas de buceó, actividades de natación, lentes de seguridad de actividades industriales (minería)</p>
+					<h4>CODIGO: 97590</h4>
+					<a href="arena-antifog.php"><div class="boton-mas-info"><!-- <img src="img/ver-mas-negro.png"> -->+ MÁS INFO.</div></a>
+				</div>
+
+				<div class="producto">
+					<img src="img/ad-titanium-2mg.jpg">
+					<h3>AD TITANIUM - ADITIVO EN POLVO PARA CONCRETO</h3>
+					<p>Reduz el consumo de água em la mezcla –Disminue la retracción – aumenta la compacidade - Reduz la permeabilidad - Aumenta la resistencia y modulo - Reduz Teor de Cemento -Reduz la reacción Álcali – Agregado – aumenta la durabilidade de la Estrutura – Gano de altas Resistencias Iniciales –Reduccion del custo general de la Obra</p>
+					<h4>CODIGO: 97590</h4>
+					<a href="ad-titanium.php"><div class="boton-mas-info"><!-- <img src="img/ver-mas-negro.png"> -->+ MÁS INFO.</div></a>
+				</div>
+
+				<div class="clear"></div>
 			</div>
-
-			<div class="producto">
-				<img src="img/ad-titanium-2mg.jpg">
-				<h3>AD TITANIUM - ADITIVO EN POLVO PARA CONCRETO</h3>
-				<p>Reduz el consumo de água em la mezcla –Disminue la retracción – aumenta la compacidade - Reduz la permeabilidad - Aumenta la resistencia y modulo - Reduz Teor de Cemento -Reduz la reacción Álcali – Agregado – aumenta la durabilidade de la Estrutura – Gano de altas Resistencias Iniciales –Reduccion del custo general de la Obra</p>
-				<h4>CODIGO: 97590</h4>
-				<a href=""><div class="boton-mas-info"><img src="img/ver-mas-negro.png">MÁS INFO.</div></a>
-			</div>
-
-
-			<div class="clear"></div>
 		</div>
 
 		<div class="contenedor-representaciones"><a name="representaciones"></a>
@@ -110,14 +111,14 @@
 				<img src="img/productos-2mg.jpg">
 				<h3>REPRESENTACIONES DE PRODUCTO</h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lacinia quam a orci posuere porttitor. Donec eu enim eros. Quisque vitae justo at augue sollicitudin egestas eget ac tellus. Ut dignissim turpis eget arcu rutrum mollis. In dignissim eget velit sit amet tempor. Phasellus iaculis libero tortor, sed semper neque porttitor vel. Aliquam quis turpis egestas, efficitur ligula ut, cursus ex. Phasellus et tristique turpis, at commodo mauris. Vestibulum eget mollis lacus.</p>
-				<a href=""><div class="boton-mas-info2"><img src="img/ver-mas-blanco.png">MÁS INFO.</div></a>
+				<a href="representaciones-productos.php"><div class="boton-mas-info2"><!-- <img src="img/ver-mas-blanco.png"> -->+ MÁS INFO.</div></a>
 			</div>
 
 			<div class="representaciones-producto">
 				<img src="img/insumos-2mg.jpg">
 				<h3>REPRESENTACIONES DE INSUMOS</h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lacinia quam a orci posuere porttitor. Donec eu enim eros. Quisque vitae justo at augue sollicitudin egestas eget ac tellus. Ut dignissim turpis eget arcu rutrum mollis. In dignissim eget velit sit amet tempor. Phasellus iaculis libero tortor, sed semper neque porttitor vel. Aliquam quis turpis egestas, efficitur ligula ut, cursus ex. Phasellus et tristique turpis, at commodo mauris. Vestibulum eget mollis lacus.</p>
-				<a href=""><div class="boton-mas-info2"><img src="img/ver-mas-blanco.png">MÁS INFO.</div></a>
+				<a href="representaciones-insumos.php"><div class="boton-mas-info2"><!-- <img src="img/ver-mas-blanco.png"> -->+ MÁS INFO.</div></a>
 			</div>
 
 			<div class="clear"></div>

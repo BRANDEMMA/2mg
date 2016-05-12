@@ -635,6 +635,10 @@ footer img{
 	color: #2C3D6D;
 	font-family: "my_riad_pro_regular";
 }
+.productos-centrados{
+	margin: 0 auto;
+	width: 70%;
+}
 .producto{
 	float: left;
 	text-align: center;
@@ -676,6 +680,7 @@ footer img{
 }
 .boton-mas-info:hover{
 	background-color: #2B3D6B;
+	color: white;
 }
 .espaciado-producto{
 	margin-right: 4%;
@@ -740,6 +745,14 @@ footer img{
 }
 
 
+
+
+
+
+
+
+/*ESTILOS DE LA SECCION "REPRESENTACIONES COMERCIALES"*/
+
 .representaciones-comerciales{
 	position: relative;
 	width: 100%;
@@ -747,7 +760,7 @@ footer img{
 .representaciones-comerciales img{	
 	width: 100%;
 }
-.representaciones-comerciales h2{
+.representaciones-comerciales .titulo-arriba{
 	color: #D57B2C;
 	font-family: "my_riad_pro_regular";
 	font-size: 2.5em;
@@ -756,7 +769,7 @@ footer img{
 	position: absolute;
 	top: 0;
 }
-.representaciones-comerciales h2 span{
+.representaciones-comerciales .titulo-arriba span{
 	font-weight: bold;
 }
 .opciones-comerciales{
@@ -805,6 +818,22 @@ footer img{
 
 
 
-
-
-
+/*ESTILOS DE LA SECCION "REPRESENTACIONES COMERCIALES 1"*/
+.representaciones-comerciales h2{
+	color: #2c3d6d;
+	font-family: "my_riad_pro_regular";
+}
+.izquierda-repre1{
+	float: left;
+	margin-right: 2%;
+	width: 58%;
+}
+.izquierda-repre1 p{
+	font-family: "my_riad_pro_regular";
+	margin-top: 0;
+	text-align: justify;
+}
+.derecha-repre1{
+	float: left;
+	width: 40%;
+}
