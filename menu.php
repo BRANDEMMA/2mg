@@ -9,23 +9,23 @@
 </div>
 
 <div class="menu-principal">
-	<img src="img/logo-2mg.gif">
+	<img onclick="index.php" src="img/logo-2mg.gif">
 	<nav>
 		<ul>
-			<li><a href="">Nosotros</a></li>
+			<li><a href="index.php#nosotros">Nosotros</a></li>
 			<li class="lineas"></li>
-			<li><a href="">Representaciones Comerciales</a></li>
+			<li><a href="representaciones-comerciales.php">Representaciones Comerciales</a></li>
 			<li class="lineas"></li>
-			<li><a href="">Soluciones de Eficiencia Energética</a></li>
+			<li><a href="soluciones-eficiencia-energetica.php">Soluciones de Eficiencia Energética</a></li>
 			<li class="lineas"></li>
-			<li><a href="">Procurement en Ingeniería</a>
+			<li><a href="productos.php">Procurement en Ingeniería</a>
 				<ul>
-					<li><a href="">Productos</a></li>
-					<li><a href="">Presentaciones</a></li>
+					<li><a href="productos.php#productos">Productos</a></li>
+					<li><a href="productos.php#representaciones">Presentaciones</a></li>
 				</ul>
 			</li>
 			<li class="lineas"></li>
-			<li><a href="">Contacto</a></li>
+			<li><a href="#contacto">Contacto</a></li>
 		</ul>
 	</nav>
 </div>

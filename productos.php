@@ -76,7 +76,7 @@
 
 		<div class="clear"></div>
 
-		<div class="contenedor-productos">
+		<div class="contenedor-productos"><a name="productos"></a>
 			<h2>Productos</h2>
 			<p>Lorem Ipsum es simplemente el texto de relleno<br>
 			de las imprentas y archivos de texto.</p>
@@ -101,7 +101,7 @@
 			<div class="clear"></div>
 		</div>
 
-		<div class="contenedor-representaciones">
+		<div class="contenedor-representaciones"><a name="representaciones"></a>
 			<h2>Representaciones</h2>
 			<p>Lorem Ipsum es simplemente el texto de relleno<br>
 			de las imprentas y archivos de texto.</p>

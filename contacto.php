@@ -1,6 +1,6 @@
 <?php
 ?>
-		<div class="contacto">
+		<div class="contacto"><a name="contacto"></a>
 			<h2>Contacto</h2>
 			<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="php/contacto.php">
 				<div class="centrado" id="ajaxsuccess">*El Email ha sido enviado satisfactoriamente.*</div>
