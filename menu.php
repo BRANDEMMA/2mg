@@ -9,10 +9,10 @@
 </div>
 
 <div class="menu-principal">
-	<img onclick="index.php" src="img/logo-2mg.gif">
+	<img src="img/logo-2mg.gif">
 	<nav>
 		<ul>
-			<li><a href="index.php#nosotros">Nosotros</a></li>
+			<li><a href="nosotros.php">Nosotros</a></li>
 			<li class="lineas"></li>
 			<li><a href="representaciones-comerciales.php">Representaciones Comerciales</a></li>
 			<li class="lineas"></li>

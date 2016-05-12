@@ -122,10 +122,6 @@
 
 			<div class="clear"></div>
 		</div>
-
-		<?php
-			include 'contacto.php';
-		?>
 	</div>
 	
 	<?php
