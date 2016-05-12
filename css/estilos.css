@@ -1,0 +1,801 @@
+/*--==================== FUENTES ========================--*/
+@font-face {
+	font-family: "ariblk";
+	src: url(../font/ariblk.ttf) format("truetype");
+}
+@font-face {
+	font-family: "my_riad_pro_regular";
+	src: url(../font/MyriadPro-Regular.otf) format("opentype");
+}
+@font-face {
+	font-family: "my_riad_pro_semibold";
+	src: url(../font/MyriadPro-Semibold.otf) format("opentype");
+}
+@font-face {
+	font-family: "my_riad_pro_bold";
+	src: url(../font/MyriadPro-Bold.otf) format("opentype");
+}
+/*--==================== ESTILOS GENERALES ========================--*/
+body{
+	margin: 0;
+	width: 100%;
+}
+.clear{
+	clear: both;
+}
+
+
+
+
+/*--==================== ESTILOS DE LA CABECERA ========================--*/
+header{
+	border-bottom: 2px solid #CCCBCC;
+	margin: 0 auto;
+	padding-bottom: 1.5%;
+	width: 90%;
+}
+.redes-sociales{
+	display: flex;
+	justify-content: flex-end;
+	margin-top: 20px;
+	width: 100%;
+}
+.facebook{
+	background: url(../img/facebook-2mg.png) no-repeat left;
+	background-size: 200% 100%;
+	height: 20px;
+	margin-right: 10px;
+	width: 20px;
+}
+.facebook:hover{
+	background: url(../img/facebook-2mg.png) no-repeat right;
+	background-size: 210% 100%;
+}
+.google{
+	background: url(../img/google-plus-2mg.png) no-repeat left;
+	background-size: 200% 100%;
+	height: 20px;
+	margin-right: 10px;
+	width: 20px;
+}
+.google:hover{
+	background: url(../img/google-plus-2mg.png) no-repeat right;
+	background-size: 210% 100%;
+}
+.twitter{
+	background: url(../img/twitter-2mg.png) no-repeat left;
+	background-size: 200% 100%;
+	height: 20px;
+	margin-right: 10px;
+	width: 20px;
+}
+.twitter:hover{
+	background: url(../img/twitter-2mg.png) no-repeat right;
+	background-size: 210% 100%;
+}
+.youtube{
+	background: url(../img/youtube-2mg.png) no-repeat left;
+	background-size: 200% 100%;
+	height: 20px;
+	margin-right: 10px;
+	width: 25px;
+}
+.youtube:hover{
+	background: url(../img/youtube-2mg.png) no-repeat right;
+	background-size: 210% 100%;
+}
+.menu-principal{
+	display: flex;
+}
+.menu-principal img{
+	height: 100%;
+	width: 15%;
+}
+.menu-principal nav{
+	width: 85%;
+}
+.menu-principal nav ul{
+	display: flex;
+	font-family: "my_riad_pro_regular";
+	justify-content: flex-end;
+	list-style: none;
+	padding: 0;
+}
+.menu-principal nav ul li{
+	flex-wrap: wrap;
+}
+.lineas{
+	border-left: 1px solid #2C3D6D;
+	height: 15px;
+	margin-top: 12px;
+}
+.menu-principal a{
+	color: #2C3D6D;
+	display: block;
+	padding: 10px 10px;
+	text-decoration: none;
+}
+.menu-principal a:hover{
+	color: #D57B2C;
+}
+.menu-principal li ul{
+	display: none;
+	padding-left: 15px;	
+	position: absolute;
+	z-index: 1000;
+}
+.menu-principal li ul li{
+	background-color: white;
+}
+.menu-principal nav li:hover > ul{
+	display: inline-block;
+}
+
+
+
+
+
+
+
+
+/*--==================== ESTILOS DEL CONTENIDO ========================--*/
+.contenido{
+	margin: 0 auto;
+	margin-top: 2%;
+	width: 90%;
+}
+
+
+
+
+
+
+
+/*--==================== ESTILOS PRESENTACION DE SERVICIOS ========================--*/
+.presentacion-servicios{
+	border-bottom: 2px solid #CCCBCC;
+	padding-bottom: 2%;
+	width: 100%;
+}
+.representaciones{
+	background: url(../img/representaciones-comerciales-2mg.jpg) no-repeat left;
+	background-position: 0% 100%;
+	background-size: 200% 100%;
+	float: left;
+	height: 100%;
+	margin-right: 2%;
+	transition: all 0.5s;
+	width: 49%;
+}
+.representaciones img{
+	width: 100%;
+}
+.representaciones:hover{
+	background-position: 100% 100%;
+}
+.procurement{
+	background: url(../img/procurement-en-ingenieria-2mg.jpg) no-repeat left;
+	background-position: 0% 100%;
+	background-size: 200% 100%;
+	float: left;
+	height: 100%;
+	transition: all 0.5s;
+	width: 49%;
+}
+.procurement img{
+	width: 100%;
+}
+.procurement:hover{
+	background-position: 100% 100%;
+}
+.eficiencia{
+	background: url(../img/eficiencia-energetica-2mg.jpg) no-repeat left;
+	background-position: 0 100%;
+	background-size: 200% 100%;
+	margin-top: 2%;
+	transition: all 0.3s;
+	height: 50%;
+	width: 100%;
+}
+.eficiencia img{
+	height: 50%;
+	width: 100%;
+}
+.eficiencia:hover{
+	background-position: 100% 100%;
+}
+
+
+
+
+
+
+
+
+
+/*--==================== ESTILOS SECCION NOSOTROS ========================--*/
+.nosotros{
+	border-bottom: 2px solid #CCCBCC;
+	padding-top: 3%;
+	padding-bottom: 1%;
+	width: 100%;
+}
+.izquierda-nosotros{
+	float: left;
+	padding-right: 3%;
+	width: 65%;
+}
+.izquierda-nosotros img{
+	padding-left: 2%;
+	width: 25%;
+}
+.izquierda-nosotros p{
+	font-family: "my_riad_pro_regular";
+	margin-bottom: 5%;
+	margin-top: 6%;
+	padding-left: 13%;
+	text-align: justify;
+}
+.izquierda-nosotros a{
+	float: right;
+}
+.boton{
+	background-color: #2c3d6d;
+	color: white;
+	font-family: "my_riad_pro_semibold";
+	padding: 5px 10px;
+	text-decoration: none;
+}
+.derecha-nosotros{
+	float: left;
+	text-align: right;
+	width: 32%;
+}
+.derecha-nosotros img{
+	padding-top: 13%;
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+/*--==================== ESTILOS SECCION CONTACTO ========================--*/
+.contacto{
+	padding-bottom: 5%;
+	width: 100%;
+}
+.contacto h2{
+	color: #2c3d6d;
+	font-family: "my_riad_pro_bold";
+	font-size: 2.5em;
+}
+.contacto form{
+	padding-left: 25%;
+	width: 75%;
+}
+.contacto label{
+	font-family: "my_riad_pro_regular";
+}
+.contacto input{
+	background-color: #e5e5e5;
+	border: none;
+	height: 35px;
+	width: 75%;
+}
+.contacto textarea{
+	background-color: #e5e5e5;
+	border: none;
+	height: 70px;
+	width: 87%;
+}
+.contacto button{
+	border: none;
+	cursor: pointer;
+	float: right;
+	margin-right: 8.5%;
+}
+.campos-formulario{
+	float: left;
+	width: 33.3%;
+}
+.mensaje-formulario{
+	float: left;
+	width: 66.6%;
+}
+.centrado{
+	text-align: center;
+}
+.error {
+	color: red;
+	display: none;
+	font-family: "my_riad_pro_regular";
+	padding-top: 5px;
+}
+
+#ajaxsuccess {
+	clear:both;
+	color: #346b2f;
+	display: none;
+	font-family: "my_riad_pro_regular";
+	font-size:18px;
+	font-weight:bold;
+	padding-bottom: 10px;
+	width: 100%;
+}
+
+
+
+
+
+
+
+/*--==================== ESTILOS SECCION MAPAS ========================--*/
+.contenedor-mapas{
+	background-color: #2c3d6d;
+	padding-bottom: 3%;
+	padding-top: 5%;
+	width: 100%;
+}
+.mapas{
+	float: left;
+	width: 28%;
+}
+.izquierda-mapas{
+	float: left;
+	margin-right: 5%;
+	width: 50%;
+}
+.izquierda-mapas h3{
+	color: white;
+	font-family: "my_riad_pro_bold";
+	margin-bottom: 12%;
+	margin-top: 0;
+}
+.izquierda-mapas h3 img{
+	height: 17.5px;
+	margin-bottom: -4px;
+	margin-left: 10px;
+	width: 33.5px;
+}
+.informacion-mapas{
+	display: flex;
+	margin-bottom: 10%;
+}
+.informacion-mapas img{
+	height: 28px;
+	margin-right: 10px;
+	width: 28px;
+}
+.informacion-mapas p{
+	color: white;
+	font-family: "my_riad_pro_regular";
+	font-size: 0.8em;
+	margin: 0;
+}
+.informacion-mapas a{
+	color: white;
+	text-decoration: none;
+}
+.derecha-mapas{
+	float: left;
+	width: 45%;
+}
+.derecha-mapas iframe{
+	height: 280px;
+	width: 100%;
+}
+.espacio-mapas{
+	border-right: 2px solid #cccbcc;
+	padding-left: 4%;
+	padding-right: 2%;
+}
+
+
+
+
+
+
+
+/*--==================== ESTILOS DEL FOOTER ========================--*/
+footer{
+
+	width: 100%;
+}
+footer p{
+	color: #2c3d6d;
+	font-family: "my_riad_pro_regular";
+	margin: 0;
+	padding: 10px 0;
+	text-align: center;
+}
+footer img{
+	width: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*--==================== ESTILOS DE LA SECCION "EFICIENCIA ENERGETICA" ========================--*/
+.linea-energetica{
+	border-bottom: 2px solid #CCCBCC;
+	margin-bottom: 2%;
+	padding-bottom: 2%;
+}
+.izquierda-energetica{
+	float: left;
+	width: 50%;
+}
+.izquierda-energetica img{
+	width: 100%;
+}
+.derecha-energetica{
+	background-color: #F4F3F3;
+	float: left;
+	width: 50%;
+}
+.derecha-energetica-centrado{
+	margin: 0 auto;
+	padding-top: 3%;
+	width: 90%;
+}
+.derecha-energetica-centrado h2{
+	color: #2C3D6D;
+	font-family: "my_riad_pro_regular";
+	font-size: 2em;
+	font-weight: normal;
+	margin: 0;
+}
+.tit-part1{
+	padding-left: 8%;
+}
+.tit-part2{
+	padding-left: 19%;
+	padding-bottom: 5%;
+}
+.derecha-energetica-centrado h2:nth-child(2){
+
+}
+.derecha-energetica-centrado h2 span{
+	font-weight: bolder;
+}
+.derecha-energetica-centrado p{
+	font-family: "my_riad_pro_regular";
+}
+.derecha-energetica-centrado p span{
+	color: #D57B2C;
+}
+.texto-azul{
+	color: #2C3D6D;
+}
+.espaciado{
+	margin: 5% 0;
+}
+.contenedor-caracteristicas{
+	background-color: white;
+	border-radius: 15px;
+	margin-bottom: 8%;
+	padding-top: 3%;
+}
+.caracteristicas{
+	display: flex;
+	margin: 0 auto;
+	padding-bottom: 5%;
+	width: 90%;
+}
+.foco img:nth-child(1){
+	height: 40px;
+	margin-right: 5%;
+	width: 30px;
+}
+.rayo img:nth-child(1){
+	height: 40px;
+	margin-right: 5%;
+	width: 30px;
+}
+.esquema img:nth-child(1){
+	height: 40px;
+	margin-left: -1%;
+    margin-right: 4%;
+    width: 40px;
+}
+.precaucion img:nth-child(1){
+	height: 40px;
+	margin-left: -1%;
+    margin-right: 4%;
+    width: 40px;
+}
+.caracteristicas img:nth-child(2){
+	height: 25px;
+	margin-right: 1%;
+	margin-top: 9px;
+	width: 10px;
+}
+.caracteristicas p{
+	margin: 0;
+	padding-top: 3px;
+}
+.escribenos{
+	margin-bottom: 8%;
+	text-align: center;
+	width: 100%;
+}
+.escribenos a{
+	background-color: #D57B2C;
+	border-radius: 10px 0 10px 0;
+	color: white;
+	font-family: "my_riad_pro_regular";
+	font-size: 1.6em;
+	padding: 5px 25px;
+	text-decoration: none;
+}
+.derecha-energetica-centrado a img{
+	margin-bottom: -3px;
+	margin-left: 5px;
+	width: 15px;
+}
+
+
+
+
+
+
+
+
+
+/*--==================== ESTILOS DE LA SECCION "PODUCTOS" ========================--*/
+.formulario-requerimientos{
+	background-color: #EDEDED;
+	float: left;
+	width: 30%;
+}
+.titulo-formulario{
+	background-color: #2C3D6D;
+}
+.titulo-formulario h2{
+	color: white;
+	font-family: "my_riad_pro_regular";
+	font-weight: lighter;
+	margin: 0;
+	padding: 10px 0;
+	text-align: center;
+}
+.formulario-requerimientos form{
+	font-family: "my_riad_pro_regular";
+	margin: 0 auto;
+	padding: 6% 0;
+	width: 80%;
+}
+.formulario-requerimientos input{
+	border: 1px solid #BDBDBD;
+	height: 20px;
+	margin-bottom: 5%;
+	width: 95%;
+}
+.formulario-requerimientos textarea{
+	border: 1px solid #BDBDBD;
+	width: 93%;
+}
+.boton-naranja{
+	background-color: #D57B2C;
+	border: none;
+	color: white;
+	float: right;
+	font-family: "my_riad_pro_regular";
+	margin-right: 5%;
+	padding: 3px 35px;
+}
+.texto-detalle{
+	float: left;
+	padding: 0 5%;
+	text-align: center;
+	width: 60%;
+}
+.texto-detalle h2{
+	color: #2C3D6D;
+	font-family: "my_riad_pro_regular";
+	font-size: 2.5em;
+	font-weight: lighter;
+	margin: 0;
+	text-align: left;
+}
+.texto-detalle h2 span{
+	font-weight: bold;
+}
+.texto-detalle p{
+	font-family: "my_riad_pro_regular";
+	margin-top: 5%;
+	text-align: justify;
+}
+.texto-detalle img{
+	width: 50%;
+}
+
+
+.contenedor-productos{
+	width: 100%;
+}
+.contenedor-productos h2{
+	color: #2C3D6D;
+	font-family: "my_riad_pro_semibold";
+	font-size: 2em;
+	margin-bottom: 0;
+}
+.contenedor-productos p{
+	color: #2C3D6D;
+	font-family: "my_riad_pro_regular";
+}
+.producto{
+	float: left;
+	text-align: center;
+	width: 48%;
+}
+.producto img{
+	width: 50%;
+}
+.producto h3{
+	font-family: "my_riad_pro_regular";
+	font-weight: normal;
+	text-align: left;
+}
+.producto p{
+	color: #707070;
+	text-align: justify;
+}
+.producto h4{
+	font-family: "my_riad_pro_semibold";
+	font-weight: normal;
+	margin: 10% 0;
+	text-align: left;
+}
+.producto a{
+	text-decoration: none;
+}
+.boton-mas-info{
+	border: 1.5px solid #2B3D6B;
+	color: black;
+	font-family: "my_riad_pro_semibold";
+	padding: 6px 0;
+	text-align: center;
+	width: 100%;
+}
+.boton-mas-info img{
+	margin-bottom: -2px;
+	margin-right: 10px;
+	width: 16px;
+}
+.boton-mas-info:hover{
+	background-color: #2B3D6B;
+}
+.espaciado-producto{
+	margin-right: 4%;
+}
+
+
+.contenedor-representaciones{
+	width: 100%;
+}
+.contenedor-representaciones h2{
+	color: #2C3D6D;
+	font-family: "my_riad_pro_semibold";
+	font-size: 2em;
+	margin-bottom: 0;
+}
+.contenedor-representaciones p{
+	color: #2C3D6D;
+	font-family: "my_riad_pro_regular";
+}
+.representaciones-producto{
+	float: left;
+	width: 48%;
+}
+.representaciones-producto img{
+	width: 100%;
+}
+
+.representaciones-producto h3{
+	font-family: "my_riad_pro_regular";
+	font-weight: normal;
+	margin: 0 auto;
+	margin-bottom: 3%;
+	margin-top: 3%;
+	width: 85%;
+}
+.representaciones-producto p{
+	color: #707070;
+	margin: 0 auto;
+	margin-bottom: 8%;
+	text-align: justify;
+	width: 85%;
+}
+.representaciones-producto a{
+	text-decoration: none;
+}
+.boton-mas-info2{
+	background-color: #2B3D6B;
+	border: none;
+	color: white;
+	font-family: "my_riad_pro_semibold";
+	padding: 6px 0;
+	text-align: center;
+	width: 100%;
+}
+.boton-mas-info2 img{
+	margin-bottom: -2px;
+	margin-right: 10px;
+	width: 16px;
+}
+.espacio-inferior-producto{
+	margin-bottom: 3%;
+}
+
+
+.representaciones-comerciales{
+	position: relative;
+	width: 100%;
+}
+.representaciones-comerciales img{	
+	width: 100%;
+}
+.representaciones-comerciales h2{
+	color: #D57B2C;
+	font-family: "my_riad_pro_regular";
+	font-size: 2.5em;
+	font-weight: lighter;
+	margin: 0;
+	position: absolute;
+	top: 0;
+}
+.representaciones-comerciales h2 span{
+	font-weight: bold;
+}
+.opciones-comerciales{
+	color: white;
+	float: left;
+	margin-top: -5px;
+	padding: 0 1.5%;
+	padding-bottom: 3%;
+	width: 22%;
+}
+.color1{
+	background-color: #486491;
+}
+.color2{
+	background-color: #3F5887;
+}
+.color3{
+	background-color: #384D80;
+}
+.color4{
+	background-color: #2C3D6D;
+}
+.opciones-comerciales h3{
+	font-family: "my_riad_pro_bold";
+	font-size: 1em;
+	margin: 8% 0;
+	text-align: center;
+}
+.opciones-comerciales p{
+	font-family: "my_riad_pro_regular";
+	font-size: 0.8em;
+	margin-bottom: 15%;
+	text-align: justify;
+}
+.opciones-comerciales a{
+	background-color: white;
+	border-radius: 5px;	
+	color: 	#2C3D6D;
+	font-family: "my_riad_pro_semibold";
+	padding: 3px 10px;
+	text-decoration: none;
+}
