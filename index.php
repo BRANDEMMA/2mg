@@ -32,17 +32,17 @@
 
 	<div class="contenido">
 		<div class="presentacion-servicios">
-			<a href=""><div class="representaciones">
+			<a href="representaciones-comerciales.php"><div class="representaciones">
 				<img src="img/fondo-transparente.png">
 			</div></a>
 
-			<a href=""><div class="procurement">
+			<a href="productos.php"><div class="procurement">
 				<img src="img/fondo-transparente.png">
 			</div></a>
 
 			<div class="clear"></div>	
 
-			<a href=""><div class="eficiencia">
+			<a href="soluciones-eficiencia-energetica.php"><div class="eficiencia">
 				<img src="img/fondo-transparente2.png">
 			</div></a>
 		</div>

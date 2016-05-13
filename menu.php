@@ -9,7 +9,7 @@
 </div>
 
 <div class="menu-principal">
-	<img src="img/logo-2mg.gif">
+	<a id="inicio" href="index.php"><img src="img/logo-2mg.gif"></a>
 	<nav>
 		<ul>
 			<li><a href="nosotros.php">Nosotros</a></li>

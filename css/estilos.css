@@ -87,9 +87,12 @@ header{
 .menu-principal{
 	display: flex;
 }
+.menu-principal #inicio{
+	width: 15%;
+}
 .menu-principal img{
 	height: 100%;
-	width: 15%;
+	width: 100%;
 }
 .menu-principal nav{
 	width: 85%;
@@ -109,13 +112,13 @@ header{
 	height: 15px;
 	margin-top: 12px;
 }
-.menu-principal a{
+.menu-principal nav a{
 	color: #2C3D6D;
 	display: block;
 	padding: 10px 10px;
 	text-decoration: none;
 }
-.menu-principal a:hover{
+.menu-principal nav a:hover{
 	color: #D57B2C;
 }
 .menu-principal li ul{
