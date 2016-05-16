@@ -8,7 +8,7 @@
 				<div class="informacion-mapas">
 					<img src="img/direccion.png">
 					<p>Dirección:<br>
-					San isidro Jr. Trujillo norte</p>
+					Jiron Cumbibira, Mz M, Lote 42, Interior 301, Urbanizacion Santiago de Surco, Lima.</p>
 				</div>
 				<div class="informacion-mapas">
 					<img src="img/correo.png">
