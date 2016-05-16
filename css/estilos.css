@@ -840,3 +840,33 @@ footer img{
 	float: left;
 	width: 40%;
 }
+
+/*============RESPONSIVE INICIA===========*/
+@media (max-width: 260px){
+	.izquierda-nosotros p{
+		padding-left: 0%
+	}
+}
+@media (max-width: 280px){
+	.representaciones-comerciales .titulo-arriba{
+		font-size: 2em;
+	}
+	body{
+		width: 150%;
+	}
+}
+@media (max-width: 330px){
+	.contenedor-productos h2{
+		text-align: center;
+	}
+	.contenedor-productos p{
+		text-align: center;
+	}
+}
+@media (max-width: 250px){
+	.opciones-comerciales a{
+		padding:3px 7px;
+	}
+}
+
+/*============RESPONSIVE TERMINA===========*/
