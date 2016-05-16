@@ -28,7 +28,7 @@
 			<div class="clear"></div>
 		</div>
 
-		<div class="mapas espacio-mapas">
+		<div class="mapas espacio-mapas2">
 			<div class="izquierda-mapas">
 				<h3>OFICINA USA <img src="img/bandera-usa.gif"></h3>		
 				<div class="informacion-mapas">

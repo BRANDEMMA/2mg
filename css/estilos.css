@@ -345,7 +345,7 @@ header{
 }
 .mapas{
 	float: left;
-	width: 28%;
+	width: 43%;
 }
 .izquierda-mapas{
 	float: left;
@@ -393,8 +393,12 @@ header{
 }
 .espacio-mapas{
 	border-right: 2px solid #cccbcc;
-	padding-left: 4%;
-	padding-right: 2%;
+	padding-left: 3%;
+	padding-right: 3%;
+}
+.espacio-mapas2{
+	padding-left: 3%;
+	padding-right: 3%;
 }
 
 
