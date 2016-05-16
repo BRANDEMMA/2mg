@@ -34,7 +34,7 @@
 				<div class="informacion-mapas">
 					<img src="img/direccion.png">
 					<p>Dirección:<br>
-					USA Los Angeles California 511</p>
+					20851 Johnson St, Pembroke Pines, FL 33029.</p>
 				</div>
 				<div class="informacion-mapas">
 					<img src="img/correo.png">
@@ -48,7 +48,7 @@
 				</div>
 			</div>
 			<div class="derecha-mapas">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d15605.95413749387!2d-77.0051997!3d-12.07867125!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2spe!4v1462288585293" width="600" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3585.4709791614814!2d-80.42933598497383!3d26.01814158352099!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9a18cdf3f0289%3A0x3df1e235341a6d32!2s2MG+Ingenieria%2C+Comercio+y+Representaciones+SAC!5e0!3m2!1sen!2spe!4v1463425022022" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 			</div>
 
 			<div class="clear"></div>
