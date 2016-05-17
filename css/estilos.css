@@ -842,6 +842,18 @@ footer img{
 }
 
 /*============RESPONSIVE INICIA===========*/
+@media (max-width: 500px){
+	.texto-detalle h2{
+		font-size: 1.5em;
+	}
+	.texto-detalle p{
+		font-size: 1em;
+	}
+	.titulo-formulario h2{
+		font-size: 1em;
+	}
+}
+
 @media (max-width: 450px){
 	.contenedor-productos h2{
 		text-align: center;
