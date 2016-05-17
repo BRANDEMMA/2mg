@@ -842,31 +842,48 @@ footer img{
 }
 
 /*============RESPONSIVE INICIA===========*/
-@media (max-width: 260px){
-	.izquierda-nosotros p{
-		padding-left: 0%
-	}
-}
-@media (max-width: 280px){
-	.representaciones-comerciales .titulo-arriba{
-		font-size: 2em;
-	}
-	body{
-		width: 150%;
-	}
-}
-@media (max-width: 330px){
+@media (max-width: 450px){
 	.contenedor-productos h2{
 		text-align: center;
 	}
 	.contenedor-productos p{
 		text-align: center;
 	}
-}
-@media (max-width: 250px){
-	.opciones-comerciales a{
-		padding:3px 7px;
+	.texto-detalle img{
+		width: 40%;
 	}
 }
 
+@media (max-width: 710px){
+	.izquierda-nosotros p{
+		padding-left: 0%;
+	}
+	.derecha-nosotros img{
+		padding-top: 32%;
+	}
+}
+
+@media (max-width: 395px){
+	.texto-detalle h2{
+		font-size: 2em;
+		text-align: center;
+	}
+	.titulo-formulario h2{
+		padding: 1px 0px;
+		font-size: 1.5em;
+	}
+	.boton-naranja{
+		margin-right: -9%;
+		padding: 11px 35px;
+	}
+}
+
+@media (max-width: 370px){
+	.opciones-comerciales a{
+		padding: 3px 8px;	
+	}
+	.opciones-comerciales p{
+		text-align: center;
+	}
+}
 /*============RESPONSIVE TERMINA===========*/
