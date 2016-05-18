@@ -33,8 +33,11 @@
 			<div class="derecha-energetica-centrado">
 				<h2 class="tit-part1">Soluciones de</h2>
 				<h2 class="tit-part2">Eficiencia <span>Energética</span></h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet, ac vulputate ipsum faucibus. Duis ut eleifend neque. Integer molestie augue est. Donec sit amet justo at mi elementum bibendum. Quisque in egestas ipsum. Integer vel bibendum orci. Aliquam cursus, tortor vel ultricies pretium, metus sem congue enim.</p>
-				<p class="texto-azul espaciado">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet, ac vulputate ipsum faucibus. Duis ut eleifend neque.</p>
+				<p>La eficiencia energética consiste en obtener el mejor desempeño en la producción de un material o servicio con el menor gasto de energía. Como ejemplo de acción, consta la modernización de equipos en el sentido de reducción de consumo de energía. Los programas para el consumo consciente también contribuyen para el desarrollo de la economía.<br><br>
+				Gran parte de la energía es empleada en la fabricación de los productos que utilizamos, especialmente los que llevan como materia prima papel, aluminio, vidrio y acero. Por lo tanto, acciones de reutilización y reciclaje también ayudan a ahorrar energía. Del mismo modo, la energía es utilizada en el bombeo de agua, lo que se ahorrada, disminuye el consumo energético.<br><br>
+				Como parte de los trabajos y servicios que ofrecemos, tenemos la capacidad de efectuar estudios de viabilidad económica para cambio de focos de iluminación por luces LED, contribuyendo, de esto modo, con la preservación del ambiente y añadiendo mejoras en la economía Peruana.</p>
+				
+				<!-- <p class="texto-azul espaciado">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet, ac vulputate ipsum faucibus. Duis ut eleifend neque.</p> -->
 
 				<div class="contenedor-caracteristicas">
 					<div class="caracteristicas foco">
@@ -66,9 +69,9 @@
 					<a href="">Escríbenos <img src="img/flecha-derecha-blanca.png"></a>
 				</div>
 
-				<p class="texto-azul espaciado">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet.</p>
+				<!-- <p class="texto-azul espaciado">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet.</p>
 
-				<p class="texto-azul">Lorem ipsum dolor <span>sit amet</span>.</p>
+				<p class="texto-azul">Lorem ipsum dolor <span>sit amet</span>.</p> -->
 			</div>
 		</div>
 

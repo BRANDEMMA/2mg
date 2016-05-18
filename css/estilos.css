@@ -260,6 +260,33 @@ header{
 }
 
 
+.izquierda-nosotros2{
+	float: left;
+	width: 100%;
+}
+.izquierda-nosotros2 img{
+	width: 100%;
+}
+.derecha-nosotros2{
+	background-color: #F4F3F3;
+	float: left;
+	width: 100%;
+}
+.derecha-nosotros-centrado{
+	margin: 0 auto;
+	padding-top: 3%;
+	width: 90%;
+}
+.derecha-nosotros-centrado h2{
+	color: #2C3D6D;
+	font-family: "my_riad_pro_regular";
+	font-size: 2em;
+	font-weight: normal;
+	margin: 0;
+}
+.derecha-nosotros-centrado p{
+	font-family: "my_riad_pro_regular";
+}
 
 
 
@@ -420,7 +447,8 @@ footer p{
 	text-align: center;
 }
 footer img{
-	width: 10%;
+	margin-bottom: -7px;
+	width: 8%;
 }
 
 
@@ -479,8 +507,8 @@ footer img{
 .derecha-energetica-centrado p{
 	font-family: "my_riad_pro_regular";
 }
-.derecha-energetica-centrado p span{
-	color: #D57B2C;
+.texto-gris{
+	color: #707070;
 }
 .texto-azul{
 	color: #2C3D6D;
@@ -779,13 +807,20 @@ footer img{
 .representaciones-comerciales .titulo-arriba span{
 	font-weight: bold;
 }
-.opciones-comerciales{
+.opciones-comerciales1{
 	color: white;
 	float: left;
 	margin-top: -5px;
 	padding: 0 1.5%;
 	padding-bottom: 3%;
-	width: 22%;
+	width: 97%;
+}
+.opciones-comerciales{
+	color: white;
+	float: left;
+	padding: 0 1.5%;
+	padding-bottom: 3%;
+	width: 47%;
 }
 .color1{
 	background-color: #486491;
@@ -799,17 +834,41 @@ footer img{
 .color4{
 	background-color: #2C3D6D;
 }
+.opciones-comerciales1 h3{
+	font-family: "my_riad_pro_bold";
+	font-size: 1em;
+	margin: 2% 0;
+	text-align: center;
+}
+.opciones-comerciales1 h4{
+	font-family: "my_riad_pro_bold";
+	font-size: 1em;
+}
 .opciones-comerciales h3{
 	font-family: "my_riad_pro_bold";
 	font-size: 1em;
-	margin: 8% 0;
+	margin: 4% 0;
 	text-align: center;
+}
+.opciones-comerciales1 p{
+	font-family: "my_riad_pro_regular";
+	font-size: 0.8em;
+	margin-bottom: 3%;
+	text-align: justify;
 }
 .opciones-comerciales p{
 	font-family: "my_riad_pro_regular";
 	font-size: 0.8em;
-	margin-bottom: 15%;
+	margin-bottom: 10%;
 	text-align: justify;
+}
+.opciones-comerciales1 a{
+	background-color: white;
+	border-radius: 5px;	
+	color: 	#2C3D6D;
+	font-family: "my_riad_pro_semibold";
+	padding: 3px 10px;
+	text-decoration: none;
 }
 .opciones-comerciales a{
 	background-color: white;

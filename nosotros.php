@@ -26,22 +26,24 @@
 	</header>
 	
 	<div class="contenido linea-energetica">
-		<div class="izquierda-energetica">
-			<img src="img/solucion-energetica-2mg.jpg">
+		<div class="izquierda-nosotros2">
+			<img src="img/construccion-altamira.jpg">
 		</div>
-		<div class="derecha-energetica">
-			<div class="derecha-energetica-centrado">
+		<div class="derecha-nosotros2">
+			<div class="derecha-nosotros-centrado">
 				<h2>Nosotros</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet, ac vulputate ipsum faucibus. Duis ut eleifend neque. Integer molestie augue est. Donec sit amet justo at mi elementum bibendum. Quisque in egestas ipsum. Integer vel bibendum orci. Aliquam cursus, tortor vel ultricies pretium, metus sem congue enim.</p>
-				<p class="texto-azul espaciado">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet, ac vulputate ipsum faucibus. Duis ut eleifend neque.</p>
+				<p class="texto-gris espaciado">Somos una empresa peruana cuyos socios fundadores son brasileños inmigrantes en Perú hace mas de 10 años y nos dedicamos a actividades de importación y exportación de productos, servicios y soluciones en Procurement de Ingenieria.<br><br>
+				Iniciamos nuestras operaciones en el ano 2015 y nuestra misión ‘es ser una empresa de importación y exportación de productos, servicios y tecnologías de alta gama para el mercado Peruano y Sudamérica.<br><br>
+				Somos una empresa joven, dinámica y que detiene conocimiento técnico necesario para brindar atención en el mercado Peruano y Sudamérica, ofreciendo soluciones y sinergia en logística de manera completa y satisfactoria para nuestros clientes.</p>
 
-				<div class="escribenos">
-					<a href="">Escríbenos <img src="img/flecha-derecha-blanca.png"></a>
-				</div>
+				<h2>Misión</h2>
+				<p class="texto-gris espaciado">Promocionar negocios con empresas nacionales y extranjeras exportadoras y importadores de productos, equipamientos y nuevas tecnologías, relacionadas a las áreas de Construcción/Infraestructura y Industrial, cuya calidad sea superior a los existentes localmente, que propicien mejorías en los procesos productivos de la economía Peruana, tornando-a competitiva a nivel mundial.</p>
 
-				<p class="texto-azul espaciado">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet.</p>
+				<h2>Visión</h2>
+				<p class="texto-gris espaciado">Desarollar relaciones comerciales duraderas con nuestros clientes y proveedores, ajustandose a la necesidad de ellos.</p>
 
-				<p class="texto-azul">Lorem ipsum dolor <span>sit amet</span>.</p>
+				<h2>Valores</h2>
+				<p class="texto-gris espaciado">Transparencia en las negociaciones, cumplimento de plazos y satisfacción de los clientes y proveedores.</p>
 			</div>
 		</div>
 
