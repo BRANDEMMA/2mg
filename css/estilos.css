@@ -287,8 +287,79 @@ header{
 .derecha-nosotros-centrado p{
 	font-family: "my_riad_pro_regular";
 }
+.asociados{
+	margin-bottom: 6%;
+	margin-top: 3%;
+	width: 30%;
+}
+.espacio-asociados{
+	margin: 3% 4.5% 6% 4.5%;
+}
+/*EFECTO DE FILTRO ESCALA DE GRISES (INICIO)*/
+.asociados{
+	filter: url('#grayscale'); /* Versión SVG para IE10, Chrome 17, FF3.5, Safari 5.2 and Opera 11.6 */
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	-ms-filter: grayscale(100%);
+	-o-filter: grayscale(100%);
+	filter: grayscale(100%); /* Para cuando es estándar funcione en todos */
+	filter: Gray(); /* IE4-8 and 9 */
+}
+.asociados:hover{
+	-webkit-filter: grayscale(0%);
+	-moz-filter: grayscale(0%);
+	-ms-filter: grayscale(0%);
+	-o-filter: grayscale(0%);
+	filter: none;
+
+	-webkit-transition: all 0.7s ease;
+	-moz-transition: all 0.7s ease;
+	-ms-transition: all 0.7s ease;
+	-o-transition: all 0.7s ease;
+	transition: all 0.7s ease;
+}
+/*EFECTO DE FILTRO ESCALA DE GRISES (TERMINA)*/
 
 
+/*--==================== ESTILOS DE LA INFORMACION DE SOCIO (INICIA) ========================--*/
+.detalle-socio{
+	background-color: #F4F3F3;
+	border-radius: 15px;
+	font-family: "my_riad_pro_regular";
+	margin: 0 auto;
+	margin-bottom: 5%;
+	margin-top: 3%;
+	padding: 5%;
+	width: 50%;
+}
+.detalle-socio img{
+	border: 3px solid #2C3D6D;
+	float: left;
+	margin-right: 5%;
+	width: 29%;
+}
+.informacion-socio{
+	float: left;
+	width: 65%;
+}
+.informacion-socio h2{
+	color: #2C3D6D;
+	font-size: 2em;
+	margin: 0;
+}
+.informacion-socio h4{
+	color: #2C3D6D;
+	font-size: 1.2em;
+	margin-top: 0;
+}
+.informacion-socio a{
+	color: #2C3D6D;
+	text-decoration: none;
+}
+.informacion-socio p{
+	text-align: justify;
+}
+/*--==================== ESTILOS DE LA INFORMACION DE SOCIO (TERMINA) ========================--*/
 
 
 
@@ -553,12 +624,12 @@ footer img{
 .caracteristicas img:nth-child(2){
 	height: 25px;
 	margin-right: 1%;
-	margin-top: 9px;
+	margin-top: 1%;
 	width: 10px;
 }
 .caracteristicas p{
 	margin: 0;
-	padding-top: 3px;
+	padding-top: 2%;
 }
 .escribenos{
 	margin-bottom: 8%;
@@ -811,16 +882,16 @@ footer img{
 	color: white;
 	float: left;
 	margin-top: -5px;
-	padding: 0 1.5%;
+	padding: 0 5%;
 	padding-bottom: 3%;
-	width: 97%;
+	width: 90%;
 }
 .opciones-comerciales{
 	color: white;
 	float: left;
-	padding: 0 1.5%;
+	padding: 0 5%;
 	padding-bottom: 3%;
-	width: 47%;
+	width: 40%;
 }
 .color1{
 	background-color: #486491;
@@ -836,29 +907,29 @@ footer img{
 }
 .opciones-comerciales1 h3{
 	font-family: "my_riad_pro_bold";
-	font-size: 1em;
+	font-size: 2em;
 	margin: 2% 0;
 	text-align: center;
 }
 .opciones-comerciales1 h4{
 	font-family: "my_riad_pro_bold";
-	font-size: 1em;
+	font-size: 2em;
 }
 .opciones-comerciales h3{
 	font-family: "my_riad_pro_bold";
-	font-size: 1em;
+	font-size: 2em;
 	margin: 4% 0;
 	text-align: center;
 }
 .opciones-comerciales1 p{
 	font-family: "my_riad_pro_regular";
-	font-size: 0.8em;
+	font-size: 1em;
 	margin-bottom: 3%;
 	text-align: justify;
 }
 .opciones-comerciales p{
 	font-family: "my_riad_pro_regular";
-	font-size: 0.8em;
+	font-size: 1em;
 	margin-bottom: 10%;
 	text-align: justify;
 }

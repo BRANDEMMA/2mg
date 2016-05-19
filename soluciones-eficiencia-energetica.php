@@ -43,25 +43,25 @@
 					<div class="caracteristicas foco">
 						<img src="img/foco.png"> 
 						<img src="img/corchete.png"> 
-						<p>Ahorro en Energia Lorem ipsum dolor sit amet lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						<p>Mejor desempeño en la producción.</p>
 					</div>
 
 					<div class="caracteristicas rayo">
 						<img src="img/rayo.png"> 
 						<img src="img/corchete.png"> 
-						<p>Energia Lorem ipsum dolor sit amet lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						<p>Menor gasto de energía.</p>
 					</div>
 
 					<div class="caracteristicas esquema">
 						<img src="img/esquema.png"> 
 						<img src="img/corchete.png"> 
-						<p>Mejores coneciones lorem ipsum dolor sit amet lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						<p>Estudios de viabilidad económica para cambio de iluminación.</p>
 					</div>
 
 					<div class="caracteristicas precaucion">
 						<img src="img/precaucion.png"> 
 						<img src="img/corchete.png"> 
-						<p>Menor Riesgo Lorem ipsum dolor sit amet lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						<p>Reducción de consumo de energía.</p>
 					</div>
 				</div>
 
