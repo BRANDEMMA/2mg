@@ -6,7 +6,7 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG</title>
+	<title>2MG - PRODUCTOS</title>
 	<meta name="author" content="Brandemma" />
 	<meta name="description" content="" />
 
@@ -69,16 +69,16 @@
 		</div>
 
 		<div class="texto-detalle">
-			<h2>Procurement en <span>Ingeniería</span></h2>
+			<h2>Procurement en <span>Ingeniería</span></h2><img src="img/ingeniero.jpg">
 			<p>Proveemos asesoría en Procurement, ofreciendo a nuestros clientes agilidad en los procesos internos de compras, garantizando las mejores practicas para la administración de la cadena de suministros (Supply Chain Management) esenciales para que estos dediquen su tiempo al core business de las empresas, respectando las políticas de selección de proveedores implementados por estos (Compliance).<br><br>
-El abastecimiento o aprovisionamiento (procurement) es la función logística mediante la cual se provee a una empresa de todo el material necesario para su funcionamiento. Su concepto es sinónimo de provisión o suministro.<br><br>
-Las actividades incluidas dentro de este proceso son:<br><br>
-Cálculo de necesidades : Planeamiento Logístico y de Consumo<br>
-Compra o Adquisición: Realiza las adquisiciones (obtención, almacenamiento, control stock y utilización de desperdicios)<br><br>
-El abastecimiento (Procurement) es una de las funciones comunes básicas de cualquier organización, puesto que cada una de ellas depende - si bien en mayor o menor grado - de los materiales y suministros de otras empresas. Ninguna organización es autosuficiente. <br><br>
-Está claro que el área de Procurement de cualquier empresa juega un rol importante, y que, sobre todo, influye de manera relevante en los costos de la misma y por consiguiente en los precios también, lo cual, a su vez, repercute en la capacidad de mantenerse en el mercado y competir. El éxito de una empresa, creada para ofrecer productos en el mercado, depende en gran medida de que pueda lograr una combinación razonable de la cantidad, la calidad, la oportunidad y el costo de los bienes o servicios que produce, lo que estimula que nuestra empresa ofrezca  estos servicios en el mercado Peruano.
-</p>
-			<img src="img/ingeniero.jpg">
+			El abastecimiento o aprovisionamiento (procurement) es la función logística mediante la cual se provee a una empresa de todo el material necesario para su funcionamiento. Su concepto es sinónimo de provisión o suministro.<br><br>
+			Las actividades incluidas dentro de este proceso son:<br><br>
+			Cálculo de necesidades : Planeamiento Logístico y de Consumo<br>
+			Compra o Adquisición: Realiza las adquisiciones (obtención, almacenamiento, control stock y utilización de desperdicios)<br><br>
+			El abastecimiento (Procurement) es una de las funciones comunes básicas de cualquier organización, puesto que cada una de ellas depende - si bien en mayor o menor grado - de los materiales y suministros de otras empresas. Ninguna organización es autosuficiente. <br><br>
+			Está claro que el área de Procurement de cualquier empresa juega un rol importante, y que, sobre todo, influye de manera relevante en los costos de la misma y por consiguiente en los precios también, lo cual, a su vez, repercute en la capacidad de mantenerse en el mercado y competir. El éxito de una empresa, creada para ofrecer productos en el mercado, depende en gran medida de que pueda lograr una combinación razonable de la cantidad, la calidad, la oportunidad y el costo de los bienes o servicios que produce, lo que estimula que nuestra empresa ofrezca  estos servicios en el mercado Peruano.
+			</p>
+			
 		</div>
 
 		<div class="clear"></div>
@@ -91,17 +91,37 @@ Está claro que el área de Procurement de cualquier empresa juega un rol import
 			<div class="productos-centrados">
 				<div class="producto espaciado-producto">
 					<img src="img/arena-antifog-2mg.jpg">
-					<h3>ARENA ANTIFOG – LIQUIDO ANTIPANENTE</h3>
-					<p>Desempañar gafas de buceó, actividades de natación, lentes de seguridad de actividades industriales (minería)</p>
-					<h4>CODIGO: 97590</h4>
+					<h3><strong> ARENA ANTIFOG – LIQUIDO ANTIEMPAÑANTE</strong></h3>
+					<p><strong>
+						Fabricante:
+					</strong>
+						Arenas
+						<br>
+					<strong>
+						País Procedencia:
+					</strong>EEUU
+					<br>
+					</p>
+					<p><strong>Para que sirve:</strong> Desempañar gafas de buceó, actividades de natación, lentes de seguridad de actividades industriales (minería).</p>
+					
 					<a href="arena-antifog.php"><div class="boton-mas-info"><!-- <img src="img/ver-mas-negro.png"> -->+ MÁS INFO.</div></a>
 				</div>
 
 				<div class="producto">
 					<img src="img/ad-titanium-2mg.jpg">
-					<h3>AD TITANIUM - ADITIVO EN POLVO PARA CONCRETO</h3>
-					<p>Reduz el consumo de água em la mezcla –Disminue la retracción – aumenta la compacidade - Reduz la permeabilidad - Aumenta la resistencia y modulo - Reduz Teor de Cemento -Reduz la reacción Álcali – Agregado – aumenta la durabilidade de la Estrutura – Gano de altas Resistencias Iniciales –Reduccion del custo general de la Obra</p>
-					<h4>CODIGO: 97590</h4>
+					<h3><strong> AD Titanium – Aditivo en Polvo para Concreto</strong></h3>
+					<p><strong>
+						Fabricante:
+					</strong>
+						Effectus Industria y Comercio Ltda
+						<br>
+					<strong>
+						Embalaje:
+					</strong>Bolsas de 25, 50 Kg o Big Bag
+					<br>
+					</p>
+					<p><strong>Para que sirve:</strong> Reduce el consumo de água en la mezcla. Disminuye la retracción y aumenta la compacidad, Reduce la permeabilidad - Aumenta la resistencia y modulo - Reduz Teor de Cemento -Reduz la reacción Álcali – Agregado – aumenta la durabilidade de la Estrutura – Gano de altas Resistencias Iniciales –Reduccion del custo general de la Obra.
+</p>
 					<a href="ad-titanium.php"><div class="boton-mas-info"><!-- <img src="img/ver-mas-negro.png"> -->+ MÁS INFO.</div></a>
 				</div>
 

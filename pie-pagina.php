@@ -58,7 +58,7 @@
 	</div>
 
 	<footer>
-		<p>Diseñado por <a href="http://brandemma.com/" target="_blank"><img src="img/brandemma.gif"></a></p>
+		<p>Diseñado por <a href="http://brandemma.com/" target="_blank"><img src="img/logo-brandemma2.png"></a></p>
 	</footer>
 
 <?php

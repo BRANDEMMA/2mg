@@ -167,7 +167,7 @@ header{
 	float: left;
 	height: 100%;
 	margin-right: 2%;
-	transition: all 0.5s;
+	transition: all 0.2s;
 	width: 49%;
 }
 .representaciones img{
@@ -182,7 +182,7 @@ header{
 	background-size: 200% 100%;
 	float: left;
 	height: 100%;
-	transition: all 0.5s;
+	transition: all 0.2s;
 	width: 49%;
 }
 .procurement img{
@@ -193,10 +193,10 @@ header{
 }
 .eficiencia{
 	background: url(../img/eficiencia-energetica-2mg.jpg) no-repeat left;
-	background-position: 0 100%;
-	background-size: 200% 100%;
+	background-position: 100% 100%;
+	background-size: 100% 200%;
 	margin-top: 2%;
-	transition: all 0.3s;
+	transition: all 0.2s;
 	height: 50%;
 	width: 100%;
 }
@@ -205,7 +205,7 @@ header{
 	width: 100%;
 }
 .eficiencia:hover{
-	background-position: 100% 100%;
+	background-position: 100% 0%;
 }
 
 
@@ -411,7 +411,7 @@ header{
 	text-align: center;
 }
 .error {
-	color: red;
+	color: #2c3d6d;
 	display: none;
 	font-family: "my_riad_pro_regular";
 	padding-top: 5px;
@@ -511,14 +511,17 @@ footer{
 	width: 100%;
 }
 footer p{
-	color: #2c3d6d;
+	color: white;
+	background-color: #1a3966;
 	font-family: "my_riad_pro_regular";
 	margin: 0;
 	padding: 10px 0;
 	text-align: center;
+	font-size: 0.8em; 
 }
 footer img{
-	margin-bottom: -7px;
+	margin-bottom: -3px;
+	margin-left: 5px;
 	width: 8%;
 }
 
