@@ -845,7 +845,7 @@ footer img{
 	color: #2C3D6D;
 	font-family: "my_riad_pro_semibold";
 	font-size: 2em;
-	margin-bottom: 0;
+	margin-bottom: 3%;
 }
 .contenedor-productos p{
 	color: #2C3D6D;
@@ -856,12 +856,18 @@ footer img{
 	width: 70%;
 }
 .producto{
+	border: 2px solid #6C6E6D;
+	border-radius: 20px;
 	float: left;
+	padding: 5% 8%;
 	text-align: center;
-	width: 48%;
+	width: 31%;
+}
+.producto .img-producto{
+	width: 59%;
 }
 .producto img{
-	width: 50%;
+	width: 100%;
 }
 .producto h3{
 	font-family: "my_riad_pro_regular";
@@ -910,7 +916,7 @@ footer img{
 	color: #2C3D6D;
 	font-family: "my_riad_pro_semibold";
 	font-size: 2em;
-	margin-bottom: 0;
+	margin-bottom: 3%;
 }
 .contenedor-representaciones p{
 	color: #2C3D6D;

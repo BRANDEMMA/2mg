@@ -16,6 +16,12 @@
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (TERMINA)  =====================-->
 
+	<!--================== 	ENLACE ICONO (INICIA)  =====================-->
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+	<!--================== 	ENLACE ICONO (TERMINA)  =====================-->
+
 </head>
 
 <body>
@@ -85,12 +91,10 @@
 
 		<div class="contenedor-productos"><a name="productos"></a>
 			<h2>Productos</h2>
-			<p>Lorem Ipsum es simplemente el texto de relleno<br>
-			de las imprentas y archivos de texto.</p>
 
 			<div class="productos-centrados">
 				<div class="producto espaciado-producto">
-					<img src="img/arena-antifog-2mg.jpg">
+					<img src="img/spray-anti-fog.jpg">
 					<h3><strong> ARENA ANTIFOG – LIQUIDO ANTIEMPAÑANTE</strong></h3>
 					<p><strong>
 						Fabricante:
@@ -108,7 +112,7 @@
 				</div>
 
 				<div class="producto">
-					<img src="img/ad-titanium-2mg.jpg">
+					<img class="img-producto" src="img/bolsoadtitanium.jpg">
 					<h3><strong> AD Titanium – Aditivo en Polvo para Concreto</strong></h3>
 					<p><strong>
 						Fabricante:
@@ -130,22 +134,33 @@
 		</div>
 
 		<div class="contenedor-representaciones"><a name="representaciones"></a>
-			<h2>Representaciones</h2>
-			<p>Lorem Ipsum es simplemente el texto de relleno<br>
-			de las imprentas y archivos de texto.</p>
+			<h2 class="espaciado-repre">Representaciones</h2>
 
 			<div class="representaciones-producto espaciado-producto">
-				<img src="img/productos-2mg.jpg">
-				<h3>REPRESENTACIONES DE PRODUCTO</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lacinia quam a orci posuere porttitor. Donec eu enim eros. Quisque vitae justo at augue sollicitudin egestas eget ac tellus. Ut dignissim turpis eget arcu rutrum mollis. In dignissim eget velit sit amet tempor. Phasellus iaculis libero tortor, sed semper neque porttitor vel. Aliquam quis turpis egestas, efficitur ligula ut, cursus ex. Phasellus et tristique turpis, at commodo mauris. Vestibulum eget mollis lacus.</p>
-				<a href="representaciones-productos.php"><div class="boton-mas-info2"><!-- <img src="img/ver-mas-blanco.png"> -->+ MÁS INFO.</div></a>
+				<div class="empresas-derecha borde-inferior">
+					<div class="titulo">
+						<h2>WODON -  <span>Wear Resistant Material Professional Manufacturer</span></h2>
+					</div>
+					<div class="descripcion-empresa">
+						<p><img src="img/wodon.jpg">Tianjin Wodon Wear Resistant Material Co., Ltd (CHINA WODON). located in the northern international shipping center TIANJlN, which specialized in research, development, production and sales wear-resistant material, and have many years experience in this field. Now the company owns over 100 employees, has anual  output 60,000 square meters of wear plate and 8,000 metric tons of welding consumables.</p>
+						<a class="boton-empresas" href="http://chinawodon.com/ENGLISH/" target="_blank">WEB</a> <a class="boton-empresas" href="" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a>
+						<div class="clear"></div>
+					</div>
+				</div>
+				
 			</div>
 
 			<div class="representaciones-producto">
-				<img src="img/insumos-2mg.jpg">
-				<h3>REPRESENTACIONES DE INSUMOS</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lacinia quam a orci posuere porttitor. Donec eu enim eros. Quisque vitae justo at augue sollicitudin egestas eget ac tellus. Ut dignissim turpis eget arcu rutrum mollis. In dignissim eget velit sit amet tempor. Phasellus iaculis libero tortor, sed semper neque porttitor vel. Aliquam quis turpis egestas, efficitur ligula ut, cursus ex. Phasellus et tristique turpis, at commodo mauris. Vestibulum eget mollis lacus.</p>
-				<a href="representaciones-insumos.php"><div class="boton-mas-info2"><!-- <img src="img/ver-mas-blanco.png"> -->+ MÁS INFO.</div></a>
+				<div class="empresas-derecha borde-inferior">
+					<div class="titulo">
+						<h2>EFFECTUS -  <span>Seu Parceiro Na Construçáo</span></h2>
+					</div>
+					<div class="descripcion-empresa">
+						<p><img src="img/logoeffectus.jpg">Effectus Indústria e Comércio Ltda., fundada em agosto/1993 , constantemente vem procurando renovar sua linha de produtos para tratamento e recuperação de concretos em geral . Com 100% de capital brasileiro, destina todo o seu trabalho na busca de novas tecnologias em produtos e sistemas para tratamento de concreto.</p>
+						<a class="boton-empresas" href="http://www.effectus.com.br/" target="_blank">WEB</a> <a class="boton-empresas" href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a>
+						<div class="clear"></div>
+					</div>
+				</div>
 			</div>
 
 			<div class="clear"></div>
