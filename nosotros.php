@@ -74,7 +74,8 @@
 						<div class="derecha-socios">
 							<h3>Fabio Elias</h3>
 							<h4>Ingeniero Civil</h4>
-							<p>askjd llkajslkdj lajdl ajl djas ldkj ñlkjs ñdlkajsñdlkja ñlskdj ñalksjd ñlaskj ñlaljsdñlaj sssd.</p>
+							<p>Especialista en Derecho de Arbitraje. Asesor en Ingeniería, procesos de Conciliación…
+</p>
 							<a class="ver-socio" href="fabio-elias.php">VER MÁS +</a>
 						</div>
 						<div class="clear"></div>
@@ -87,7 +88,8 @@
 						<div class="derecha-socios">
 							<h3>Ernani Mota</h3>
 							<h4>Ingeniero Civil</h4>
-							<p>askjd llkajslkdj lajdl ajl djas ldkj ñlkjs ñdlkajsñdlkja ñlskdj ñalksjd ñlaskj ñlaljsdñlaj sssd.</p>
+							<p>Especialista en Gerencia de ingeniería de obras viales, portuarias y de centros de abastecimiento humano...
+</p>
 							<a class="ver-socio" href="ernani-mota.php">VER MÁS +</a>
 						</div>
 						<div class="clear"></div>
@@ -100,7 +102,7 @@
 						<div class="derecha-socios">
 							<h3>Jayme Girio de Almeida</h3>
 							<h4>Ingeniero Mecánico</h4>
-							<p>askjd llkajslkdj lajdl ajl djas ldkj ñlkjs ñdlkajsñdlkja ñlskdj ñalksjd ñlaskj ñlaljsdñlaj sssd.</p>
+							<p>Especialista en gestión logística de proyectos, coordinanciones de empresas comerciales... </p>
 							<a class="ver-socio" href="jayme-girio-de-almeida.php">VER MÁS +</a>
 						</div>
 						<div class="clear"></div>
