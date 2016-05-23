@@ -75,43 +75,39 @@
 							<h3>Fabio Elias</h3>
 							<h4>Ingeniero Civil</h4>
 							<p>askjd llkajslkdj lajdl ajl djas ldkj ñlkjs ñdlkajsñdlkja ñlskdj ñalksjd ñlaskj ñlaljsdñlaj sssd.</p>
-							<a class="ver-socio" href="">VER MÁS +</a>
+							<a class="ver-socio" href="fabio-elias.php">VER MÁS +</a>
 						</div>
 						<div class="clear"></div>
 					</div>
-				</div>
 
-				<div class="contenedor-asociados">
+					<div class="socios espacio-socios">
+						<div class="izquierda-socios">
+							<img src="img/fabio-elias.jpg">
+						</div>
+						<div class="derecha-socios">
+							<h3>Ernani Mota</h3>
+							<h4>Ingeniero Civil</h4>
+							<p>askjd llkajslkdj lajdl ajl djas ldkj ñlkjs ñdlkajsñdlkja ñlskdj ñalksjd ñlaskj ñlaljsdñlaj sssd.</p>
+							<a class="ver-socio" href="ernani-mota.php">VER MÁS +</a>
+						</div>
+						<div class="clear"></div>
+					</div>
+
 					<div class="socios">
 						<div class="izquierda-socios">
 							<img src="img/fabio-elias.jpg">
 						</div>
 						<div class="derecha-socios">
-							<h3>Fabio Elias</h3>
-							<h4>Ingeniero Civil</h4>
+							<h3>Jayme Girio de Almeida</h3>
+							<h4>Ingeniero Mecánico</h4>
 							<p>askjd llkajslkdj lajdl ajl djas ldkj ñlkjs ñdlkajsñdlkja ñlskdj ñalksjd ñlaskj ñlaljsdñlaj sssd.</p>
-							<a class="ver-socio" href="">VER MÁS +</a>
+							<a class="ver-socio" href="jayme-girio-de-almeida.php">VER MÁS +</a>
 						</div>
 						<div class="clear"></div>
 					</div>
-				</div>
 
-				<div class="contenedor-asociados">
-					<div class="socios">
-						<div class="izquierda-socios">
-							<img src="img/fabio-elias.jpg">
-						</div>
-						<div class="derecha-socios">
-							<h3>Fabio Elias</h3>
-							<h4>Ingeniero Civil</h4>
-							<p>askjd llkajslkdj lajdl ajl djas ldkj ñlkjs ñdlkajsñdlkja ñlskdj ñalksjd ñlaskj ñlaljsdñlaj sssd.</p>
-							<a class="ver-socio" href="">VER MÁS +</a>
-						</div>
-						<div class="clear"></div>
-					</div>
+					<div class="clear"></div>
 				</div>
-
-				<div class="clear"></div>
 			</div>
 		</div>
 
