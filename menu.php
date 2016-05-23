@@ -25,7 +25,7 @@
 				</ul>
 			</li>
 			<li class="lineas"></li>
-			<li><a href="#contacto">Contacto</a></li>
+			<li><a href="index.php#contacto">Contacto</a></li>
 		</ul>
 	</nav>
 </div>

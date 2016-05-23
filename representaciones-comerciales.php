@@ -55,7 +55,7 @@
 
 				<ul id="accordion" class="accordion">
 				<li>
-					<div class="link"><span>&#62;</span> Suministros <strong>Industriales</strong><a class="descarga-dossier" href="" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a></div>
+					<div class="link"><span>&#62;</span> Suministros <strong>Industriales</strong><a class="descarga-dossier" href="pdf/industria.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a></div>
 					<ul class="submenu" id="industria">
 						<li>
 							<img src="img/logos/a1.gif">
@@ -103,7 +103,7 @@
 					<div class="clear"></div>
 				</li>
 				<li>
-					<div class="link"><span>&#62;</span> Suministros <strong>Quimicos</strong><a class="descarga-dossier" href="" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a></div>
+					<div class="link"><span>&#62;</span> Suministros <strong>Quimicos</strong><a class="descarga-dossier" href="pdf/quimica.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a></div>
 					<ul class="submenu">
 						<li>
 							<img src="img/logos/b1.gif">
@@ -141,7 +141,7 @@
 					<div class="clear"></div>
 				</li>
 				<li>
-					<div class="link"><span>&#62;</span> Repuestos para <strong>Equipos</strong><a class="descarga-dossier" href="" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a></div>
+					<div class="link"><span>&#62;</span> Repuestos para <strong>Equipos</strong><a class="descarga-dossier" href="pdf/logistica.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a></div>
 					<ul class="submenu">
 						<li>
 							<img src="img/logos/c1.gif">
