@@ -1,14 +1,14 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="es">
 
 <head>
 	<html lang="es">
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG</title>
+	<title>2MG - Representaciones Comerciales</title>
 	<meta name="author" content="Brandemma" />
-	<meta name="description" content="" />
+	<meta name="description" content="2MG brinda el servicio y solución de Representaciones Comerciales y reventa de materiales. Realizando soluciones inmediatas para el área de logística." />
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -25,10 +25,10 @@
 		?>
 	</header>
 
-	<div class="contenido">
+	<div class="contenido"><h2 class="titulo-arriba">Representaciones <span>Comerciales</span></h2>
 		<div class="representaciones-comerciales linea-energetica">
 			<img src="img/representaciones-comerciales-2-2mg.jpg">
-			<h2 class="titulo-arriba">Representaciones <span>Comerciales</span></h2>
+			
 			<div class="opciones-comerciales1 color1">
 				<h3>Representaciones Comerciales y Soluciones Inmediatas</h3>
 				<p>Brindamos el servicio y solución de representación comercial y reventa de materiales, productos y consumibles para industria en general.<br><br>
