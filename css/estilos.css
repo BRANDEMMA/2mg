@@ -930,7 +930,7 @@ footer img{
 	float: left;
 	margin-right: 5%;
 	text-align: justify;
-	width: 45%;
+	width: 60%;
 }
 .representaciones-comerciales .izquierda-representaciones h2{
 	color: #D5852C;
@@ -965,7 +965,15 @@ footer img{
 	-o-transition: all 0.4s ease;
 	transition: all 0.4s ease;
 }
-
+.accordion .link .descarga-dossier{
+	background-color: #3C5B89;
+    color: white;
+    font-family: "my_riad_pro_bold";
+    font-size: 0.5em;
+    margin-left: 15px;
+    padding: 5px 5px 2px 5px;
+    text-decoration: none;
+}
 .accordion .link:hover {
 	color:;
 }
@@ -989,24 +997,140 @@ footer img{
 }
 .derecha-representaciones{
 	float: left;
-	width: 50%;
+	width: 35%;
 }
 .contenedor-formulario{
+	background-color: #3C5B89;
+	margin-top: 19.9px;
+	padding-bottom: 5%;
 	width: 100%;
 }
-.titulo{
+.contenedor-formulario .titulo{
 	background-color: #D9BB2E;
 	width: 100%;
 }
-.titulo h2{
-	padding: 2% 0;
+.contenedor-formulario .titulo h2{
+	color: #004470;
+	font-family: "my_riad_pro_bold";
+	margin: 0 auto;
+	padding: 3% 0 2% 0;
+    width: 80%;
+}
+.contenido-formulario{
+	margin: 0 auto;
+	width: 80%;
+}
+.contenido-formulario p{
+	color: white;
+	font-family: "my_riad_pro_regular";
+	text-align: justify;
+}
+.formulario{
+	background-color: #004470;
+	margin: 0 auto;
+	padding: 5%;
+	width: 90%;
+}
+.formulario h4{
+	color: white;
+	font-family: "my_riad_pro_bold";
+	font-size: 1.2em;
+	margin: 0;
+}
+.formulario form{
+	margin: 0 auto;
+	margin-top: 5%;
+	width: 95%;
+}
+.formulario form .campos-formulario{
+	color: white;
+	font-family: "my_riad_pro_bold";
+	width: 100%;
+}
+.formulario form .mensaje-formulario{
+	color: white;
+	font-family: "my_riad_pro_bold";
+	width: 100%;
+}
+.formulario form .campos-formulario input{
+	height: 30px;
+	width: 100%;
+}
+.formulario form .mensaje-formulario textarea{
+	height: 150px;
+	width: 100%;
+}
+.boton2{
+	background-color: #3C5B89;
+	border: none;
+    color: white;
+    float: right;
+    font-family: "my_riad_pro_regular";
+    padding: 5px 10px;
+    text-decoration: none;
+}
+.error2 {
+	color: red;
+	display: none;
+	font-family: "my_riad_pro_regular";
+	padding-top: 5px;
 }
 
-
-
-
-
-
+#ajaxsuccess2 {
+	clear:both;
+	color: #1CC620;
+	display: none;
+	font-family: "my_riad_pro_regular";
+	font-size:18px;
+	font-weight:bold;
+	padding-bottom: 10px;
+	width: 100%;
+}
+.empresas-derecha .titulo{
+	background-color: #D9BB2E;
+	width: 100%;
+}
+.empresas-derecha .titulo h2{
+	color: #004470;
+	font-family: "my_riad_pro_bold";
+	margin: 0 auto;
+	padding: 2% 0;
+    width: 80%;
+}
+.empresas-derecha .titulo span{
+	font-size: 0.7em;
+}
+.descripcion-empresa{
+	border-left: 5px solid #2C5183;
+	border-right: 5px solid #2C5183;
+	padding: 4%;
+	text-align: justify;
+}
+.descripcion-empresa img{
+	float: left;
+	padding: 0 20px 20px 0;
+	width: 40%;
+}
+.descripcion-empresa p{
+	color: #2C5183;
+	font-family: "my_riad_pro_regular";
+	line-height: 2em;
+	margin: 0 auto;
+	margin-bottom: 3%;
+	width: 90%;
+}
+.boton-empresas{
+	background-color: #3C5B89;
+	color: white;
+	float: right;	
+	font-family: "my_riad_pro_bold";
+	margin: 0 5px;
+	padding: 10px;
+	text-decoration: none;
+}
+.borde-inferior{
+	border-bottom: 5px solid #2C5183;
+}
 /*ESTILOS DE LA SECCION "REPRESENTACIONES COMERCIALES 1"*/
 .representaciones-comerciales h2{
 	color: #2c3d6d;

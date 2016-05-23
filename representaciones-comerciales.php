@@ -22,6 +22,13 @@
 
 	<!--================== 	SCRIPT PARA SLIDER (TERMINA)  =====================-->
 
+	<!--================== 	ENLACE ICONO (INICIA)  =====================-->
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+	<!--================== 	ENLACE ICONO (TERMINA)  =====================-->
+
+
 	<script type="text/javascript">
 	$(document).ready(function(){
 		$('#industria').show();
@@ -48,7 +55,7 @@
 
 				<ul id="accordion" class="accordion">
 				<li>
-					<div class="link"><span>&#62;</span> Suministros <strong>Industriales</strong></div>
+					<div class="link"><span>&#62;</span> Suministros <strong>Industriales</strong><a class="descarga-dossier" href="" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a></div>
 					<ul class="submenu" id="industria">
 						<li>
 							<img src="img/logos/a1.gif">
@@ -96,7 +103,7 @@
 					<div class="clear"></div>
 				</li>
 				<li>
-					<div class="link"><span>&#62;</span> Suministros <strong>Quimicos</strong></div>
+					<div class="link"><span>&#62;</span> Suministros <strong>Quimicos</strong><a class="descarga-dossier" href="" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a></div>
 					<ul class="submenu">
 						<li>
 							<img src="img/logos/b1.gif">
@@ -134,7 +141,7 @@
 					<div class="clear"></div>
 				</li>
 				<li>
-					<div class="link"><span>&#62;</span> Repuestos para <strong>Equipos</strong></div>
+					<div class="link"><span>&#62;</span> Repuestos para <strong>Equipos</strong><a class="descarga-dossier" href="" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a></div>
 					<ul class="submenu">
 						<li>
 							<img src="img/logos/c1.gif">
@@ -195,52 +202,43 @@
 						<div class="formulario">
 							<h4>ENVÍANOS TUS REQUERIMIENTOS</h4>
 							<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="php/contacto.php">
-								<div class="centrado" id="ajaxsuccess">*El Email ha sido enviado satisfactoriamente.*</div>
+								<div class="centrado" id="ajaxsuccess2">*El Email ha sido enviado satisfactoriamente.*</div>
 
 								<div class="campos-formulario">
 									<label>NOMBRE</label><br>
 									<input name="nombre" id="nombre" type="text" onfocus="if(this.value == 'Nombre') this.value='';" onblur="if(this.value == '') this.value='';">
 									<div class="clear"></div>
-									<div class="error" id="err-nombre">*Por favor introduce tu nombre*</div><br>
+									<div class="error2 centrado" id="err-nombre">*Por favor introduce tu nombre*</div><br>
 								</div>
 
 								<div class="campos-formulario">
 									<label>EMAIL</label><br>
 									<input name="email" id="email" type="email" onfocus="if(this.value == 'E-mail') this.value='';" onblur="if(this.value == '') this.value='';">
 									<div class="clear"></div>
-									<div class="error" id="err-email">*Por favor introduce tu e-mail*</div>
-								    <div class="error" id="err-emailvld">*El formato de E-mail no es valido*</div><br>
+									<div class="error2 centrado" id="err-email">*Por favor introduce tu e-mail*</div>
+								    <div class="error2 centrado" id="err-emailvld">*El formato de E-mail no es valido*</div><br>
 							    </div>
-
-								<div class="campos-formulario">
-									<label>TELÉFONO</label><br>
-									<input name="telefono" id="telefono" type="tel" onfocus="if(this.value == 'Teléfono') this.value='';" onblur="if(this.value == '') this.value='';">
-									<div class="clear"></div>
-									<div class="error" id="err-telefono">*Por favor introduce tu número teléfonico*</div><br>
-								</div>
-
-								<div class="clear"></div>
 
 								<div class="campos-formulario">
 									<label>EMPRESA</label><br>
 									<input name="empresa" id="empresa" type="text" onfocus="if(this.value == 'Empresa') this.value='';" onblur="if(this.value == '') this.value='';">
 									<div class="clear"></div>
-									<div class="error" id="err-empresa">*Por favor introduce el nombre de tu empresa*</div><br>
+									<div class="error2 centrado" id="err-empresa">*Por favor introduce el nombre de tu empresa*</div><br>
 								</div>
 
 								<div class="mensaje-formulario">
 								<label>REQUERIMIENTO / DESCRIPCIÓN</label><br>
 									<textarea name="mensaje" id="mensaje" COLS=20 ROWS=4 onfocus="if(this.value == 'Mensaje') this.value='';" onblur="if(this.value == '') this.value='';"></textarea>
 									<div class="clear"></div>
-									<div class="error" id="err-mensaje">*Por favor escribe un mensaje*</div><br>
+									<div class="error2 centrado" id="err-mensaje">*Por favor escribe un mensaje*</div><br>
 								</div>
 
 								<div class="clear"></div>
 
-								<div class="error centrado" id="err-form">*Hubo un problema al validar el formulario por favor verifica!*</div>
-								<div class="error centrado" id="err-timedout">*El tiempo de conexión con el servidor a expirado!*</div>
-								<div class="error" id="err-state"></div><br>
-								<button class="boton" id="send" class="btn btn-primary boton-enviar">ENVIAR</button>
+								<div class="error2 centrado" id="err-form">*Hubo un problema al validar el formulario por favor verifica!*</div>
+								<div class="error2 centrado" id="err-timedout">*El tiempo de conexión con el servidor a expirado!*</div>
+								<div class="error2" id="err-state"></div><br>
+								<button class="boton2" id="send" class="btn btn-primary boton-enviar">ENVIAR</button>
 
 								<div class="clear"></div>
 							</form>
@@ -250,14 +248,32 @@
 						</div>
 					</div>
 				</div>
+				<div class="empresas-derecha">
+					<div class="titulo">
+						<h2>WODON -  <span>Wear Resistant Material Professional Manufacturer</span></h2>
+					</div>
+					<div class="descripcion-empresa">
+						<p><img src="img/wodon.jpg">Tianjin Wodon Wear Resistant Material Co., Ltd (CHINA WODON). located in the northern international shipping center TIANJlN, which specialized in research, development, production and sales wear-resistant material, and have many years experience in this field. Now the company owns over 100 employees, has anual  output 60,000 square meters of wear plate and 8,000 metric tons of welding consumables.</p>
+						<a class="boton-empresas" href="http://chinawodon.com/ENGLISH/" target="_blank">WEB</a> <a class="boton-empresas" href="" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a>
+						<div class="clear"></div>
+					</div>
+				</div>
+				<div class="empresas-derecha borde-inferior">
+					<div class="titulo">
+						<h2>EFFECTUS -  <span>Seu Parceiro Na Construçáo</span></h2>
+					</div>
+					<div class="descripcion-empresa">
+						<p><img src="img/logoeffectus.jpg">Effectus Indústria e Comércio Ltda., fundada em agosto/1993 , constantemente vem procurando renovar sua linha de produtos para tratamento e recuperação de concretos em geral . Com 100% de capital brasileiro, destina todo o seu trabalho na busca de novas tecnologias em produtos e sistemas para tratamento de concreto.</p>
+						<a class="boton-empresas" href="http://www.effectus.com.br/" target="_blank">WEB</a> <a class="boton-empresas" href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a>
+						<div class="clear"></div>
+					</div>
+				</div>
 			</div>
 
 			<div class="clear"></div>
 		</div>
 
-		<?php
-			include 'contacto.php';
-		?>	
+		
 	</div>
 
 	<?php
