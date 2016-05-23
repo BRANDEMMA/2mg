@@ -16,6 +16,18 @@
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (TERMINA)  =====================-->
 
+	<!--================== 	SCRIPT PARA SLIDER (INICIA)  =====================-->
+
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+	<!--================== 	SCRIPT PARA SLIDER (TERMINA)  =====================-->
+
+	<script type="text/javascript">
+	$(document).ready(function(){
+		$('#industria').show();
+	});
+</script>
+
 </head>
 
 <body>
@@ -29,32 +41,216 @@
 		<div class="representaciones-comerciales linea-energetica">
 			<img src="img/representaciones-comerciales-2-2mg.jpg">
 			
-			<div class="opciones-comerciales1 color1">
-				<h3>Representaciones Comerciales y Soluciones Inmediatas</h3>
-				<p>Brindamos el servicio y solución de representación comercial y reventa de materiales, productos y consumibles para industria en general.<br><br>
-				Tenemos capacidad de atender al mercado de acuerdo con la necesidad especifica del cliente, cumpliendo plazos y así evitando las perdidas por las reducciones de productividad.</p>
-				<h4>Soluciones Inmediatas</h4>
-				<p>Buscamos atender el cliente de acuerdo con su urgencia en atención para suministros específicos, optimizando el cumplimento de los plazos de entrega en Perú.</p>
-				<a href="representaciones-comerciales1.php">Ver más</a>
+			<div class="izquierda-representaciones">
+				<h2>Representaciones <strong>Comerciales</strong></h2>
+				<p>Brindamos el <strong>servicio y solución de REPRESENTACIÓN COMERCIAL y reventa de materiales</strong>, productos y consumibles para la industria en general.<br>
+				Tenemos la capacidad de atender al mercado de acuerdo con la necesidad especifica del cliente, <strong>cumpliendo plazos</strong> y así evitando las perdidas por las reducciones de productividad.</p>
+
+				<ul id="accordion" class="accordion">
+				<li>
+					<div class="link"><span>&#62;</span> Suministros <strong>Industriales</strong></div>
+					<ul class="submenu" id="industria">
+						<li>
+							<img src="img/logos/a1.gif">
+							<img src="img/logos/a2.gif">
+							<img src="img/logos/a3.gif">
+							<img src="img/logos/a4.gif">
+							<img src="img/logos/a5.gif">
+							<img src="img/logos/a6.gif">
+							<img src="img/logos/a7.gif">
+							<img src="img/logos/a8.gif">
+							<img src="img/logos/a9.gif">
+							<img src="img/logos/a10.gif">
+							<img src="img/logos/a11.gif">
+							<img src="img/logos/a12.gif">
+							<img src="img/logos/a13.gif">
+							<img src="img/logos/a14.gif">
+							<img src="img/logos/a15.gif">
+							<img src="img/logos/a16.gif">
+							<img src="img/logos/a17.gif">
+							<img src="img/logos/a18.gif">
+							<img src="img/logos/a19.gif">
+							<img src="img/logos/a20.gif">
+							<img src="img/logos/a21.gif">
+							<img src="img/logos/a22.gif">
+							<img src="img/logos/a23.gif">
+							<img src="img/logos/a24.gif">
+							<img src="img/logos/a25.gif">
+							<img src="img/logos/a26.gif">
+							<img src="img/logos/a27.gif">
+							<img src="img/logos/a28.gif">
+							<img src="img/logos/a30.gif">
+							<img src="img/logos/a31.gif">
+							<img src="img/logos/a32.gif">
+							<img src="img/logos/a33.gif">
+							<img src="img/logos/a34.gif">
+							<img src="img/logos/a35.gif">
+							<img src="img/logos/a36.gif">
+							<img src="img/logos/a37.gif">
+							<img src="img/logos/a38.gif">
+							<img src="img/logos/a39.gif">
+							<img src="img/logos/a40.gif">
+							<img src="img/logos/a41.gif">
+						</li>
+					</ul>
+					<div class="clear"></div>
+				</li>
+				<li>
+					<div class="link"><span>&#62;</span> Suministros <strong>Quimicos</strong></div>
+					<ul class="submenu">
+						<li>
+							<img src="img/logos/b1.gif">
+							<img src="img/logos/b2.gif">
+							<img src="img/logos/b3.gif">
+							<img src="img/logos/b4.gif">
+							<img src="img/logos/b5.gif">
+							<img src="img/logos/b6.gif">
+							<img src="img/logos/b7.gif">
+							<img src="img/logos/b8.gif">
+							<img src="img/logos/b9.gif">
+							<img src="img/logos/b10.gif">
+							<img src="img/logos/b11.gif">
+							<img src="img/logos/b12.gif">
+							<img src="img/logos/b13.gif">
+							<img src="img/logos/b14.gif">
+							<img src="img/logos/b15.gif">
+							<img src="img/logos/b16.gif">
+							<img src="img/logos/b17.gif">
+							<img src="img/logos/b18.gif">
+							<img src="img/logos/b19.gif">
+							<img src="img/logos/b20.gif">
+							<img src="img/logos/b21.gif">
+							<img src="img/logos/b22.gif">
+							<img src="img/logos/b23.gif">
+							<img src="img/logos/b24.gif">
+							<img src="img/logos/b25.gif">
+							<img src="img/logos/b26.gif">
+							<img src="img/logos/b27.gif">
+							<img src="img/logos/b28.gif">
+							<img src="img/logos/b30.gif">
+							<img src="img/logos/b31.gif">
+						</li>
+					</ul>
+					<div class="clear"></div>
+				</li>
+				<li>
+					<div class="link"><span>&#62;</span> Repuestos para <strong>Equipos</strong></div>
+					<ul class="submenu">
+						<li>
+							<img src="img/logos/c1.gif">
+							<img src="img/logos/c2.gif">
+							<img src="img/logos/c3.gif">
+							<img src="img/logos/c4.gif">
+							<img src="img/logos/c5.gif">
+							<img src="img/logos/c6.gif">
+							<img src="img/logos/c7.gif">
+							<img src="img/logos/c8.gif">
+							<img src="img/logos/c9.gif">
+							<img src="img/logos/c10.gif">
+							<img src="img/logos/c11.gif">
+							<img src="img/logos/c12.gif">
+							<img src="img/logos/c13.gif">
+							<img src="img/logos/c14.gif">
+							<img src="img/logos/c15.gif">
+							<img src="img/logos/c16.gif">
+							<img src="img/logos/c17.gif">
+							<img src="img/logos/c18.gif">
+							<img src="img/logos/c19.gif">
+							<img src="img/logos/c20.gif">
+							<img src="img/logos/c21.gif">
+							<img src="img/logos/c22.gif">
+							<img src="img/logos/c23.gif">
+							<img src="img/logos/c24.gif">
+							<img src="img/logos/c25.gif">
+							<img src="img/logos/c26.gif">
+							<img src="img/logos/c27.gif">
+							<img src="img/logos/c28.gif">
+							<img src="img/logos/c30.gif">
+							<img src="img/logos/c31.gif">
+							<img src="img/logos/c32.gif">
+							<img src="img/logos/c33.gif">
+							<img src="img/logos/c34.gif">
+							<img src="img/logos/c35.gif">
+							<img src="img/logos/c36.gif">
+							<img src="img/logos/c37.gif">
+							<img src="img/logos/c38.gif">
+							<img src="img/logos/c39.gif">
+							<img src="img/logos/c40.gif">
+						</li>
+					</ul>
+					<div class="clear"></div>
+				</li>
+				</ul>
+				<script src="js/acordion.js"></script>
 			</div>
 
-			<div class="opciones-comerciales color2">
-				<h3>2. Representaciones Comerciales</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet, ac vulputate ipsum faucibus. Duis ut eleifend neque. Integer molestie augue est. Donec sit amet justo at mi elementum bibendum.</p>
-				<a href="representaciones-comerciales1.php">Ver más</a>
-			</div>
+			<div class="derecha-representaciones">
+				<div class="contenedor-formulario">
+					<div class="titulo">
+						<h2>SOLUCIONES INMEDIATAS</h2>	
+					</div>
+					<div class="contenido-formulario">
+						<p>Conocemos muy bien las urgencias que se presentan en el área logistica de su empresa, es por ello que brindamos el servicio de <strong>SOLUCIONES INMEDIATAS</strong>. Este servicio le ayudará a encontrar aquellos suministros especifícos que requiera con urgencia.<br>
+						Nuestro compromiso está en encontrar y abastecer a su empresa cumpliendo los plazos establecidos previamente.</p>
+						<div class="formulario">
+							<h4>ENVÍANOS TUS REQUERIMIENTOS</h4>
+							<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="php/contacto.php">
+								<div class="centrado" id="ajaxsuccess">*El Email ha sido enviado satisfactoriamente.*</div>
 
-			<div class="opciones-comerciales color3">
-				<h3>3. Representaciones Comerciales</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet, ac vulputate ipsum faucibus. Duis ut eleifend neque. Integer molestie augue est. Donec sit amet justo at mi elementum bibendum.</p>
-				<a href="representaciones-comerciales1.php">Ver más</a>
-			</div>
+								<div class="campos-formulario">
+									<label>NOMBRE</label><br>
+									<input name="nombre" id="nombre" type="text" onfocus="if(this.value == 'Nombre') this.value='';" onblur="if(this.value == '') this.value='';">
+									<div class="clear"></div>
+									<div class="error" id="err-nombre">*Por favor introduce tu nombre*</div><br>
+								</div>
 
-			<!-- <div class="opciones-comerciales color4">
-				<h3><u>4. Representaciones Comerciales</u></h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet, ac vulputate ipsum faucibus. Duis ut eleifend neque. Integer molestie augue est. Donec sit amet justo at mi elementum bibendum.</p>
-				<a href="representaciones-comerciales1.php">Ver más</a>
-			</div> -->
+								<div class="campos-formulario">
+									<label>EMAIL</label><br>
+									<input name="email" id="email" type="email" onfocus="if(this.value == 'E-mail') this.value='';" onblur="if(this.value == '') this.value='';">
+									<div class="clear"></div>
+									<div class="error" id="err-email">*Por favor introduce tu e-mail*</div>
+								    <div class="error" id="err-emailvld">*El formato de E-mail no es valido*</div><br>
+							    </div>
+
+								<div class="campos-formulario">
+									<label>TELÉFONO</label><br>
+									<input name="telefono" id="telefono" type="tel" onfocus="if(this.value == 'Teléfono') this.value='';" onblur="if(this.value == '') this.value='';">
+									<div class="clear"></div>
+									<div class="error" id="err-telefono">*Por favor introduce tu número teléfonico*</div><br>
+								</div>
+
+								<div class="clear"></div>
+
+								<div class="campos-formulario">
+									<label>EMPRESA</label><br>
+									<input name="empresa" id="empresa" type="text" onfocus="if(this.value == 'Empresa') this.value='';" onblur="if(this.value == '') this.value='';">
+									<div class="clear"></div>
+									<div class="error" id="err-empresa">*Por favor introduce el nombre de tu empresa*</div><br>
+								</div>
+
+								<div class="mensaje-formulario">
+								<label>REQUERIMIENTO / DESCRIPCIÓN</label><br>
+									<textarea name="mensaje" id="mensaje" COLS=20 ROWS=4 onfocus="if(this.value == 'Mensaje') this.value='';" onblur="if(this.value == '') this.value='';"></textarea>
+									<div class="clear"></div>
+									<div class="error" id="err-mensaje">*Por favor escribe un mensaje*</div><br>
+								</div>
+
+								<div class="clear"></div>
+
+								<div class="error centrado" id="err-form">*Hubo un problema al validar el formulario por favor verifica!*</div>
+								<div class="error centrado" id="err-timedout">*El tiempo de conexión con el servidor a expirado!*</div>
+								<div class="error" id="err-state"></div><br>
+								<button class="boton" id="send" class="btn btn-primary boton-enviar">ENVIAR</button>
+
+								<div class="clear"></div>
+							</form>
+							<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+							<script type="text/javascript" src="js/bootstrap.min.js"></script>  	
+						  	<script type="text/javascript" src="js/functions.js"></script>
+						</div>
+					</div>
+				</div>
+			</div>
 
 			<div class="clear"></div>
 		</div>

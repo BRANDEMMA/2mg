@@ -926,76 +926,80 @@ footer img{
 .representaciones-comerciales .titulo-arriba span{
 	font-weight: bold;
 }
-.opciones-comerciales1{
-	color: white;
+.izquierda-representaciones{
 	float: left;
-	margin-top: -5px;
-	padding: 0 5%;
-	padding-bottom: 3%;
-	width: 90%;
+	margin-right: 5%;
+	text-align: justify;
+	width: 45%;
 }
-.opciones-comerciales{
-	color: white;
+.representaciones-comerciales .izquierda-representaciones h2{
+	color: #D5852C;
+	font-family: "my_riad_pro_regular";
+	font-size: 2em;
+	font-weight: lighter;
+}
+.izquierda-representaciones p{
+	color: #333531;
+	font-family: "my_riad_pro_regular";
+	padding-left: 2%;
+}
+.izquierda-representaciones img{
+	margin: 3.5%;
+	width: 25%;
+}
+#accordion{
+	list-style: none;
+	margin-top: 15px;
+	padding: 0;
+}
+.accordion .link {
+	color: #D5852C;
+	cursor: pointer;	
+	display: block;
+	font-family: "my_riad_pro_regular";
+	font-size: 2em;
+	font-weight: lighter;
+	list-style: none;
+	position: relative;
+	-webkit-transition: all 0.4s ease;
+	-o-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+}
+
+.accordion .link:hover {
+	color:;
+}
+.accordion .link span{
+	font-size: 0.8em;
+}
+.accordion li.open i.fa-caret-right{
+	-webkit-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+.submenu{
+	display: none;
+	list-style: none;
+	padding: 0;
+}
+.submenu li img{
+	margin: 3.5%;
+	width: 25%;
+}
+.derecha-representaciones{
 	float: left;
-	padding: 0 5%;
-	padding-bottom: 3%;
-	width: 40%;
+	width: 50%;
 }
-.color1{
-	background-color: #486491;
+.contenedor-formulario{
+	width: 100%;
 }
-.color2{
-	background-color: #3F5887;
+.titulo{
+	background-color: #D9BB2E;
+	width: 100%;
 }
-.color3{
-	background-color: #384D80;
-}
-.color4{
-	background-color: #2C3D6D;
-}
-.opciones-comerciales1 h3{
-	font-family: "my_riad_pro_bold";
-	font-size: 2em;
-	margin: 2% 0;
-	text-align: center;
-}
-.opciones-comerciales1 h4{
-	font-family: "my_riad_pro_bold";
-	font-size: 2em;
-}
-.opciones-comerciales h3{
-	font-family: "my_riad_pro_bold";
-	font-size: 2em;
-	margin: 4% 0;
-	text-align: center;
-}
-.opciones-comerciales1 p{
-	font-family: "my_riad_pro_regular";
-	font-size: 1em;
-	margin-bottom: 3%;
-	text-align: justify;
-}
-.opciones-comerciales p{
-	font-family: "my_riad_pro_regular";
-	font-size: 1em;
-	margin-bottom: 10%;
-	text-align: justify;
-}
-.opciones-comerciales1 a{
-	background-color: white;
-	border-radius: 5px;	
-	color: 	#2C3D6D;
-	font-family: "my_riad_pro_semibold";
-	padding: 3px 10px;
-	text-decoration: none;
-}
-.opciones-comerciales a{
-	background-color: white;
-	border-radius: 5px;	
-	color: 	#2C3D6D;
-	font-family: "my_riad_pro_semibold";
-	padding: 3px 10px;
-	text-decoration: none;
+.titulo h2{
+	padding: 2% 0;
 }
 
 
