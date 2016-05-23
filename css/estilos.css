@@ -268,7 +268,6 @@ header{
 	width: 100%;
 }
 .derecha-nosotros2{
-	background-color: #F4F3F3;
 	float: left;
 	width: 100%;
 }
@@ -278,14 +277,59 @@ header{
 	width: 90%;
 }
 .derecha-nosotros-centrado h2{
-	color: #2C3D6D;
+	color: #D5852C;
 	font-family: "my_riad_pro_regular";
 	font-size: 2em;
 	font-weight: normal;
 	margin: 0;
 }
+.derecha-nosotros-centrado h3{
+	color: #D5852C;
+	font-family: "my_riad_pro_regular";
+	font-size: 1.5em;
+	font-weight: normal;
+	margin: 0;
+}
 .derecha-nosotros-centrado p{
 	font-family: "my_riad_pro_regular";
+}
+.mision{
+	float: left;
+	margin-right: 10%;
+	text-align: justify;
+	width: 45%;
+}
+.vision{
+	float: left;
+	text-align: justify;
+	width: 45%;
+}
+.mision p, .vision p{
+	margin: 0 auto;
+	margin-bottom: 5%;
+	margin-top: 3%;
+	width: 85%;
+}
+.contenedor-valores{
+	margin: 0 auto;
+	width: 80%;
+}
+.valores{
+	background-color: #003F72;
+	border-radius: 20px;
+	color: white;
+	float: left;
+	margin: 2% 7.5%;
+	padding: 2%;
+	text-align: center;
+	width: 14%;
+}
+.valores img{
+	width: 50%;
+}
+.valores p{
+	font-size: 0.8em;
+	margin-bottom: 0;
 }
 .asociados{
 	margin-bottom: 6%;

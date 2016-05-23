@@ -36,14 +36,33 @@
 				Iniciamos nuestras operaciones en el ano 2015 y nuestra misión ‘es ser una empresa de importación y exportación de productos, servicios y tecnologías de alta gama para el mercado Peruano y Sudamérica.<br><br>
 				Somos una empresa joven, dinámica y que detiene conocimiento técnico necesario para brindar atención en el mercado Peruano y Sudamérica, ofreciendo soluciones y sinergia en logística de manera completa y satisfactoria para nuestros clientes.</p>
 
-				<h2>Misión</h2>
-				<p class="texto-gris espaciado">Promocionar negocios con empresas nacionales y extranjeras exportadoras y importadores de productos, equipamientos y nuevas tecnologías, relacionadas a las áreas de Construcción/Infraestructura y Industrial, cuya calidad sea superior a los existentes localmente, que propicien mejorías en los procesos productivos de la economía Peruana, tornando-a competitiva a nivel mundial.</p>
+				<div class="mision">
+					<h3>Misión</h3>
+					<p class="texto-gris espaciado">Promocionar negocios con empresas nacionales y extranjeras exportadoras y importadores de productos, equipamientos y nuevas tecnologías, relacionadas a las áreas de Construcción/Infraestructura y Industrial, cuya calidad sea superior a los existentes localmente, que propicien mejorías en los procesos productivos de la economía Peruana, tornando-a competitiva a nivel mundial.</p>
+				</div>
+				
+				<div class="vision">
+					<h3>Visión</h3>
+					<p class="texto-gris espaciado">Desarollar relaciones comerciales duraderas con nuestros clientes y proveedores, ajustandose a la necesidad de ellos.</p>
+				</div>
+				<div class="clear"></div>
 
-				<h2>Visión</h2>
-				<p class="texto-gris espaciado">Desarollar relaciones comerciales duraderas con nuestros clientes y proveedores, ajustandose a la necesidad de ellos.</p>
-
-				<h2>Valores</h2>
-				<p class="texto-gris espaciado">Transparencia en las negociaciones, cumplimento de plazos y satisfacción de los clientes y proveedores.</p>
+				<h3>Valores</h3>
+				<div class="contenedor-valores">
+					<div class="valores">
+						<img src="img/calidad.png">
+						<p>Transparencia en las Negociaciones</p>
+					</div>
+					<div class="valores">
+						<img src="img/cumplimiento.png">
+						<p>Cumplimiento de Plazos</p>
+					</div>
+					<div class="valores">
+						<img src="img/satisfaccion.png">
+						<p>Satisfacción de los Clientes y Proveedores</p>
+					</div>
+					<div class="clear"></div>
+				</div>
 			</div>
 		</div>
 
