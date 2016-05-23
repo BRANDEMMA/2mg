@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="es">
 
 <head>
 	<html lang="es">
@@ -25,25 +25,27 @@
 		?>
 	</header>
 	
+
+
+	<div class="producto-detalle">
+	<h1> Arena Antifog – Liquido Antipanante </h1> 
+	<p>
+		<img class="producto-img" src="img/spray-anti-fog.jpg" />
+		<br><br>
+		<span>Fabricante: </span>ARENA<br>
+		<span>País de Procedencia: </span>EEUU<br>
+		<span>Embalaje: </span>Spray 30 ml<br>
+		<span>Plazo de Validez: </span>Indeterminado<br>
+		<span>Composición Química: </span>81.5% AQUA 13% POLYURETHANE 3% POLYVINYLPYRROLIDONE 2% DECYL POLYGLUCOSE 0.3% METHYL PYRROLIDONE 0.2% TREITHYLAMINE.<br>
+		<span>Para que Sirve: </span>Desempañar gafas de buceó, actividades de natación, lentes de seguridad de actividades industriales (minería).<br>
+		<span>Donde es Aplicable: </span>Actividades y Deportes Acuáticos que requieran uso de gafas sumerjas (buceo, natación), Industria Minera en General (Seguridad).<br>
+	</p>
+
+	<div class="clear"></div>
+	</div>
+
 	<div class="contenido linea-energetica">
-		<div class="izquierda-energetica">
-			<img src="img/solucion-energetica-2mg.jpg">
-		</div>
-		<div class="derecha-energetica">
-			<div class="derecha-energetica-centrado">
-				<h2>AD TITANIUM - ADITIVO EN POLVO PARA CONCRETO</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet, ac vulputate ipsum faucibus. Duis ut eleifend neque. Integer molestie augue est. Donec sit amet justo at mi elementum bibendum. Quisque in egestas ipsum. Integer vel bibendum orci. Aliquam cursus, tortor vel ultricies pretium, metus sem congue enim.</p>
-				<p class="texto-azul espaciado">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet, ac vulputate ipsum faucibus. Duis ut eleifend neque.</p>
-
-				<div class="escribenos">
-					<a href="">Escríbenos <img src="img/flecha-derecha-blanca.png"></a>
-				</div>
-
-				<p class="texto-azul espaciado">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet.</p>
-
-				<p class="texto-azul">Lorem ipsum dolor <span>sit amet</span>.</p>
-			</div>
-		</div>
+		
 
 		<div class="clear"></div>
 

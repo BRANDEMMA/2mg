@@ -426,6 +426,40 @@ header{
 }
 
 
+/*-------======ESTILO PRODUCTOS DETELLES=======-------*/
+
+.producto-detalle{
+	font-family: "my_riad_pro_regular";
+	font-size: 0.9em;
+	width: 70%;
+	margin: 0 auto;
+	background-color: #1d3b70;
+	color:white;
+	border: 2px solid;
+    border-radius: 25px;
+    margin-top: 25px;
+    padding: 25px;
+}
+.producto-detalle h1, p{
+
+	margin-left: 15px;
+}
+
+.producto-detalle p span{
+
+	color: #ef7c1f;
+	font-weight: bold;
+}
+
+.producto-img{
+	float: left;
+	width: 25%;
+	height: auto;
+	border-radius: 25px;
+    
+    margin-right: 25px;
+    margin-bottom: 5px;
+}
 
 
 /*--==================== ESTILOS DE LA INFORMACION DE SOCIO (INICIA) ========================--*/
@@ -910,7 +944,8 @@ footer img{
 
 
 .contenedor-representaciones{
-	width: 100%;
+	width: 80%;
+	margin: 0 auto;
 }
 .contenedor-representaciones h2{
 	color: #2C3D6D;

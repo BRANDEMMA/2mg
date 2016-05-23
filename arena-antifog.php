@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="es">
 
 <head>
 	<html lang="es">
@@ -25,25 +25,27 @@
 		?>
 	</header>
 	
+
+
+	<div class="producto-detalle">
+	<h1> AD Titanium – Aditivo en Polvo para Concreto </h1> 
+	<p>
+		<img class="producto-img" src="img/bolsoadtitanium.jpg" />
+		<br><br>
+		<span>Fabricante: </span>Effectus Industria y Comercio Ltda<br>
+		<span>País de Procedencia: </span>Brasil<br>
+		<span>Embalaje: </span>Bolsas de 25, 50 Kg o Big Bag<br>
+		<span>Plazo de Validez: </span>1 año<br>
+		<span>Composición Química: </span>Material particulado inorgânico compuesto de dióxido de silício cristalino, Sintético Inorgânico Aditivado, con Granulometria Engenheirada, quimicamente estável y libre de Cl- e SO4².<br>
+		<span>Para que Sirve: </span>Reduce el consumo de agua en la mezcla –Disminuye la retracción – aumenta la compacidade - Reduce la permeabilidad - Aumenta la resistencia y modulo - Reduz Teor de Cemento -Reduz la reacción Álcali – Agregado – aumenta la durabilidade de la Estrutura – Gano de altas Resistencias Iniciales –Reduccion del custo general de la Obra.<br>
+		<span>Donde es Aplicable: </span>Estructuras de Concreto y Construcción en General, donde se requiera gano de productividad y elevadas resistencias iniciales.<br>
+	</p>
+
+	<div class="clear"></div>
+	</div>
+
 	<div class="contenido linea-energetica">
-		<div class="izquierda-energetica">
-			<img src="img/solucion-energetica-2mg.jpg">
-		</div>
-		<div class="derecha-energetica">
-			<div class="derecha-energetica-centrado">
-				<h2>ARENA ANTIFOG – LIQUIDO ANTIPANENTE</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet, ac vulputate ipsum faucibus. Duis ut eleifend neque. Integer molestie augue est. Donec sit amet justo at mi elementum bibendum. Quisque in egestas ipsum. Integer vel bibendum orci. Aliquam cursus, tortor vel ultricies pretium, metus sem congue enim.</p>
-				<p class="texto-azul espaciado">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet, ac vulputate ipsum faucibus. Duis ut eleifend neque.</p>
-
-				<div class="escribenos">
-					<a href="">Escríbenos <img src="img/flecha-derecha-blanca.png"></a>
-				</div>
-
-				<p class="texto-azul espaciado">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet.</p>
-
-				<p class="texto-azul">Lorem ipsum dolor <span>sit amet</span>.</p>
-			</div>
-		</div>
+		
 
 		<div class="clear"></div>
 
