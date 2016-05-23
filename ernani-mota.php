@@ -33,7 +33,7 @@
 	
 	<div class="contenido linea-energetica">
 		<div class="detalle-socio">
-			<img src="img/fabio-elias.jpg">
+			<img src="img/ernani-mota.jpg">
 			<div class="informacion-socio">
 				<h2>Ernani Mota</h2>
 				<h4>Ingeniero Civil</h4>
@@ -47,13 +47,12 @@
 
 			<div class="clear"></div>
 		</div>
-	</div>
-
-		<div class="clear"></div>
-
 		<?php
 			include 'contacto.php';
 		?>
+	</div>
+
+		<div class="clear"></div>
 	</div>
 
 	<?php

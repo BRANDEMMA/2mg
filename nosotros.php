@@ -82,7 +82,7 @@
 
 					<div class="socios espacio-socios">
 						<div class="izquierda-socios">
-							<img src="img/fabio-elias.jpg">
+							<img src="img/ernani-mota.jpg">
 						</div>
 						<div class="derecha-socios">
 							<h3>Ernani Mota</h3>

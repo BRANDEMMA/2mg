@@ -47,13 +47,14 @@
 
 			<div class="clear"></div>
 		</div>
+		<?php
+			include 'contacto.php';
+		?>
 	</div>
 
 		<div class="clear"></div>
 
-		<?php
-			include 'contacto.php';
-		?>
+		
 	</div>
 
 	<?php
