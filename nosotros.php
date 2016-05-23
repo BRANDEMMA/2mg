@@ -63,6 +63,55 @@
 					</div>
 					<div class="clear"></div>
 				</div>
+
+				<h2>Asociados</h2>
+				<p>Somos una empresa peruana cuyos socios fundadores son brasileños inmigrantes en Perú hace mas de 10 años y <strong>nos dedicamos a actividades de importación y exportación de productos, servicios y soluciones en Procurement de Ingenieria.</strong></p>
+				<div class="contenedor-asociados">
+					<div class="socios">
+						<div class="izquierda-socios">
+							<img src="img/fabio-elias.jpg">
+						</div>
+						<div class="derecha-socios">
+							<h3>Fabio Elias</h3>
+							<h4>Ingeniero Civil</h4>
+							<p>askjd llkajslkdj lajdl ajl djas ldkj ñlkjs ñdlkajsñdlkja ñlskdj ñalksjd ñlaskj ñlaljsdñlaj sssd.</p>
+							<a class="ver-socio" href="">VER MÁS +</a>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+
+				<div class="contenedor-asociados">
+					<div class="socios">
+						<div class="izquierda-socios">
+							<img src="img/fabio-elias.jpg">
+						</div>
+						<div class="derecha-socios">
+							<h3>Fabio Elias</h3>
+							<h4>Ingeniero Civil</h4>
+							<p>askjd llkajslkdj lajdl ajl djas ldkj ñlkjs ñdlkajsñdlkja ñlskdj ñalksjd ñlaskj ñlaljsdñlaj sssd.</p>
+							<a class="ver-socio" href="">VER MÁS +</a>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+
+				<div class="contenedor-asociados">
+					<div class="socios">
+						<div class="izquierda-socios">
+							<img src="img/fabio-elias.jpg">
+						</div>
+						<div class="derecha-socios">
+							<h3>Fabio Elias</h3>
+							<h4>Ingeniero Civil</h4>
+							<p>askjd llkajslkdj lajdl ajl djas ldkj ñlkjs ñdlkajsñdlkja ñlskdj ñalksjd ñlaskj ñlaljsdñlaj sssd.</p>
+							<a class="ver-socio" href="">VER MÁS +</a>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+
+				<div class="clear"></div>
 			</div>
 		</div>
 

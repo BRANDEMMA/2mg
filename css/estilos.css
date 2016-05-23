@@ -292,6 +292,10 @@ header{
 }
 .derecha-nosotros-centrado p{
 	font-family: "my_riad_pro_regular";
+	margin: 0 auto;
+	margin-bottom: 3%;
+	margin-top: 3%;
+	width: 93%;
 }
 .mision{
 	float: left;
@@ -363,6 +367,60 @@ header{
 	transition: all 0.7s ease;
 }
 /*EFECTO DE FILTRO ESCALA DE GRISES (TERMINA)*/
+.contenedor-asociados{
+	margin: 0 auto;
+	width: 93%;
+}
+.socios{
+	background-color: #003F72;
+	border-radius: 25px;
+	color: white;
+	float: left;
+	padding: 3%;
+	width: 29%;
+}
+.izquierda-socios{
+	float: left;
+	margin-right: 5%;
+	width: 45%
+}
+.izquierda-socios img{
+	width: 100%;
+}
+.derecha-socios{
+	float: left;
+	width: 50%;
+}
+.derecha-socios h3{
+	color: white;
+	font-family: "my_riad_pro_bold";
+	font-size: 1.2em;
+}
+.derecha-socios h4{
+	color: white;
+	font-family: "my_riad_pro_regular";
+	font-size: 1em;
+	font-weight: lighter;
+	margin: 8% 0;
+}
+.derecha-socios p{
+	font-family: "my_riad_pro_regular";
+	font-size: 0.8em;
+	margin: 0;
+	margin-bottom: 10%;
+	text-align: justify;
+	width: 100%;
+}
+.ver-socio{
+	background-color: #D5852C;
+	border-radius: 5px;
+	color: white;
+	font-family: "my_riad_pro_regular";
+	padding: 5px 10px 2px 10px;
+	text-decoration: none;
+}
+
+
 
 
 /*--==================== ESTILOS DE LA INFORMACION DE SOCIO (INICIA) ========================--*/
