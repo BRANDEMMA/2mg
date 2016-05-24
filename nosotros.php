@@ -64,7 +64,7 @@
 					<div class="clear"></div>
 				</div>
 
-				<h2>Asociados</h2>
+				<h2 id="asociados">Asociados</h2>
 				<p>Somos una empresa peruana cuyos socios fundadores son brasileños inmigrantes en Perú hace mas de 10 años y <strong>nos dedicamos a actividades de importación y exportación de productos, servicios y soluciones en Procurement de Ingenieria.</strong></p>
 				<div class="contenedor-asociados">
 					<div class="socios">

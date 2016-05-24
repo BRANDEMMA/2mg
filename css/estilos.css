@@ -135,7 +135,56 @@ header{
 }
 
 
-
+.menu-responsive{
+	position: relative;
+	width: 100%;
+}
+.menu-responsive label{
+	display: block;
+	height: 30px;
+	width: 30px;
+}
+.menu-responsive label:hover{
+	background-color: rgba(0,0,0,0.2);
+	cursor: pointer;
+}
+.menu-responsive img{
+	margin: 0;
+	padding: 0;
+	width: 30px;
+}
+#btn-menu{
+	display: none;
+}
+.menu{
+	background-color: rgba(255,255,255,0.5);
+	left: -500px;
+	position: absolute;
+	transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	width: 200px;
+	z-index: 1000;
+}
+.menu ul{
+	display: flex;
+	flex-direction: column;
+  	list-style: none;
+  	margin: 0;
+  	padding: 0;	
+}
+.menu li a{
+	color: black;
+ 	display: block;
+  	font-size: 1em;
+  	padding: 15px 20px 15px 0;
+  	text-align: left;
+  	text-decoration: none;  	
+}
+#btn-menu:checked ~ .menu{
+	left: 0;
+} 
 
 
 
@@ -424,6 +473,22 @@ header{
 .espacio-socios{
 	margin: 0 9%;
 }
+
+
+
+
+/*-------======ESTILO NUESTROS CLIENTES=======-------*/
+.nosotros h2{
+	color: #2c3d6d;
+    font-family: "my_riad_pro_bold";
+    font-size: 2.5em;
+}
+.clientes{
+	margin: 3% 5%;
+	width: 20%;
+}
+
+
 
 
 /*-------======ESTILO PRODUCTOS DETELLES=======-------*/
@@ -1253,4 +1318,37 @@ footer img{
 .derecha-repre1{
 	float: left;
 	width: 40%;
+}
+
+
+
+
+
+/*================   RESPONSIVE  ===============*/
+@media(max-width: 900px){
+	.menu-principal #inicio{
+		width: 20%;
+	}
+}
+
+@media(max-width: 750px){
+	.izquierda-nosotros img{
+		width: 32%;
+	}
+	.izquierda-nosotros{
+		width: 60%;
+	}
+	.izquierda-nosotros p{
+		padding-left: 0;
+	}
+	.derecha-nosotros{
+		width: 37%;
+	}
+	.contacto form{
+		padding-left: 5%;
+		width: 100%;
+	}
+	footer img{
+		width: 15%;
+	}
 }
