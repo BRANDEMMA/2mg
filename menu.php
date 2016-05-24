@@ -42,11 +42,11 @@
 	</label>
 	<nav class="menu">
 		<ul class="re">
-			<li><a href="edicion-limitada.php">EDICIÓN LIMITADA</a></li>
-			<li><a href="">EXPERIENCIAS</a></li>
-			<li><a href="trayectoria.php">TRAYECTORIA</a></li>
-			<li><a href="">MEDIOS</a></li>
-			<li><a href="#contacto">CONTACTO</a></li>
+			<li><a href="nosotros.php">Nosotros</a></li>
+			<li><a href="representaciones-comerciales.php">Representaciones Comerciales</a></li>
+			<li><a href="soluciones-eficiencia-energetica.php">Soluciones de Eficiencia Energética</a></li>
+			<li><a href="productos.php">Procurement en Ingeniería</a></li>
+			<li><a href="index.php#contacto">Contacto</a></li>
 		</ul>
 	</nav>
 </div>

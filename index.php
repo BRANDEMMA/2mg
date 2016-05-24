@@ -62,6 +62,7 @@
 			<h2>Nuestros Clientes</h2>
 			<img class="clientes" src="img/votorantim.jpg">
 			<img class="clientes" src="img/ipp.jpg">
+			<img class="clientes" src="img/ipp.jpg">
 			<img class="clientes" src="img/trieste.jpg">
 		</div>
 

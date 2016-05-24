@@ -108,6 +108,19 @@
 						<div class="clear"></div>
 					</div>
 
+					<div class="socios espacio-socios">
+						<div class="izquierda-socios">
+							<img src="img/fabio-elias.jpg">
+						</div>
+						<div class="derecha-socios">
+							<h3>Jayme Girio de Almeida</h3>
+							<h4>Ingeniero Mecánico</h4>
+							<p>Especialista en gestión logística de proyectos, coordinanciones de empresas comerciales... </p>
+							<a class="ver-socio" href="jayme-girio-de-almeida.php">VER MÁS +</a>
+						</div>
+						<div class="clear"></div>
+					</div>
+
 					<div class="clear"></div>
 				</div>
 			</div>

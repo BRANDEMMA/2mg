@@ -136,6 +136,9 @@ header{
 
 
 .menu-responsive{
+	display: none;
+	font-family: "my_riad_pro_regular";
+	margin-top: 2%;
 	position: relative;
 	width: 100%;
 }
@@ -145,7 +148,7 @@ header{
 	width: 30px;
 }
 .menu-responsive label:hover{
-	background-color: rgba(0,0,0,0.2);
+	background-color: rgba(213,133,44,0.7);
 	cursor: pointer;
 }
 .menu-responsive img{
@@ -157,14 +160,14 @@ header{
 	display: none;
 }
 .menu{
-	background-color: rgba(255,255,255,0.5);
+	background-color: rgba(44,61,109,0.8);
 	left: -500px;
 	position: absolute;
 	transition: all 0.5s;
 	-moz-transition: all 0.5s;
 	-webkit-transition: all 0.5s;
 	-o-transition: all 0.5s;
-	width: 200px;
+	width: 250px;
 	z-index: 1000;
 }
 .menu ul{
@@ -175,10 +178,10 @@ header{
   	padding: 0;	
 }
 .menu li a{
-	color: black;
+	color: white;
  	display: block;
   	font-size: 1em;
-  	padding: 15px 20px 15px 0;
+  	padding: 15px 20px 15px 20px;
   	text-align: left;
   	text-decoration: none;  	
 }
@@ -418,13 +421,14 @@ header{
 /*EFECTO DE FILTRO ESCALA DE GRISES (TERMINA)*/
 .contenedor-asociados{
 	margin: 0 auto;
-	width: 93%;
+	width: 765px;
 }
 .socios{
 	background-color: #003F72;
 	border-radius: 15px;
 	color: white;
 	float: left;
+	margin: 3% 0;
 	padding: 1%;
 	width: 250px;
 }
@@ -471,7 +475,7 @@ header{
 	text-decoration: none;
 }
 .espacio-socios{
-	margin: 0 9%;
+	margin-left: 30%;
 }
 
 
@@ -484,7 +488,7 @@ header{
     font-size: 2.5em;
 }
 .clientes{
-	margin: 3% 5%;
+	margin: 3% 14%;
 	width: 20%;
 }
 
@@ -1325,13 +1329,60 @@ footer img{
 
 
 /*================   RESPONSIVE  ===============*/
+@media(max-width: 1310px){
+	.valores{
+		margin: 2% 6%;
+		width: 17%;
+	}
+}
+@media(max-width: 1129px){
+	.derecha-nosotros-centrado p{
+		text-align: justify;
+	}
+	.valores p{
+		text-align: center;
+	}
+}
+@media(max-width: 967px){
+	.contenedor-valores{
+		width: 90%;
+	}
+	.valores{
+		margin: 2% 5%;
+    	width: 132px;
+	}
+}
+@media(max-width: 936px){
+	.valores{
+		margin: 2% 4%;
+	}
+}
 @media(max-width: 900px){
 	.menu-principal #inicio{
 		width: 20%;
 	}
 }
-
+@media(max-width: 848px){
+	.valores{
+		margin: 2% 3%;
+	}
+}
+@media(max-width: 775px){
+	.valores{
+		margin: 2% 2.5%;
+	}
+}
 @media(max-width: 750px){
+	.menu-principal #inicio{
+		margin: 0 auto;
+		width: 30%;
+	}
+	.menu-principal nav{
+		display: none;
+	}
+	.menu-responsive{
+		display: block;
+	}
 	.izquierda-nosotros img{
 		width: 32%;
 	}
@@ -1344,11 +1395,167 @@ footer img{
 	.derecha-nosotros{
 		width: 37%;
 	}
+	.clientes {
+	    margin: 3% 10%;
+	    width: 29%;
+	}
 	.contacto form{
 		padding-left: 5%;
 		width: 100%;
 	}
+	.mapas{
+		width: 90%;
+	}
+	.espacio-mapas{
+		border-bottom: 2px solid #cccbcc;
+		border-right: none;
+		margin-bottom: 3%;
+	    padding: 0 5% 3% 5%;
+	}
+	.espacio-mapas2 {
+    	padding-left: 5%;
+    	padding-right: 5%;
+	}
 	footer img{
 		width: 15%;
+	}
+}
+@media(max-width: 743px){
+	.contenedor-valores{
+		width: 100%;
+	}
+	.valores{
+		margin: 2% 3.5%;
+	}
+}
+@media(max-width: 730px){
+	.valores{
+		margin: 2% 3.4%;
+	}
+}
+@media(max-width: 723px){
+	.valores{
+		margin: 2% 3.3%;
+	}
+}
+@media(max-width: 650px){
+	.menu-principal #inicio{
+		width: 35%;
+	}
+	.izquierda-nosotros{
+		padding-right: 0;
+		width: 100%;
+	}
+	.izquierda-nosotros img{
+		padding-left: 0;
+	}
+	.izquierda-nosotros p{
+		margin-left: 0;
+	}
+	.izquierda-nosotros a{
+		float: left;
+	}
+	.derecha-nosotros{
+		float: none;
+		margin: 0 auto;
+		width: 45%;
+	}
+	.clientes{
+		margin: 3% 7%;
+    	width: 35%;
+	}
+	.contacto form{
+		margin: 0 auto;
+		padding-left: 0;
+    	width: 70%;
+	}
+	.campos-formulario,.mensaje-formulario,.contacto input,.contacto textarea{
+		width: 100%;
+	}
+	.contacto button{
+		margin-right: 0;
+	}
+	.error{
+		text-align: center;
+	}
+}
+@media(max-width: 600px){
+	.derecha-nosotros{
+		width: 55%;
+	}
+	.nosotros h2, .contacto h2{
+		font-size: 2.2em;
+	}
+	footer img{
+		width: 20%;
+	}
+}
+@media(max-width: 500px){
+	.menu-principal #inicio{
+		width: 45%;
+	}
+	.redes-sociales{
+		margin-bottom: 10px;
+	}
+	.facebook,.google,.twitter{
+		height: 15px;
+		width: 15px;
+	}
+	.youtube{
+		height: 15px;
+		width: 20px;
+	}
+	footer img{
+		width: 24%;
+	}
+}
+@media(max-width: 400px){
+	.menu-principal #inicio{
+		width: 55%;
+	}
+	.representaciones{
+		margin-right: 0;
+		width: 100%;
+	}
+	.procurement{
+		margin-top: 2%;
+		width: 100%;
+	}
+	.derecha-nosotros{
+		width: 65%;
+	}
+	.clientes{
+		margin: 3% 5%;
+    	width: 39%;
+	}
+	.contacto form{
+		width: 85%;
+	}
+	.izquierda-mapas{
+		margin-right: 0;
+		width: 100%;
+	}
+	.derecha-mapas{
+		width: 100%;
+	}
+	footer img{
+		width: 28%;
+	}
+}
+@media(max-width: 350px){
+	.menu-principal #inicio{
+		width: 60%;
+	}
+	.izquierda-nosotros img{
+		width: 40%;
+	}
+	.derecha-nosotros{
+		width: 70%;
+	}
+	.nosotros h2, .contacto h2{
+		font-size: 1.8em;
+	}
+	footer img{
+		width: 32%;
 	}
 }
