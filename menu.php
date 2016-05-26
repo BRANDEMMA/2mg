@@ -15,6 +15,7 @@
 			<li><a href="nosotros.php">Nosotros</a>
 				<ul>
 					<li><a href="nosotros.php#asociados">Asociados</a></li>
+					<li><a href="nuestros-clientes.php">Nuestros Clientes</a></li>
 				</ul>
 			</li>
 			<li class="lineas"></li>
