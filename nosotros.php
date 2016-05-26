@@ -32,8 +32,9 @@
 		<div class="derecha-nosotros2">
 			<div class="derecha-nosotros-centrado">
 				<h2>Nosotros</h2>
-				<p class="texto-gris espaciado">Somos una empresa peruana cuyos socios fundadores son brasileños inmigrantes en Perú hace mas de 10 años y nos dedicamos a actividades de importación y exportación de productos, servicios y soluciones en Procurement de Ingenieria.<br><br>
-				Iniciamos nuestras operaciones en el ano 2015 y nuestra misión ‘es ser una empresa de importación y exportación de productos, servicios y tecnologías de alta gama para el mercado Peruano y Sudamérica.<br><br>
+				<p class="texto-gris espaciado">Somos una empresa peruana cuyos socios fundadores son brasileños inmigrantes en Perú hace mas de 10 anos y nos dedicamos a actividades de importación y exportación de productos, servicios y soluciones en Procurement de Ingeniería.<br><br>
+				Iniciamos nuestras operaciones en el ano 2015 y nuestra misión ‘es ser una empresa de importación y exportación de productos, servicios y tecnologías de alta gama para el mercado Peruano y Sudamérica..<br><br>
+				A través de nuestra joint venture con la empresa americana HF Business Corporation, empresa con sede en Pembroke Pines, Florida, brindamos a nuestros clientes la facilidad de ejecución de operaciones de importación desde Estados Unidos con mayor agilidad, garantizando los plazos al cliente.<br><br>
 				Somos una empresa joven, dinámica y que detiene conocimiento técnico necesario para brindar atención en el mercado Peruano y Sudamérica, ofreciendo soluciones y sinergia en logística de manera completa y satisfactoria para nuestros clientes.</p>
 
 				<div class="mision">
@@ -43,7 +44,7 @@
 				
 				<div class="vision">
 					<h3>Visión</h3>
-					<p class="texto-gris espaciado">Desarollar relaciones comerciales duraderas con nuestros clientes y proveedores, ajustandose a la necesidad de ellos.</p>
+					<p class="texto-gris espaciado"> Desarrollar relaciones comerciales duraderas con nuestros clientes y proveedores, ajustándose a la necesidad de ellos.</p>
 				</div>
 				<div class="clear"></div>
 
@@ -74,8 +75,7 @@
 						<div class="derecha-socios">
 							<h3>Fabio Elias</h3>
 							<h4>Ingeniero Civil</h4>
-							<p>Especialista en Derecho de Arbitraje. Asesor en Ingeniería, procesos de Conciliación…
-</p>
+							<p>Especialista en Derecho de Arbitraje. Asesor en Ingeniería, procesos de Conciliación…</p>
 							<a class="ver-socio" href="fabio-elias.php">VER MÁS +</a>
 						</div>
 						<div class="clear"></div>
@@ -88,8 +88,7 @@
 						<div class="derecha-socios">
 							<h3>Ernani Mota</h3>
 							<h4>Ingeniero Civil</h4>
-							<p>Especialista en Gerencia de ingeniería de obras viales, portuarias y de centros de abastecimiento humano...
-</p>
+							<p>Especialista en Gerencia de ingeniería de obras viales, portuarias y de centros de abastecimiento humano...</p>
 							<a class="ver-socio" href="ernani-mota.php">VER MÁS +</a>
 						</div>
 						<div class="clear"></div>
@@ -97,7 +96,7 @@
 
 					<div class="socios">
 						<div class="izquierda-socios">
-							<img src="img/fabio-elias.jpg">
+							<img src="img/jayme-girio.jpg">
 						</div>
 						<div class="derecha-socios">
 							<h3>Jayme Girio de Almeida</h3>
@@ -110,13 +109,13 @@
 
 					<div class="socios espacio-socios">
 						<div class="izquierda-socios">
-							<img src="img/fabio-elias.jpg">
+							<img src="img/marcos-de-moura.jpg">
 						</div>
 						<div class="derecha-socios">
-							<h3>Jayme Girio de Almeida</h3>
-							<h4>Ingeniero Mecánico</h4>
-							<p>Especialista en gestión logística de proyectos, coordinanciones de empresas comerciales... </p>
-							<a class="ver-socio" href="jayme-girio-de-almeida.php">VER MÁS +</a>
+							<h3>Marcos de Moura</h3>
+							<h4>Ingeniero Civil</h4>
+							<p>Especialista en Estructuras por la Universidad Federal de Minas Gerais, Brasil y Master en... </p>
+							<a class="ver-socio" href="marcos-de-moura.php">VER MÁS +</a>
 						</div>
 						<div class="clear"></div>
 					</div>
