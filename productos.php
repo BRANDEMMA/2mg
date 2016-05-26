@@ -77,13 +77,12 @@
 		<div class="texto-detalle">
 			<h2>Procurement en <span>Ingeniería</span></h2><img src="img/ingeniero.jpg">
 			<p>Proveemos asesoría en Procurement, ofreciendo a nuestros clientes agilidad en los procesos internos de compras, garantizando las mejores practicas para la administración de la cadena de suministros (Supply Chain Management) esenciales para que estos dediquen su tiempo al core business de las empresas, respectando las políticas de selección de proveedores implementados por estos (Compliance).<br><br>
-			El abastecimiento o aprovisionamiento (procurement) es la función logística mediante la cual se provee a una empresa de todo el material necesario para su funcionamiento. Su concepto es sinónimo de provisión o suministro.<br><br>
+			El abastecimiento o aprovisionamiento (Procurement) es la función logística mediante la cual se provee a una empresa de todo el material necesario para su funcionamiento. Su concepto es sinónimo de provisión o suministro.<br><br>
 			Las actividades incluidas dentro de este proceso son:<br><br>
-			Cálculo de necesidades : Planeamiento Logístico y de Consumo<br>
+			Cálculo de necesidades : Planeamiento Logístico y de Consumo<br><br>
 			Compra o Adquisición: Realiza las adquisiciones (obtención, almacenamiento, control stock y utilización de desperdicios)<br><br>
-			El abastecimiento (Procurement) es una de las funciones comunes básicas de cualquier organización, puesto que cada una de ellas depende - si bien en mayor o menor grado - de los materiales y suministros de otras empresas. Ninguna organización es autosuficiente. <br><br>
-			Está claro que el área de Procurement de cualquier empresa juega un rol importante, y que, sobre todo, influye de manera relevante en los costos de la misma y por consiguiente en los precios también, lo cual, a su vez, repercute en la capacidad de mantenerse en el mercado y competir. El éxito de una empresa, creada para ofrecer productos en el mercado, depende en gran medida de que pueda lograr una combinación razonable de la cantidad, la calidad, la oportunidad y el costo de los bienes o servicios que produce, lo que estimula que nuestra empresa ofrezca  estos servicios en el mercado Peruano.
-			</p>
+			El abastecimiento (Procurement) es una de las funciones comunes básicas de cualquier organización, puesto que cada una de ellas depende - si bien en mayor o menor grado - de los materiales y suministros de otras empresas. Ninguna organización es autosuficiente.<br><br>
+			Está claro que el área de Procurement de cualquier empresa juega un rol importante, y que, sobre todo, influye de manera relevante en los costos de la misma y por consiguiente en los precios también, lo cual, a su vez, repercute en la capacidad de mantenerse en el mercado y competir. El éxito de una empresa, creada para ofrecer productos en el mercado, depende en gran medida de que pueda lograr una combinación razonable de la cantidad, la calidad, la oportunidad y el costo de los bienes o servicios que produce, lo que estimula que nuestra empresa ofrezca  estos servicios en el mercado Peruano.</p>
 			
 		</div>
 
