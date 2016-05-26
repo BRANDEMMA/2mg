@@ -1,12 +1,21 @@
 <?php
 ?>
-
+<div class="idiomas">
+	<label>Idioma</label>
+	<ul>
+		<a href="#"><i class="fa fa-caret-down" aria-hidden="true"></i> Español</a>
+		<li><a href="ingles/index.php">Inglés</a></li>
+		<li><a href="portugues/index.php">Portugués</a></li>
+	</ul>
+</div>
 <div class="redes-sociales">
 	<a href="" target="_blank"><div class="facebook"></div></a>
 	<a href="" target="_blank"><div class="google"></div></a>
 	<a href="" target="_blank"><div class="twitter"></div></a>
 	<a href="" target="_blank"><div class="youtube"></div></a>
 </div>
+
+<div class="clear"></div>
 
 <div class="menu-principal">
 	<a id="inicio" href="index.php"><img src="img/logo-2mg.gif"></a>
@@ -26,7 +35,7 @@
 			<li><a href="productos.php">Procurement en Ingeniería</a>
 				<ul>
 					<li><a href="productos.php#productos">Productos</a></li>
-					<li><a href="productos.php#representaciones">Presentaciones</a></li>
+					<li><a href="productos.php#representaciones">Representaciones</a></li>
 				</ul>
 			</li>
 			<li class="lineas"></li>

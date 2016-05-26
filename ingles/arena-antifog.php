@@ -21,7 +21,7 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
 	<!--================== 	ENLACE ICONO (TERMINA)  =====================-->
-
+	
 </head>
 
 <body>
@@ -34,17 +34,17 @@
 
 
 	<div class="producto-detalle">
-	<h1> Arena Antifog – Liquido Antipanante </h1> 
+	<h1> Arena Antifog – Liquido Antipañante </h1> 
 	<p>
 		<img class="producto-img" src="img/spray-anti-fog.jpg" />
 		<br><br>
-		<span>Fabricante: </span>ARENA<br>
-		<span>País de Procedencia: </span>EEUU<br>
-		<span>Embalaje: </span>Spray 30 ml<br>
-		<span>Plazo de Validez: </span>Indeterminado<br>
-		<span>Composición Química: </span>81.5% AQUA 13% POLYURETHANE 3% POLYVINYLPYRROLIDONE 2% DECYL POLYGLUCOSE 0.3% METHYL PYRROLIDONE 0.2% TREITHYLAMINE.<br>
-		<span>Para que Sirve: </span>Desempañar gafas de buceó, actividades de natación, lentes de seguridad de actividades industriales (minería).<br>
-		<span>Donde es Aplicable: </span>Actividades y Deportes Acuáticos que requieran uso de gafas sumerjas (buceo, natación), Industria Minera en General (Seguridad).<br>
+		<span>Maker: </span>ARENA<br>
+		<span>Country of origin: </span>EEUU<br>
+		<span>Packaging: </span>Spray 30 ml<br>
+		<span>Shelf Life: </span>Indeterminate<br>
+		<span>Chemical composition: </span>81.5% AQUA 13% POLYURETHANE 3% POLYVINYLPYRROLIDONE 2% DECYL POLYGLUCOSE 0.3% METHYL PYRROLIDONE 0.2% TREITHYLAMINE.<br>
+		<span>What is it for: </span>Defogging goggles, swimming activities, safety glasses industrial activities (mining).<br>
+		<span>Where applicable: </span>Watersports activities and requiring use of dive goggles (diving, swimming), Mining Industry in General (Security).<br>
 	</p>
 
 	<div class="clear"></div>

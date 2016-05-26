@@ -56,8 +56,8 @@
 		<div class="nosotros"><a name="nosotros"></a>
 			<div class="izquierda-nosotros">
 				<img src="img/logo-2mg.gif">
-				<p>Somos una empresa peruana cuyos socios fundadores son brasileños inmigrantes en Perú hace mas de 10 años y nos dedicamos a actividades de importación y exportación de productos, servicios y soluciones en Procurement de Ingenieria.</p>
-				<a class="boton" href="nosotros.php">Leer Más</a>
+				<p>We are a Peruvian company whose founding members are Brazilians living in Peru for over 10 years and are dedicated to the import and export activities of products, services and solutions related to the Procurement Engineering branch.</p>
+				<a class="boton" href="nosotros.php">Ler Mais</a>
 
 				<div class="clear"></div>
 			</div>
@@ -65,7 +65,7 @@
 
 			<div class="clear"></div>
 
-			<h2>Nuestros Clientes</h2>
+			<h2>Nossos clientes</h2>
 			<img class="clientes" src="img/votorantim.jpg">
 			<img class="clientes" src="img/ipp.jpg">
 			<img class="clientes" src="img/polycoas.jpg">

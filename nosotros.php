@@ -16,6 +16,12 @@
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (TERMINA)  =====================-->
 
+	<!--================== 	ENLACE ICONO (INICIA)  =====================-->
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+	<!--================== 	ENLACE ICONO (TERMINA)  =====================-->
+
 </head>
 
 <body>
@@ -33,7 +39,7 @@
 			<div class="derecha-nosotros-centrado">
 				<h2>Nosotros</h2>
 				<p class="texto-gris espaciado">Somos una empresa peruana cuyos socios fundadores son brasileños inmigrantes en Perú hace mas de 10 anos y nos dedicamos a actividades de importación y exportación de productos, servicios y soluciones en Procurement de Ingeniería.<br><br>
-				Iniciamos nuestras operaciones en el ano 2015 y nuestra misión ‘es ser una empresa de importación y exportación de productos, servicios y tecnologías de alta gama para el mercado Peruano y Sudamérica..<br><br>
+				Iniciamos nuestras operaciones en el ano 2015 y nuestra misión ‘es ser una empresa de importación y exportación de productos, servicios y tecnologías de alta gama para el mercado Peruano y Sudamérica.<br><br>
 				A través de nuestra joint venture con la empresa americana HF Business Corporation, empresa con sede en Pembroke Pines, Florida, brindamos a nuestros clientes la facilidad de ejecución de operaciones de importación desde Estados Unidos con mayor agilidad, garantizando los plazos al cliente.<br><br>
 				Somos una empresa joven, dinámica y que detiene conocimiento técnico necesario para brindar atención en el mercado Peruano y Sudamérica, ofreciendo soluciones y sinergia en logística de manera completa y satisfactoria para nuestros clientes.</p>
 

@@ -34,11 +34,46 @@ header{
 	padding-bottom: 1.5%;
 	width: 90%;
 }
+.idiomas{
+	color: #707070;
+	display: flex;
+	font-family: "my_riad_pro_regular";
+	float: left;
+	margin-top: 10px;
+}
+.idiomas ul{
+	list-style: none;
+	margin: 0;
+	margin-left: 10px;
+	padding: 0;
+	position: absolute;
+}
+.idiomas ul a{
+	color: #707070;
+	text-decoration: none;
+}
+.idiomas ul a:hover{
+	color: #D57B2C;
+}
+.idiomas ul a i{
+	margin-bottom: 8px;
+	margin-right: 5px;
+}
+.idiomas ul li{
+	background-color: rgba(255,255,255,0.9);
+	display: none;	
+	padding-bottom: 5px;
+	padding-left: 18px;
+	padding-right: 5px;
+}
+.idiomas ul:hover > li{
+	display: block;
+}
 .redes-sociales{
 	display: flex;
+	float: right;
 	justify-content: flex-end;
 	margin-top: 20px;
-	width: 100%;
 }
 .facebook{
 	background: url(../img/facebook-2mg.png) no-repeat left;
@@ -92,7 +127,12 @@ header{
 }
 .menu-principal img{
 	height: 100%;
+	transition: all 0.5s;
 	width: 100%;
+}
+.menu-principal img:hover{
+	transform: scale(1.1,1.1);
+	transition: all 0.5s;
 }
 .menu-principal nav{
 	width: 85%;
@@ -396,7 +436,7 @@ header{
 	margin: 3% 4.5% 6% 4.5%;
 }
 /*EFECTO DE FILTRO ESCALA DE GRISES (INICIO)*/
-.asociados{
+.izquierda-socios img{
 	filter: url('#grayscale'); /* Versión SVG para IE10, Chrome 17, FF3.5, Safari 5.2 and Opera 11.6 */
 	-webkit-filter: grayscale(100%);
 	-moz-filter: grayscale(100%);
@@ -404,19 +444,25 @@ header{
 	-o-filter: grayscale(100%);
 	filter: grayscale(100%); /* Para cuando es estándar funcione en todos */
 	filter: Gray(); /* IE4-8 and 9 */
+
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
 }
-.asociados:hover{
+.izquierda-socios img:hover{
 	-webkit-filter: grayscale(0%);
 	-moz-filter: grayscale(0%);
 	-ms-filter: grayscale(0%);
 	-o-filter: grayscale(0%);
 	filter: none;
 
-	-webkit-transition: all 0.7s ease;
-	-moz-transition: all 0.7s ease;
-	-ms-transition: all 0.7s ease;
-	-o-transition: all 0.7s ease;
-	transition: all 0.7s ease;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
 }
 /*EFECTO DE FILTRO ESCALA DE GRISES (TERMINA)*/
 .contenedor-asociados{
@@ -1334,6 +1380,29 @@ footer img{
 	float: left;
 	width: 40%;
 }
+
+
+
+
+
+
+
+
+/*================   ESTILOS SECCION NUESTROS CLIENTES  ===============*/
+.contenedor-clientes{
+	width: 100%;
+}
+.contenedor-clientes h2{	
+    color: #2c3d6d;
+    font-family: "my_riad_pro_bold";
+    font-size: 2.5em;	
+}
+.contenedor-clientes img{
+	margin: 2% 4.5%;
+	width: 15%;
+}
+
+
 
 
 

@@ -36,14 +36,13 @@
 			<img src="img/jayme-girio.jpg">
 			<div class="informacion-socio">
 				<h2>Jayme Girio de Almeida</h2>
-				<h4>Ingeniero Mecánico</h4>
+				<h4>Mechanical Engineer</h4>
 				<a href="mailto:jayme@2mg.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;jayme@2mg.com</a>
-				<p>Jayme Girio de Almeida se especializo en gestión de logística de proyectos, coordinando empresas comercial exportadora (trade company), compras nacionales e internacionales de materiales y equipos logísticas de equipos en los países de América Latina como Colombia, Perú, Bolivia, Ecuador y Chile.​<br><br>
-				Posee amplia experiencia en Gestión de residuos públicos y relleno sanitario​, implementación y gerenciamiento de programa de mantenimiento preventivo/predictivo de maquinaria pesada y plantas industriales​, además de Gerenciamiento de control de costos y análisis de fallas.​<br><br>
-				Es ingeniero mecánico egresado de la Universidad de Mogi das Cruzes - UMC en São Paulo – Brasil  1985)​<br><br>
-				En el ámbito profesional, se ha desempeñado como Gerente General de empresa de residuos públicos y relleno sanitario, Gerente  mantenimiento en obras de infraestructuras, experto en construcciones de túneles y Gerente de Logísticas y Equipos.​<br><br>
-				<h4>Idiomas:</h4>
-				<p>Portugués, Español e Inglés.</p>
+				<p>Jayme Girio de Almeida specializes in project logistics management , coordinating exporting commercial companies ( Trade Company ) , national and international purchases of materials and equipment in Latin America like Colombia , Peru , Bolivia , Ecuador and Chile.<br><br>
+				It has extensive experience in public waste management and landfills , implementation and management of preventive maintenance program for heavy machinery and industrial plants, and Cost Control Management and Analyses failures .It is a mechanical engineer from the University Mogi das Cruzes - UMC in São Paulo - Brazil 1985)<br><br>
+				At the professional level, he served as Director of Public Waste Landfills companies and Health , Maintenance Manager in infrastructure and engineer responsible for building tunnels , as well as logistics manager and equipment. <br><br>
+				<h4>Languages:</h4>
+				<p>Portuguese , Spanish and English</p>
 <br><br>
 				
 			</div>

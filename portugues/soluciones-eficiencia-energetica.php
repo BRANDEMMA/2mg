@@ -37,11 +37,11 @@
 		</div>
 		<div class="derecha-energetica">
 			<div class="derecha-energetica-centrado">
-				<h2 class="tit-part1">Soluciones de</h2>
-				<h2 class="tit-part2">Eficiencia <span>Energética</span></h2>
-				<p>La eficiencia energética consiste en obtener el mejor desempeño en la producción de un material o servicio con el menor gasto de energía. Como ejemplo de acción, consta la modernización de equipos en el sentido de reducción de consumo de energía. Los programas para el consumo consciente también contribuyen para el desarrollo de la economía.<br><br>
-				Gran parte de la energía es empleada en la fabricación de los productos que utilizamos, especialmente los que llevan como materia prima papel, aluminio, vidrio y acero. Por lo tanto, acciones de reutilización y reciclaje también ayudan a ahorrar energía. Del mismo modo, la energía es utilizada en el bombeo de agua, lo que se ahorrada, disminuye el consumo energético.<br><br>
-				Como parte de los trabajos y servicios que ofrecemos, tenemos la capacidad de efectuar estudios de viabilidad económica para cambio de focos de iluminación por luces LED, contribuyendo, de esto modo, con la preservación del ambiente y añadiendo mejoras en la economía Peruana.</p>
+				<h2 class="tit-part1">Soluções de</h2>
+				<h2 class="tit-part2">Eficiência <span>Energética</span></h2>
+				<p>A eficiência energética consiste em obter o melhor desempenho na produção de um material ou serviço com o menor gasto de energia. Como exemplo de ação, consta a modernização de equipamentos no sentido de redução de consumo de energia. Os programas para o consumo consciente também contribuem para o desenvolvimento da economia.<br><br>
+				Grande parte da energia ‘e empregada na fabricação dos produtos que utilizamos, especialmente os que levam como matéria prima papel, vidro e aço. Portanto, ações de reutilização e reciclagem também ajudam a economizar energia. Do mesmo modo, a energia ‘e utilizada para o bombeamento de agua, o que se economizada, diminuem o consumo energético.<br><br>
+				Como parte dos trabalhos e serviços que oferecemos, temos a capacidade de efetuar estudos de viabilidade econômica para a substituição de luzes por tecnologia LED, contribuindo, deste modo, com a preservação do meio ambiente e promovendo melhoras na economia Peruana.</p>
 				
 				<!-- <p class="texto-azul espaciado">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet, ac vulputate ipsum faucibus. Duis ut eleifend neque.</p> -->
 
@@ -49,30 +49,30 @@
 					<div class="caracteristicas foco">
 						<img src="img/foco.png"> 
 						<img src="img/corchete.png"> 
-						<p>Mejor desempeño en la producción.</p>
+						<p>Melhor desempenho na produção.</p>
 					</div>
 
 					<div class="caracteristicas rayo">
 						<img src="img/rayo.png"> 
 						<img src="img/corchete.png"> 
-						<p>Menor gasto de energía.</p>
+						<p>Menor consumo de energia.</p>
 					</div>
 
 					<div class="caracteristicas esquema">
 						<img src="img/esquema.png"> 
 						<img src="img/corchete.png"> 
-						<p>Estudios de viabilidad económica para cambio de iluminación.</p>
+						<p>Viabilidade econômica estuda para a mudança de iluminação.</p>
 					</div>
 
 					<div class="caracteristicas precaucion">
 						<img src="img/precaucion.png"> 
 						<img src="img/corchete.png"> 
-						<p>Reducción de consumo de energía.</p>
+						<p>Redução do consumo de energia.</p>
 					</div>
 				</div>
 
 				<div class="escribenos">
-					<a href="">Escríbenos <img src="img/flecha-derecha-blanca.png"></a>
+					<a href="">Escreva-nos <img src="img/flecha-derecha-blanca.png"></a>
 				</div>
 
 				<!-- <p class="texto-azul espaciado">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum urna vel enim aliquet.</p>

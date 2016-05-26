@@ -34,17 +34,17 @@
 
 
 	<div class="producto-detalle">
-	<h1> Arena Antifog – Liquido Antipanante </h1> 
+	<h1> Arena Antifog – Liquido Antipañante </h1> 
 	<p>
 		<img class="producto-img" src="img/spray-anti-fog.jpg" />
 		<br><br>
 		<span>Fabricante: </span>ARENA<br>
-		<span>País de Procedencia: </span>EEUU<br>
-		<span>Embalaje: </span>Spray 30 ml<br>
-		<span>Plazo de Validez: </span>Indeterminado<br>
-		<span>Composición Química: </span>81.5% AQUA 13% POLYURETHANE 3% POLYVINYLPYRROLIDONE 2% DECYL POLYGLUCOSE 0.3% METHYL PYRROLIDONE 0.2% TREITHYLAMINE.<br>
-		<span>Para que Sirve: </span>Desempañar gafas de buceó, actividades de natación, lentes de seguridad de actividades industriales (minería).<br>
-		<span>Donde es Aplicable: </span>Actividades y Deportes Acuáticos que requieran uso de gafas sumerjas (buceo, natación), Industria Minera en General (Seguridad).<br>
+		<span>País de origem: </span>EEUU<br>
+		<span>Embalagem: </span>Spray 30 ml<br>
+		<span>A vida de prateleira: </span>Indeterminado<br>
+		<span>Composição química: </span>81.5% AQUA 13% POLYURETHANE 3% POLYVINYLPYRROLIDONE 2% DECYL POLYGLUCOSE 0.3% METHYL PYRROLIDONE 0.2% TREITHYLAMINE.<br>
+		<span>Para que serve: </span>Óculos de desembaçamento, atividades de natação, óculos de segurança actividades industriais (mineração).<br>
+		<span>Se for o caso: </span>Actividades de desportos aquáticos e que exige a utilização de óculos de mergulho (mergulho, natação), a indústria de mineração em geral (segurança).<br>
 	</p>
 
 	<div class="clear"></div>

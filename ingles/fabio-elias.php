@@ -33,16 +33,16 @@
 	
 	<div class="contenido linea-energetica">
 		<div class="detalle-socio">
-			<img src="img/ernani-mota.jpg">
+			<img src="img/fabio-elias.jpg">
 			<div class="informacion-socio">
-				<h2>Ernani Mota</h2>
-				<h4>Ingeniero Civil</h4>
-				<a href="mailto:ernani@2mg.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;ernani@2mg.com</a>
-				<p>Ernani Mota es graduado en Ingeniería civil y ciencia de la computación con especialización en gerenciamiento de la construcción civil.​<br><br>
-				Con 23 años de actuación profesional en obras de infraestructuras, ya diseñó y realizó las especificaciones técnicas de diversos proyecto de alcantarillado y sistema de abastecimiento de agua, incluyendo plantas de tratamiento y estaciones de bombeo de aguas residuales, industriales y para el consumo humano. Además participó de la gerencia de ingeniería de obras viales, portuarias y de centros de abastecimiento humano siendo responsable por la aprobación de las compras técnicas.​<br><br></p>
-				<h4>Idiomas:</h4>
-				<p>Portugués, Español e Inglés.</p>
-
+				<h2>Fabio Elias</h2>
+				<h4>Civil Engineer</h4>
+				<a href="mailto:fabio@2mg.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;fabio@2mg.com</a>
+				<p>Specialists in Law of Arbitration from the University of Lima in 2013 and matters relating to the Mining Graduate School Gerens in 2014. Assessor issues related to engineering, conciliation and arbitration processes ,financial economic planning project execution, as well as financial and economic feasibility studies.<br><br>
+				He is civil engineer graduated from Bandeirante University of São Paulo UNIBAN 2007.<br><br>
+				At the professional level, he is played as a technical Office Engineer, Engineer and Production Manager ,Planning Manager and Controller and Works Manager ( Roads , Buildings and Sanitation ). In addition, he worked as commercial management assistant.<br><br></p>
+				<h4>Languages:</h4>
+				<p>Portuguese , Spanish and English </p>
 			</div>
 
 			<div class="clear"></div>
@@ -52,7 +52,7 @@
 		?>
 	</div>
 
-		<div class="clear"></div>
+		<div class="clear"></div>		
 	</div>
 
 	<?php

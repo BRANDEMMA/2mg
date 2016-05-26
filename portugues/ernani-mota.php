@@ -36,12 +36,13 @@
 			<img src="img/ernani-mota.jpg">
 			<div class="informacion-socio">
 				<h2>Ernani Mota</h2>
-				<h4>Ingeniero Civil</h4>
+				<h4>Engenheiro Civil</h4>
 				<a href="mailto:ernani@2mg.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;ernani@2mg.com</a>
-				<p>Ernani Mota es graduado en Ingeniería civil y ciencia de la computación con especialización en gerenciamiento de la construcción civil.​<br><br>
-				Con 23 años de actuación profesional en obras de infraestructuras, ya diseñó y realizó las especificaciones técnicas de diversos proyecto de alcantarillado y sistema de abastecimiento de agua, incluyendo plantas de tratamiento y estaciones de bombeo de aguas residuales, industriales y para el consumo humano. Además participó de la gerencia de ingeniería de obras viales, portuarias y de centros de abastecimiento humano siendo responsable por la aprobación de las compras técnicas.​<br><br></p>
+				<p>Ernani Mota ‘e formado em engenharia civil e ciência da computação com especialização em gerenciamento de construção civil.<br><br>
+				Com 23 anos de atuação profissional em obras de infraestruturas, já projetou e realizou especificações técnicas de diversos projetos de agua e esgoto, incluindo plantas de tratamento e estacoes de bombeamento de esgoto, industrial e para o consumo humano. <br><br>
+				Além disto, participou da gerencia de engenharia de obras viais, portuárias e de centros de abastecimento humano sendo responsável pela aprovação de compras técnicas. </p>
 				<h4>Idiomas:</h4>
-				<p>Portugués, Español e Inglés.</p>
+				<p>Portugués, Espanhol e Inglés.</p>
 
 			</div>
 

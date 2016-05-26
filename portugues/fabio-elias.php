@@ -33,16 +33,16 @@
 	
 	<div class="contenido linea-energetica">
 		<div class="detalle-socio">
-			<img src="img/ernani-mota.jpg">
+			<img src="img/fabio-elias.jpg">
 			<div class="informacion-socio">
-				<h2>Ernani Mota</h2>
-				<h4>Ingeniero Civil</h4>
-				<a href="mailto:ernani@2mg.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;ernani@2mg.com</a>
-				<p>Ernani Mota es graduado en Ingeniería civil y ciencia de la computación con especialización en gerenciamiento de la construcción civil.​<br><br>
-				Con 23 años de actuación profesional en obras de infraestructuras, ya diseñó y realizó las especificaciones técnicas de diversos proyecto de alcantarillado y sistema de abastecimiento de agua, incluyendo plantas de tratamiento y estaciones de bombeo de aguas residuales, industriales y para el consumo humano. Además participó de la gerencia de ingeniería de obras viales, portuarias y de centros de abastecimiento humano siendo responsable por la aprobación de las compras técnicas.​<br><br></p>
+				<h2>Fabio Elias</h2>
+				<h4>Engenheiro Civil</h4>
+				<a href="mailto:fabio@2mg.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;fabio@2mg.com</a>
+				<p>Fabio Elias se especializou em Direito de Arbitragem pela Universidade de Lima em 2013 e assuntos relacionados com Mineração pela Escola de Pós-graduação Gerens em 2014. Assessora assuntos relacionados a Engenharia, Processos de conciliação e arbitragem, planejamento económico financeiro de execução de projetos, assim como estudos de viabilidade económica financeira.<br><br>
+				‘E engenheiro civil formado pela Universidade bandeirante de São Paulo- UNIBAN, 2007.<br><br>
+				No âmbito profissional, se desempenhou como Engenheiro de Sala técnica, Engenheiro e Gerente de Produção, Gerente de Planejamento e Controller e Gerente de Obras (Estradas, Edificações e Saneamento). Além disto, trabalhou como assistente de diretoria comercial.<br><br></p>
 				<h4>Idiomas:</h4>
-				<p>Portugués, Español e Inglés.</p>
-
+				<p>Português, Espanhol e Inglês.</p>
 			</div>
 
 			<div class="clear"></div>
@@ -52,7 +52,7 @@
 		?>
 	</div>
 
-		<div class="clear"></div>
+		<div class="clear"></div>		
 	</div>
 
 	<?php

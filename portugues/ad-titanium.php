@@ -34,17 +34,17 @@
 
 
 	<div class="producto-detalle">
-	<h1> Arena Antifog – Liquido Antipanante </h1> 
+	<h1> AD Titanium – Betão aditivo em pó </h1> 
 	<p>
-		<img class="producto-img" src="img/spray-anti-fog.jpg" />
+		<img class="producto-img" src="img/bolsoadtitanium.jpg" />
 		<br><br>
-		<span>Fabricante: </span>ARENA<br>
-		<span>País de Procedencia: </span>EEUU<br>
-		<span>Embalaje: </span>Spray 30 ml<br>
-		<span>Plazo de Validez: </span>Indeterminado<br>
-		<span>Composición Química: </span>81.5% AQUA 13% POLYURETHANE 3% POLYVINYLPYRROLIDONE 2% DECYL POLYGLUCOSE 0.3% METHYL PYRROLIDONE 0.2% TREITHYLAMINE.<br>
-		<span>Para que Sirve: </span>Desempañar gafas de buceó, actividades de natación, lentes de seguridad de actividades industriales (minería).<br>
-		<span>Donde es Aplicable: </span>Actividades y Deportes Acuáticos que requieran uso de gafas sumerjas (buceo, natación), Industria Minera en General (Seguridad).<br>
+		<span>Fabricante: </span>Effectus Industria y Comercio Ltda<br>
+		<span>País de origem: </span>Brasil<br>
+		<span>Embalagem: </span>Sacos de 25, 50 Kg o Big Bag<br>
+		<span>A vida de prateleira: </span>1 ano<br>
+		<span>Composição química: </span>Material Composto inorgânico particulado de dióxido de silício cristalino, aditivo inorgânico sintético, tamanho de partícula Engenheirada, Cl stable livre de produtos químicos e SO4².<br>
+		<span>Para que serve: </span>Reduzir o consumo de água na mistura -Decreases retração - aumenta compacidade - reduz a permeabilidade - aumenta a força e módulo - Adicionado - - Reduz Teor Alkali Cimento -Reduz a reação aumenta a durabilidade da Estrutura - altas resistências Gano -inferior Custo geral inicial do Trabalho.<br>
+		<span>Se for o caso: </span>Estruturas de Concreto e Construção Geral, que ganhou a produtividade e alta resistência inicial é necessária.<br>
 	</p>
 
 	<div class="clear"></div>

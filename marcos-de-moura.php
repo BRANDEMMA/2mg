@@ -33,15 +33,15 @@
 	
 	<div class="contenido linea-energetica">
 		<div class="detalle-socio">
-			<img src="img/ernani-mota.jpg">
+			<img src="img/marcos-de-moura.jpg">
 			<div class="informacion-socio">
-				<h2>Ernani Mota</h2>
+				<h2>Marcos de Moura</h2>
 				<h4>Ingeniero Civil</h4>
-				<a href="mailto:ernani@2mg.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;ernani@2mg.com</a>
-				<p>Ernani Mota es graduado en Ingeniería civil y ciencia de la computación con especialización en gerenciamiento de la construcción civil.​<br><br>
-				Con 23 años de actuación profesional en obras de infraestructuras, ya diseñó y realizó las especificaciones técnicas de diversos proyecto de alcantarillado y sistema de abastecimiento de agua, incluyendo plantas de tratamiento y estaciones de bombeo de aguas residuales, industriales y para el consumo humano. Además participó de la gerencia de ingeniería de obras viales, portuarias y de centros de abastecimiento humano siendo responsable por la aprobación de las compras técnicas.​<br><br></p>
+				<a href="mailto:marcos@2mg.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;marcos@2mg.com</a>
+				<p>Marcos de Moura tiene experiencia de 35 anos en desarrollo de proyectos de infra-Estructura en  América del Sur, Caribe y Oriente Medio, identificando las necesidades , actuando en toda la cadena de valores, entregando a las diferentes poblaciones los bienes permanentes y mejorando sustancialmente sus diferentes calidades de vida. <br><br>
+				Graduado en Ingeniería Civil con especialización en Estructuras por la Universidad Federal de Minas Gerais, Brasil y Master en Business Administration por la Universidad de São Paulo, Brasil</p>
 				<h4>Idiomas:</h4>
-				<p>Portugués, Español e Inglés.</p>
+				<p>Portugués, Español, Ingles, lectura Francés.</p>
 
 			</div>
 
