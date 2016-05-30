@@ -45,7 +45,7 @@
 				<div class="informacion-mapas">
 					<img src="img/telefono.png">
 					<p>Teléfono:<br>
-					<a href="tel: +5112969772" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">+51 1 296 9772</a></p>
+					<a href="tel: +19544998814" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">+1 954 499 8814</a></p>
 				</div>
 			</div>
 			<div class="derecha-mapas">

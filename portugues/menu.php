@@ -32,9 +32,9 @@
 			<li class="lineas"></li>
 			<li><a href="soluciones-eficiencia-energetica.php">Soluções de Eficiência Energética</a></li>
 			<li class="lineas"></li>
-			<li><a href="productos.php">Contratos Engenharia</a>
+			<li><a href="productos.php">Procurement em Engenharia</a>
 				<ul>
-					<li><a href="productos.php#productos">Produzir</a></li>
+					<li><a href="productos.php#productos">Produtos</a></li>
 					<li><a href="productos.php#representaciones">Representações</a></li>
 				</ul>
 			</li>
