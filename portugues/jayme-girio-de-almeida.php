@@ -36,13 +36,14 @@
 			<img src="img/jayme-girio.jpg">
 			<div class="informacion-socio">
 				<h2>Jayme Girio de Almeida</h2>
-				<h4>Mechanical Engineer</h4>
+				<h4>Engenheiro Mecânico</h4>
 				<a href="mailto:jayme@2mg.com.pe"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;jayme@2mg.com.pe</a>
-				<p>Jayme Girio de Almeida specializes in project logistics management , coordinating exporting commercial companies ( Trade Company ) , national and international purchases of materials and equipment in Latin America like Colombia , Peru , Bolivia , Ecuador and Chile.<br><br>
-				It has extensive experience in public waste management and landfills , implementation and management of preventive maintenance program for heavy machinery and industrial plants, and Cost Control Management and Analyses failures .It is a mechanical engineer from the University Mogi das Cruzes - UMC in São Paulo - Brazil 1985)<br><br>
-				At the professional level, he served as Director of Public Waste Landfills companies and Health , Maintenance Manager in infrastructure and engineer responsible for building tunnels , as well as logistics manager and equipment.</p>
-				<h4>Languages:</h4>
-				<p>Portuguese , Spanish and English</p>
+				<p>Jayme Girio de Almeida se especializou em gestão de logística de projetos, coordenando empresas comercias exportadoras (Trade Company), compras nacionais e internacionais de materiais e equipamentos nos países da América Latina como Colombia, Perú, Bolivia, Equador e Chile.<br><br>
+				Possui ampla experiência em gestão de resíduos públicos e aterros sanitários, implementação e gerenciamento de programa de manutenção preventivo de equipamentos pesados e plantas industriais, além de Gerenciamento de Controle de Custos e Analises de Falhas.<br><br>
+				E’ engenheiro mecânico formado pela Universidade Mogi das Cruzes - UMC em São Paulo – Brasil  1985)​<br><br>
+				No âmbito profissional, atuou como Diretor de empresas de Resíduos Públicos e Aterros Sanitário, Gerente de manutenção em obras de infraestrutura e engenheiro responsável por construção de tuneis, além de gerente de logística e equipamentos.</p>
+				<h4>Idiomas:</h4>
+				<p>Portugués, Espanhol e Inglés.</p>
 <br><br>
 				
 			</div>

@@ -37,7 +37,7 @@
 			<div class="informacion-socio">
 				<h2>Marcos de Moura</h2>
 				<h4>Engenheiro Civil</h4>
-				<a href="mailto:marcos@2mg.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;marcos@2mg.com</a>
+				<a href="mailto:marcos@2mg.com.pe"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;marcos@2mg.com.pe</a>
 				<p>Marcos de Moura possui experiência de 35 anos no desenvolvimento de projetos de infraestrutura na América do Sul, Caribe e Oriente Médio, identificando as necessidades, atuando em toda cadeia de valores, entregando as diferentes populações os bens permanentes, melhorando substancialmente as diferentes qualidades de vida.<br><br>
 				Graduado em Engenharia Civil com especialização em Estruturas pela Universidade Federal de Minas Gerais, Brasil e Master Business Administration pela Universidade de São Paulo, Brasil.</p>
 				<h4>Idiomas:</h4>

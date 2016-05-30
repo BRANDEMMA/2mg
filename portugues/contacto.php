@@ -2,8 +2,8 @@
 ?>
 		<div class="contacto"><a name="contacto"></a>
 			<h2>Contato</h2>
-			<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="php/contacto.php">
-				<div class="centrado" id="ajaxsuccess">*O e-mail foi enviado com sucesso.*</div>
+			<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="php/mensaje-contacto.php">
+				<div class="centrado verde" id="ajaxsuccess">*O e-mail foi enviado com sucesso.*</div>
 
 				<div class="campos-formulario">
 					<label>Nome</label><br>

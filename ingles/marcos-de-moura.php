@@ -37,7 +37,7 @@
 			<div class="informacion-socio">
 				<h2>Marcos de Moura</h2>
 				<h4>Civil Engineer</h4>
-				<a href="mailto:marcos@2mg.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;marcos@2mg.com</a>
+				<a href="mailto:marcos@2mg.com.pe"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;marcos@2mg.com.pe</a>
 				<p>Marcos de Moura has 35 years of experience in the development of infrastructure projects in South America, the Caribbean and the Middle East , identifying needs , working throughout the value chain , delivering different populations permanent assets, substantially improving the different qualities of life.<br><br>
 				Degree in Civil Engineering with specialization in structures at the Federal University of Minas Gerais, Brazil and Master Business Administration from the University of São Paulo, Brazil.</p>
 				<h4>Languages:</h4>

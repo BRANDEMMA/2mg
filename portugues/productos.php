@@ -34,9 +34,9 @@
 	<div class="contenido espacio-inferior-producto">
 		<div class="formulario-requerimientos">
 			<div class="titulo-formulario"><h2>Envie-nos as suas necessidades</h2></div>
-			<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="php/contacto.php">
+			<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="php/mensaje-contacto3.php">
 				
-				<div class="centrado" id="ajaxsuccess">*O e-mail foi enviado com sucesso.*</div>				
+				<div class="centrado verde" id="ajaxsuccess">*O e-mail foi enviado com sucesso.*</div>				
 				<label>Nome</label><br>
 				<input name="nombre" id="nombre" type="text" onfocus="if(this.value == 'Nombre') this.value='';" onblur="if(this.value == '') this.value='';">
 				<div class="clear"></div>
@@ -141,7 +141,7 @@
 					</div>
 					<div class="descripcion-empresa">
 						<p><img src="img/wodon.jpg">Tianjin Wodon Wear Resistant Material Co., Ltd (CHINA WODON). located in the northern international shipping center TIANJlN, which specialized in research, development, production and sales wear-resistant material, and have many years experience in this field. Now the company owns over 100 employees, has anual  output 60,000 square meters of wear plate and 8,000 metric tons of welding consumables.</p>
-						<a class="boton-empresas" href="http://chinawodon.com/ENGLISH/" target="_blank">WEB</a> <a class="boton-empresas" href="" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a>
+						<a class="boton-empresas" href="http://chinawodon.com/ENGLISH/" target="_blank">WEB</a> <a class="boton-empresas" href="pdf/wodon-catalg.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a>
 						<div class="clear"></div>
 					</div>
 				</div>
@@ -155,7 +155,7 @@
 					</div>
 					<div class="descripcion-empresa">
 						<p><img src="img/logoeffectus.jpg">Effectus Indústria e Comércio Ltda., fundada em agosto/1993 , constantemente vem procurando renovar sua linha de produtos para tratamento e recuperação de concretos em geral . Com 100% de capital brasileiro, destina todo o seu trabalho na busca de novas tecnologias em produtos e sistemas para tratamento de concreto.</p>
-						<a class="boton-empresas" href="http://www.effectus.com.br/" target="_blank">WEB</a> <a class="boton-empresas" href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a>
+						<a class="boton-empresas" href="http://www.effectus.com.br/" target="_blank">WEB</a> <!--<a class="boton-empresas" href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a> -->
 						<div class="clear"></div>
 					</div>
 				</div>

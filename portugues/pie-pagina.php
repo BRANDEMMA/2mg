@@ -13,12 +13,12 @@
 				<div class="informacion-mapas">
 					<img src="img/correo.png">
 					<p>Email:<br>
-					<a href="">contacto2mg@2mg.com</a></p>
+					<a href="mailto:2mg@2mg.com.pe">2mg@2mg.com.pe</a></p>
 				</div>
 				<div class="informacion-mapas">
 					<img src="img/telefono.png">
 					<p>Telefone:<br>
-					<a href="">511 943 571 541</a></p>
+					<a href="tel: +5112969772" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">+51 1 296 9772</a></p>
 				</div>
 			</div>
 			<div class="derecha-mapas">
@@ -30,7 +30,8 @@
 
 		<div class="mapas espacio-mapas2">
 			<div class="izquierda-mapas">
-				<h3>USA ESCRITÓRIO <img src="img/bandera-usa.gif"></h3>		
+				<h3>USA ESCRITÓRIO <img src="img/bandera-usa.gif"></h3>
+				<img class="logo-hf" src="img/hf-business.jpg">			
 				<div class="informacion-mapas">
 					<img src="img/direccion.png">
 					<p>Endereço:<br>
@@ -39,12 +40,12 @@
 				<div class="informacion-mapas">
 					<img src="img/correo.png">
 					<p>Email:<br>
-					<a href="">contacto2mg@2mg.com</a></p>
+					<a href="mailto:2mg@2mg.com.pe">2mg@2mg.com.pe</a></p>
 				</div>
 				<div class="informacion-mapas">
 					<img src="img/telefono.png">
 					<p>Telefone:<br>
-					<a href="">511 943 571 541</a></p>
+					<a href="tel: +5112969772" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">+51 1 296 9772</a></p>
 				</div>
 			</div>
 			<div class="derecha-mapas">
@@ -58,7 +59,7 @@
 	</div>
 
 	<footer>
-		<p>Desenhado por <a href="http://brandemma.com/" target="_blank"><img src="img/logo-brandemma2.png"></a></p>
+		<p>2MG Ingenieira, Comercio y Representaciones SAC, RUC: 20600819926<br> Desenhado por <a href="http://brandemma.com/" target="_blank"><img src="img/logo-brandemma2.png"></a></p>
 	</footer>
 
 <?php

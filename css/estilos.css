@@ -686,13 +686,15 @@ header{
 
 #ajaxsuccess {
 	clear:both;
-	color: #346b2f;
 	display: none;
 	font-family: "my_riad_pro_regular";
 	font-size:18px;
 	font-weight:bold;
 	padding-bottom: 10px;
 	width: 100%;
+}
+.verde{
+	color: #346b2f;
 }
 
 
@@ -728,6 +730,11 @@ header{
 	margin-bottom: -4px;
 	margin-left: 10px;
 	width: 33.5px;
+}
+.izquierda-mapas .logo-hf{
+	margin-bottom: 10px;
+	margin-top: -20px;
+	width: 100px;
 }
 .informacion-mapas{
 	display: flex;
@@ -1306,15 +1313,8 @@ footer img{
 	padding-top: 5px;
 }
 
-#ajaxsuccess2 {
-	clear:both;
+.verde2{
 	color: #1CC620;
-	display: none;
-	font-family: "my_riad_pro_regular";
-	font-size:18px;
-	font-weight:bold;
-	padding-bottom: 10px;
-	width: 100%;
 }
 .empresas-derecha .titulo{
 	background-color: #D9BB2E;

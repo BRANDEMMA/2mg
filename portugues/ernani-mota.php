@@ -37,7 +37,7 @@
 			<div class="informacion-socio">
 				<h2>Ernani Mota</h2>
 				<h4>Engenheiro Civil</h4>
-				<a href="mailto:ernani@2mg.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;ernani@2mg.com</a>
+				<a href="mailto:ernani@2mg.com.pe"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;ernani@2mg.com.pe</a>
 				<p>Ernani Mota ‘e formado em engenharia civil e ciência da computação com especialização em gerenciamento de construção civil.<br><br>
 				Com 23 anos de atuação profissional em obras de infraestruturas, já projetou e realizou especificações técnicas de diversos projetos de agua e esgoto, incluindo plantas de tratamento e estacoes de bombeamento de esgoto, industrial e para o consumo humano. <br><br>
 				Além disto, participou da gerencia de engenharia de obras viais, portuárias e de centros de abastecimento humano sendo responsável pela aprovação de compras técnicas. </p>

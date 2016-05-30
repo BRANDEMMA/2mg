@@ -37,7 +37,7 @@
 			<div class="informacion-socio">
 				<h2>Fabio Elias</h2>
 				<h4>Ingeniero Civil</h4>
-				<a href="mailto:fabio@2mg.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;fabio@2mg.com</a>
+				<a href="mailto:fabio@2mg.com.pe"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;fabio@2mg.com.pe</a>
 				<p>Especialistas en temas de Derecho de Arbitraje por la Universidad de Lima en el ano de 2013 y temas relacionados a Minería por la Escuela de Postgrado Gerens – Peru - 2014. Asesora asuntos relacionados a ingeniería, procesos de conciliación y arbitraje, planificación económica financiera, de ejecución de proyectos, así como estudios de viabilidad económica financiera.<br><br>
 				Es ingeniero civil egresado de la Universidad Bandeirantes de Sao Paulo – Uniban – Brasil - 2007)<br><br>
 				En el ámbito profesional, se ha desempeñado como Ingeniero Asistente de oficina técnica, Ingeniero y Gerente de Producción, Gerente de Planeamiento Económico, Controller y Gerente de Contratos (Obras de Carreteras, Edificaciones y Saneamiento). Asimismo, ha sido asistente de directorio comercial.<br><br></p>

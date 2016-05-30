@@ -37,7 +37,7 @@
 			<div class="informacion-socio">
 				<h2>Ernani Mota</h2>
 				<h4>Civil Engineer</h4>
-				<a href="mailto:ernani@2mg.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;ernani@2mg.com</a>
+				<a href="mailto:ernani@2mg.com.pe"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;ernani@2mg.com.pe</a>
 				<p>Ernani Mota are graduated in civil engineering and computer science with a specialization in construction management.<br><br>
 				With 23 years of professional experience in construction of infrastructure, we have designed and conducted technical specifications of various water projects and sewage , including treatment plants and sewage pumping stations , industrial and human consumption.<br><br>
 				In addition, part of the management of engineering works vials , port and human supply centers being responsible for the adoption of technical purchases.</p>

@@ -42,6 +42,8 @@
 			<img src="img/qits.jpg">
 			<img src="img/ingelsa.jpg">
 			<img src="img/hf.jpg">
+			<img src="img/skf.jpg">
+			<img src="img/bureau-veritas-peru.jpg">
 		</div>
 
 		<?php
