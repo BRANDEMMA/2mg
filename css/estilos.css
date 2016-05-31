@@ -1423,6 +1423,14 @@ footer img{
 		text-align: center;
 	}
 }
+@media(max-width: 1000px){
+	.contenedor-asociados{
+		width: 650px;
+	}
+	.espacio-socios{
+		margin-left: 19%;
+	}
+}
 @media(max-width: 967px){
 	.contenedor-valores{
 		width: 90%;
@@ -1445,6 +1453,12 @@ footer img{
 @media(max-width: 848px){
 	.valores{
 		margin: 2% 3%;
+	}
+	.contenedor-asociados{
+		width: 550px;
+	}
+	.espacio-socios{
+		margin-left: 5%;
 	}
 }
 @media(max-width: 775px){
@@ -1512,10 +1526,26 @@ footer img{
 	.valores{
 		margin: 2% 3.4%;
 	}
+	.contenedor-asociados{
+		display: flex;
+    	flex-direction: column;
+	}
+	.socios{
+		margin: 0 auto;
+		margin-top: 3%;
+	}
+	.espacio-socios{
+		margin-left: 0;
+		margin: 0 auto;
+		margin-top: 3%;
+	}
 }
 @media(max-width: 723px){
 	.valores{
 		margin: 2% 3.3%;
+	}
+	.contenedor-valores{
+		display: flex;
 	}
 }
 @media(max-width: 650px){
@@ -1569,6 +1599,27 @@ footer img{
 	footer img{
 		width: 20%;
 	}
+	.mision{
+		margin-right: 0;
+		width: 100%;
+	}
+	.mision p, .vision p{
+		width: 93%;
+	}
+	.vision{
+		width: 100%;
+	}
+	.contenedor-valores{
+		flex-direction: column;
+	}
+	.valores{
+		margin: 0 auto;
+		margin-bottom: 3%;
+	}
+	.contenedor-asociados{
+		width: 100%;
+	}
+
 }
 @media(max-width: 500px){
 	.menu-principal #inicio{
