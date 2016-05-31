@@ -1,13 +1,13 @@
 <?php
 ?>
-<div class="idiomas">
+<!-- <div class="idiomas">
 	<label>Language</label>
 	<ul>
 		<a href="#"><i class="fa fa-caret-down" aria-hidden="true"></i> <img src="img/usa.gif"> English</a>
 		<li><a href="../index.php"> <img src="img/espana.gif"> Spanish</a></li>
 		<li><a href="../portugues/index.php"> <img src="img/brasil.gif"> Portuguese</a></li>
 	</ul>
-</div>
+</div> -->
 <div class="redes-sociales">
 	<a href="" target="_blank"><div class="facebook"></div></a>
 	<a href="" target="_blank"><div class="google"></div></a>
@@ -42,6 +42,15 @@
 			<li><a href="index.php#contacto">Contact</a></li>
 		</ul>
 	</nav>
+</div>
+
+<div class="idiomas">
+	<label>Language</label>
+	<ul>
+		<a href="#"><i class="fa fa-caret-down" aria-hidden="true"></i> <img src="img/usa.gif"> English</a>
+		<li><a href="../index.php"> <img src="img/espana.gif"> Spanish</a></li>
+		<li><a href="../portugues/index.php"> <img src="img/brasil.gif"> Portuguese</a></li>
+	</ul>
 </div>
 
 <!-- MENU RESPONSIVE -->

@@ -38,8 +38,8 @@ header{
 	color: #707070;
 	display: flex;
 	font-family: "my_riad_pro_regular";
-	float: left;
-	margin-top: 10px;
+    float: right;
+    width: 165px;
 }
 .idiomas img{
 	width: 20px;
