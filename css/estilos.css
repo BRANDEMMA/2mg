@@ -41,6 +41,9 @@ header{
 	float: left;
 	margin-top: 10px;
 }
+.idiomas img{
+	width: 20px;
+}
 .idiomas ul{
 	list-style: none;
 	margin: 0;
@@ -1074,7 +1077,9 @@ footer img{
 .espaciado-producto{
 	margin-right: 4%;
 }
-
+.espaciado-top{
+	margin-top: 5%;
+}
 
 .contenedor-representaciones{
 	width: 80%;

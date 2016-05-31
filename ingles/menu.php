@@ -3,9 +3,9 @@
 <div class="idiomas">
 	<label>Language</label>
 	<ul>
-		<a href="#"><i class="fa fa-caret-down" aria-hidden="true"></i> English</a>
-		<li><a href="../index.php">Spanish</a></li>
-		<li><a href="../portugues/index.php">Portuguese</a></li>
+		<a href="#"><i class="fa fa-caret-down" aria-hidden="true"></i> <img src="img/usa.gif"> English</a>
+		<li><a href="../index.php"> <img src="img/espana.gif"> Spanish</a></li>
+		<li><a href="../portugues/index.php"> <img src="img/brasil.gif"> Portuguese</a></li>
 	</ul>
 </div>
 <div class="redes-sociales">

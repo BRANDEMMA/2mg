@@ -127,6 +127,41 @@
 					<a href="ad-titanium.php"><div class="boton-mas-info"><!-- <img src="img/ver-mas-negro.png"> -->+ MORE INFO.</div></a>
 				</div>
 
+				<div class="producto espaciado-producto espaciado-top">
+					<img src="img/planchas-bimetalicas-antidesgastes.jpg">
+					<h3><strong> Bimetallic wear resistant plates</strong></h3>
+					<p><strong>
+						Maker:
+					</strong>
+						Wodon
+						<br>
+					<strong>
+						Country Origin:
+					</strong>China
+					<br>
+					</p>
+					<p><strong>What is it for:</strong> Industrial Aplication</p>
+					
+					<a href="planchas-bimetalicas.php"><div class="boton-mas-info"><!-- <img src="img/ver-mas-negro.png"> -->+ MORE INFO.</div></a>
+				</div>
+
+				<div class="producto espaciado-top">
+					<img class="img-producto" src="img/alambre-de-soldadura-para-placas-bimetalicas.jpg">
+					<h3><strong> Welding Wire Bimetallic Plates </strong></h3>
+					<p><strong>
+						Maker:
+					</strong>
+						Wodon
+						<br>
+					<strong>
+						Embalaje:
+					</strong>Welding Wire
+					<br>
+					</p>
+					<p><strong>What is it for:</strong> To coat the vertical rollers cement mills and other applications.</p>
+					<a href="alambre-de-soldadura.php"><div class="boton-mas-info"><!-- <img src="img/ver-mas-negro.png"> -->+ MORE INFO.</div></a>
+				</div>
+
 				<div class="clear"></div>
 			</div>
 		</div>

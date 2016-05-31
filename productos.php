@@ -128,6 +128,41 @@
 					<a href="ad-titanium.php"><div class="boton-mas-info"><!-- <img src="img/ver-mas-negro.png"> -->+ MÁS INFO.</div></a>
 				</div>
 
+				<div class="producto espaciado-producto espaciado-top">
+					<img src="img/planchas-bimetalicas-antidesgastes.jpg">
+					<h3><strong>Planchas Bimetalicas antidesgastes</strong></h3>
+					<p><strong>
+						Fabricante:
+					</strong>
+						Wodon
+						<br>
+					<strong>
+						País Procedencia:
+					</strong>China
+					<br>
+					</p>
+					<p><strong>Para que sirve:</strong> Aplicación Industrial.</p>
+					
+					<a href="planchas-bimetalicas.php"><div class="boton-mas-info"><!-- <img src="img/ver-mas-negro.png"> -->+ MÁS INFO.</div></a>
+				</div>
+
+				<div class="producto espaciado-top">
+					<img class="img-producto" src="img/alambre-de-soldadura-para-placas-bimetalicas.jpg">
+					<h3><strong>Alambre de Soldadura para Placas Bimetálicas</strong></h3>
+					<p><strong>
+						Fabricante:
+					</strong>
+						Wodon
+						<br>
+					<strong>
+						Embalaje:
+					</strong>Arame
+					<br>
+					</p>
+					<p><strong>Para que sirve:</strong> Para revestir los rodillos de molinos verticales de cemento y otras aplicaciones.</p>
+					<a href="alambre-de-soldadura.php"><div class="boton-mas-info"><!-- <img src="img/ver-mas-negro.png"> -->+ MÁS INFO.</div></a>
+				</div>
+
 				<div class="clear"></div>
 			</div>
 		</div>
