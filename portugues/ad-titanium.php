@@ -34,7 +34,7 @@
 
 
 	<div class="producto-detalle">
-	<h1> AD Titanium – Betão aditivo em pó </h1> 
+	<h1> AD Titanium – Aditivo em pó </h1> 
 	<p>
 		<img class="producto-img" src="img/bolsoadtitanium.jpg" />
 		<br><br>
