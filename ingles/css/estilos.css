@@ -38,8 +38,11 @@ header{
 	color: #707070;
 	display: flex;
 	font-family: "my_riad_pro_regular";
-	float: left;
-	margin-top: 10px;
+    float: right;
+    width: 165px;
+}
+.idiomas img{
+	width: 20px;
 }
 .idiomas ul{
 	list-style: none;
@@ -1074,7 +1077,9 @@ footer img{
 .espaciado-producto{
 	margin-right: 4%;
 }
-
+.espaciado-top{
+	margin-top: 5%;
+}
 
 .contenedor-representaciones{
 	width: 80%;
@@ -1423,6 +1428,14 @@ footer img{
 		text-align: center;
 	}
 }
+@media(max-width: 1000px){
+	.contenedor-asociados{
+		width: 650px;
+	}
+	.espacio-socios{
+		margin-left: 19%;
+	}
+}
 @media(max-width: 967px){
 	.contenedor-valores{
 		width: 90%;
@@ -1445,6 +1458,12 @@ footer img{
 @media(max-width: 848px){
 	.valores{
 		margin: 2% 3%;
+	}
+	.contenedor-asociados{
+		width: 550px;
+	}
+	.espacio-socios{
+		margin-left: 5%;
 	}
 }
 @media(max-width: 775px){
@@ -1512,10 +1531,26 @@ footer img{
 	.valores{
 		margin: 2% 3.4%;
 	}
+	.contenedor-asociados{
+		display: flex;
+    	flex-direction: column;
+	}
+	.socios{
+		margin: 0 auto;
+		margin-top: 3%;
+	}
+	.espacio-socios{
+		margin-left: 0;
+		margin: 0 auto;
+		margin-top: 3%;
+	}
 }
 @media(max-width: 723px){
 	.valores{
 		margin: 2% 3.3%;
+	}
+	.contenedor-valores{
+		display: flex;
 	}
 }
 @media(max-width: 650px){
@@ -1569,6 +1604,27 @@ footer img{
 	footer img{
 		width: 20%;
 	}
+	.mision{
+		margin-right: 0;
+		width: 100%;
+	}
+	.mision p, .vision p{
+		width: 93%;
+	}
+	.vision{
+		width: 100%;
+	}
+	.contenedor-valores{
+		flex-direction: column;
+	}
+	.valores{
+		margin: 0 auto;
+		margin-bottom: 3%;
+	}
+	.contenedor-asociados{
+		width: 100%;
+	}
+
 }
 @media(max-width: 500px){
 	.menu-principal #inicio{
