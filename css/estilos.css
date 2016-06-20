@@ -531,6 +531,16 @@ header{
 
 
 /*-------======ESTILO NUESTROS CLIENTES=======-------*/
+
+.nosotros h1{
+	color: #2c3d6d;
+    font-family: "my_riad_pro_bold";
+    font-size: 1.2em;
+    text-align: justify;
+    float: left;
+    padding-left: 13%;
+    margin-left: 15px;
+}
 .nosotros h2{
 	color: #2c3d6d;
     font-family: "my_riad_pro_bold";
@@ -572,6 +582,7 @@ header{
 .producto-detalle h1, p{
 
 	margin-left: 15px;
+
 }
 
 .producto-detalle p span{
