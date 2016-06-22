@@ -6,9 +6,9 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG - </title>
+	<title>2MG - EXPORTACIÓN E IMPORTACIÓN DE PRODUCTOS Y PROCUREMENT DE INGENIERÍA</title>
 	<meta name="author" content="Brandemma" />
-	<meta name="description" content="Empresa peruana con más de 10 años dedicada a la exportación e importación de productos, soluciones en rpecurement de ingeniería." />
+	<meta name="description" content="Empresa peruana con más de 10 años dedicada a la exportación e importación de productos, soluciones en procurement de ingeniería." />
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 

@@ -6,9 +6,9 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG - Sales Representation</title>
+	<title>2MG - SALES REPRESENTATIONS</title>
 	<meta name="author" content="Brandemma" />
-	<meta name="description" content="2MG brinda el servicio y solución de Representaciones Comerciales y reventa de materiales. Realizando soluciones inmediatas para el área de logística." />
+	<meta name="description" content="2MG offers service and solution reselling Commercial Representatives and materials. Performing immediate solutions for the logistics area. We offer solutions in industrial, chemicals and spare parts for equipment supplies." />
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -44,7 +44,7 @@
 		?>
 	</header>
 
-	<div class="contenido"><h2 class="titulo-arriba"><span>Sales</span> Representation</h2>
+	<div class="contenido"><h1 class="titulo-arriba"><span>Sales</span> Representation</h1>
 		<div class="representaciones-comerciales linea-energetica">
 			<img src="img/representaciones-comerciales-2-2mg.jpg">
 			

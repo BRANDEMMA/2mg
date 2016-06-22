@@ -6,9 +6,9 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG</title>
+	<title>2MG - AD TITANIUM</title>
 	<meta name="author" content="Brandemma" />
-	<meta name="description" content="" />
+	<meta name="description" content="AD Titanium es un aditivo en polvo para concreto que reduce el consumo de agua en la mezcla, reduce la permeabilidad y aumenta la durabilidad de la estructura. Se utiliza en la construcción, donde se requiera gano de productividad y elevadas resistencias iniciales." />
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 

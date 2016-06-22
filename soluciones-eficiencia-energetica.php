@@ -6,9 +6,9 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG</title>
+	<title>2MG - EXPERTOS EN SOLUCIONES DE EFICIENCIA ENERGÉTICA</title>
 	<meta name="author" content="Brandemma" />
-	<meta name="description" content="" />
+	<meta name="description" content="En 2MG ofrecemos las soluciones de eficiencia energética más vanguardistas que ayudaran al máximo desempeño y ahorro de energía. Obteniendo un mejor desempeño por menor costo." />
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -37,8 +37,10 @@
 		</div>
 		<div class="derecha-energetica">
 			<div class="derecha-energetica-centrado">
+				<h1>Soluciones de 
+				<span>Eficiencia <strong>Energética</strong></span></h1><!-- 
 				<h2 class="tit-part1">Soluciones de</h2>
-				<h2 class="tit-part2">Eficiencia <span>Energética</span></h2>
+				<h2 class="tit-part2">Eficiencia <span>Energética</span></h2> -->
 				<p>La eficiencia energética consiste en obtener el mejor desempeño en la producción de un material o servicio con el menor gasto de energía. Como ejemplo de acción, consta la modernización de equipos en el sentido de reducción de consumo de energía. Los programas para el consumo consciente también contribuyen para el desarrollo de la economía.<br><br>
 				Gran parte de la energía es empleada en la fabricación de los productos que utilizamos, especialmente los que llevan como materia prima papel, aluminio, vidrio y acero. Por lo tanto, acciones de reutilización y reciclaje también ayudan a ahorrar energía. Del mismo modo, la energía es utilizada en el bombeo de agua, lo que se ahorrada, disminuye el consumo energético.<br><br>
 				Como parte de los trabajos y servicios que ofrecemos, tenemos la capacidad de efectuar estudios de viabilidad económica para cambio de focos de iluminación por luces LED, contribuyendo, de esto modo, con la preservación del ambiente y añadiendo mejoras en la economía Peruana.</p>

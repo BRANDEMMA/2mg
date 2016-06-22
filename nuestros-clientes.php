@@ -6,9 +6,9 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG</title>
+	<title>2MG - NUESTROS CLIENTES</title>
 	<meta name="author" content="Brandemma" />
-	<meta name="description" content="" />
+	<meta name="description" content="Porque solo los mejores confían en los mejores. Nuestros clientes confían y respaldan la profesionalidad y seguridad con la que respondemos y solucionamos a sus necesidades en 2MG." />
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -33,7 +33,7 @@
 	
 	<div class="contenido linea-energetica">
 		<div class="contenedor-clientes">
-			<h2>Nuestros Clientes</h2>
+			<h1>Nuestros Clientes</h1>
 			<img src="img/votorantim.jpg">
 			<img src="img/ipp.jpg">
 			<img src="img/trieste.jpg">

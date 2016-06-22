@@ -6,9 +6,9 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG - PRODUCTOS</title>
+	<title>2MG - LEADERS IN PROCUREMENT IN ENGINEERING.</title>
 	<meta name="author" content="Brandemma" />
-	<meta name="description" content="" />
+	<meta name="description" content="We are leaders in engineering Procurement, aseria provide and offer our customers agility in internal procurement processes. In 2MG we develop the logistics and consumer planning to achieve the best acquisitions that meet the specific needs of each of our clients." />
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -75,7 +75,7 @@
 		</div>
 
 		<div class="texto-detalle">
-			<h2><span>Engineering</span> Procurement</h2><img src="img/ingeniero.jpg">
+			<h1><span>Engineering</span> Procurement</h1><img src="img/ingeniero.jpg">
 			<p>We provide advice on procurement, offering our customers agility in the internal processes of buying, ensuring the best practices for the management of the supply chain (Supply Chain Management) essential for them to dedicate their time to the core business of their companies, respecting the political choice implemented by these suppliers (Compliance).<br><br>
 			The supply procurement (Procurement) 'and the logistic function in which it provides to a company all the material necessary for its operation, and its concept synonymous forecast or supply.<br><br>
 			The activities included within this process are:<br><br>

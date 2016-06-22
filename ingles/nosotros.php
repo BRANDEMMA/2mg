@@ -6,9 +6,9 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG</title>
+	<title>2MG - WE ARE EXPORTERS AND IMPORTERS OF PRODUCTS, SERVICES AND SOLUTIONS IN PROCUREMENT OF ENGINEERING.</title>
 	<meta name="author" content="Brandemma" />
-	<meta name="description" content="" />
+	<meta name="description" content="2MG is a Peruvian company dedicated to the import and export of products, services and solutions in Engineering Procurement." />
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -37,7 +37,7 @@
 		</div>
 		<div class="derecha-nosotros2">
 			<div class="derecha-nosotros-centrado">
-				<h2>About Us</h2>
+				<h1>2MG - PROCUREMENT SPECIALIST ENGINEERING AND EXPORT AND IMPORT OF PRODUCTS.</h1>
 				<p class="texto-gris espaciado">We are a Peruvian company whose founding members are Brazilians living in Peru for over 10 years and are dedicated to the import and export activities of products, services and solutions related to the Procurement Engineering branch.<br><br>
 				We started our operations in 2015 and our mission 'and be an import and export company products, services and upscale the Peruvian and South American market technologies.<br><br>
 				Through our partnership with the American company HF Business Corporation, headquartered in Pembroke Pines, Florida, we offer our customers the ease of product import operations available in the American market with greater ease and agility, ensuring the delivery of these to our customers in the agreed term.<br><br>
