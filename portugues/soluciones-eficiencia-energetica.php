@@ -6,9 +6,9 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG</title>
+	<title>2MG - EXPERTS EM SOLUÇÕES DE EFICIÊNCIA ENERGÉTICA</title>
 	<meta name="author" content="Brandemma" />
-	<meta name="description" content="" />
+	<meta name="description" content="Em 2MG oferecemos soluções de ponta que ajudam o desempenho da eficiência energética e poupança de energia máxima. Obtendo um melhor desempenho por um custo mais baixo." />
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -37,8 +37,11 @@
 		</div>
 		<div class="derecha-energetica">
 			<div class="derecha-energetica-centrado">
-				<h2 class="tit-part1">Soluções de</h2>
-				<h2 class="tit-part2">Eficiência <span>Energética</span></h2>
+				<h1>Soluções de
+					<span>Eficiência <strong>Energética</strong></span></h1>
+
+				<!-- <h2 class="tit-part1">Soluções de</h2>
+				<h2 class="tit-part2">Eficiência <span>Energética</span></h2> -->
 				<p>A eficiência energética consiste em obter o melhor desempenho na produção de um material ou serviço com o menor gasto de energia. Como exemplo de ação, consta a modernização de equipamentos no sentido de redução de consumo de energia. Os programas para o consumo consciente também contribuem para o desenvolvimento da economia.<br><br>
 				Grande parte da energia ‘e empregada na fabricação dos produtos que utilizamos, especialmente os que levam como matéria prima papel, vidro e aço. Portanto, ações de reutilização e reciclagem também ajudam a economizar energia. Do mesmo modo, a energia ‘e utilizada para o bombeamento de agua, o que se economizada, diminuem o consumo energético.<br><br>
 				Como parte dos trabalhos e serviços que oferecemos, temos a capacidade de efetuar estudos de viabilidade econômica para a substituição de luzes por tecnologia LED, contribuindo, deste modo, com a preservação do meio ambiente e promovendo melhoras na economia Peruana.</p>

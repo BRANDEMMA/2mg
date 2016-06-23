@@ -75,7 +75,7 @@
 		</div>
 
 		<div class="texto-detalle">
-			<h1>Procurement en <span>Ingeniería</span></h1><img src="img/ingeniero.jpg">
+			<h1>Procurement en <strong>Ingeniería</strong></h1><img src="img/ingeniero.jpg">
 			<p>Proveemos asesoría en Procurement, ofreciendo a nuestros clientes agilidad en los procesos internos de compras, garantizando las mejores practicas para la administración de la cadena de suministros (Supply Chain Management) esenciales para que estos dediquen su tiempo al core business de las empresas, respectando las políticas de selección de proveedores implementados por estos (Compliance).<br><br>
 			El abastecimiento o aprovisionamiento (Procurement) es la función logística mediante la cual se provee a una empresa de todo el material necesario para su funcionamiento. Su concepto es sinónimo de provisión o suministro.<br><br>
 			Las actividades incluidas dentro de este proceso son:<br><br>

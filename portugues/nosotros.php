@@ -6,9 +6,9 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG</title>
+	<title>2MG - NÓS SOMOS EXPORTADORES E IMPORTADORES DE PRODUTOS, SERVIÇOS E SOLUÇÃO EM PROCUREMENT DE INGENIERIA.</title>
 	<meta name="author" content="Brandemma" />
-	<meta name="description" content="" />
+	<meta name="description" content="2MG é uma empresa peruana dedicada à importação e exportação de produtos, serviços e soluções em Compras Engenharia." />
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -37,7 +37,7 @@
 		</div>
 		<div class="derecha-nosotros2">
 			<div class="derecha-nosotros-centrado">
-				<h2>Nossa Historia</h2>
+				<h1>2MG - ESPECIALISTA EM PROCUREMENT DE INGENIERIA E EXPORTAÇÃO E IMPORTAÇÃO DE PRODUTOS.</h1>
 				<p class="texto-gris espaciado">Somos uma empresa peruana cujos sócios fundadores são brasileiros que vivem no Peru a mais de 10 anos, e nos dedicamos as atividades de importação e exportação de produtos, serviços e soluções relacionadas a Procurement na ramo de Engenharia.<br><br>
 				Iniciamos nossas operações em 2015 e nossa missão ‘e ser uma empresa de importação e exportação de produtos, serviços e tecnologias de alta gama o mercado Peruano e Sul-americano.<br><br>
 				Através de nossa parceria com a empresa americana HF Business Corporation, empresa sediada na cidade de Pembroke Pines, Florida, oferecemos a nossos clientes a facilidade de operações de importação de produtos disponíveis no mercado americano com maior facilidade e agilidade, garantindo a entrega destes a nossos clientes no prazo pactuado.<br><br>

@@ -6,9 +6,9 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG</title>
+	<title>2MG - EXPORTAÇÃO E IMPORTAÇÃO DE PRODUTOS E PROCUREMENT DE INGENIERIA</title>
 	<meta name="author" content="Brandemma" />
-	<meta name="description" content="" />
+	<meta name="description" content="Empresa peruana com mais de 10 anos dedicados à exportação e importação de produtos, soluções em procurement de ingenieria." />
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -56,6 +56,7 @@
 		<div class="nosotros"><a name="nosotros"></a>
 			<div class="izquierda-nosotros">
 				<img src="img/logo-2mg.gif">
+				<h1>2MG - ESPECIALISTA EM PROCUREMENT DE INGENIERIA E EXPORTAÇÃO E IMPORTAÇÃO DE PRODUTOS.</h1>
 				<p>We are a Peruvian company whose founding members are Brazilians living in Peru for over 10 years and are dedicated to the import and export activities of products, services and solutions related to the Procurement Engineering branch.</p>
 				<a class="boton" href="nosotros.php">Ler Mais</a>
 

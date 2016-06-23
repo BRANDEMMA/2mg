@@ -75,7 +75,7 @@
 		</div>
 
 		<div class="texto-detalle">
-			<h1><span>Engineering</span> Procurement</h1><img src="img/ingeniero.jpg">
+			<h1><strong>Engineering</strong> Procurement</h1><img src="img/ingeniero.jpg">
 			<p>We provide advice on procurement, offering our customers agility in the internal processes of buying, ensuring the best practices for the management of the supply chain (Supply Chain Management) essential for them to dedicate their time to the core business of their companies, respecting the political choice implemented by these suppliers (Compliance).<br><br>
 			The supply procurement (Procurement) 'and the logistic function in which it provides to a company all the material necessary for its operation, and its concept synonymous forecast or supply.<br><br>
 			The activities included within this process are:<br><br>

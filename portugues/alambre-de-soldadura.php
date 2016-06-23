@@ -6,9 +6,9 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG</title>
+	<title>2MG - ARAME DE SOLDA PARA PLACAS BIMETALICAS</title>
 	<meta name="author" content="Brandemma" />
-	<meta name="description" content="" />
+	<meta name="description" content="Arame de solda para placas bimetalicas é usado na indústria de rolos de revestimento de moinhos de cimento verticais e outras aplicações." />
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 

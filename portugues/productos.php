@@ -6,9 +6,9 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG - PRODUTOS</title>
+	<title>2MG - LÍDERES EM PROCUREMENT EN INGENIERIA</title>
 	<meta name="author" content="Brandemma" />
-	<meta name="description" content="" />
+	<meta name="description" content="Somos líderes em Procurement en ingenieria, aseria fornecer e oferecer aos nossos clientes agilidade nos processos de aquisições internas. Em 2MG desenvolvemos a logística e dos consumidores planejando para alcançar os melhores aquisições que atendam às necessidades específicas de cada um dos nossos clientes." />
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -75,7 +75,7 @@
 		</div>
 
 		<div class="texto-detalle">
-			<h2>Procurement en <span>Ingenieria</span></h2><img src="img/ingeniero.jpg">
+			<h1>Procurement en <span>Ingenieria</span></h1><img src="img/ingeniero.jpg">
 			<p>Fornecemos assessoria em Procurement, oferecendo a nossos clientes agilidade nos processos internos de compra, garantindo as melhores praticas para a administração da cadeia de fornecedores, (Supply Chain Management) essenciais para que estes dediquem seu tempo ao core business de suas empresas, respeitando as politicas de escolha de fornecedores implementados por estes (Compliance).<br><br>
 			O abastecimento o aprovisionamento (Procurement) ‘e a função logística mediante a qual se fornece a uma empresa todo o material necessário para seu funcionamento, sendo seu conceito sinônimo de previsão ou fornecimento.<br><br>
 			As atividades incluídas dentro deste processo consistem em:<br><br>

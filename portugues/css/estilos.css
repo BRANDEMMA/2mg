@@ -323,6 +323,15 @@ header{
 	padding-right: 3%;
 	width: 65%;
 }
+.nosotros h1{
+    color: #2c3d6d;
+    font-family: "my_riad_pro_bold";
+    font-size: 1.2em;
+    text-align: justify;
+    float: left;
+    padding-left: 13%;
+    margin-left: 15px;
+}
 .izquierda-nosotros img{
 	padding-left: 2%;
 	width: 25%;
@@ -371,7 +380,7 @@ header{
 	padding-top: 3%;
 	width: 90%;
 }
-.derecha-nosotros-centrado h2{
+.derecha-nosotros-centrado h1, .derecha-nosotros-centrado h2{
 	color: #D5852C;
 	font-family: "my_riad_pro_regular";
 	font-size: 2em;
@@ -835,6 +844,17 @@ footer img{
 	padding-top: 3%;
 	width: 90%;
 }
+.derecha-energetica-centrado h1{
+    color: #2C3D6D;
+    font-family: "my_riad_pro_regular";
+    font-weight: lighter;
+    margin-bottom: 5%;
+    margin-left: 7%;
+    white-space: pre-line;
+}
+.derecha-energetica-centrado h1 span{
+	margin-left: 12%;
+}
 .derecha-energetica-centrado h2{
 	color: #2C3D6D;
 	font-family: "my_riad_pro_regular";
@@ -987,7 +1007,7 @@ footer img{
 	text-align: center;
 	width: 60%;
 }
-.texto-detalle h2{
+.texto-detalle h2, .texto-detalle h1{
 	color: #2C3D6D;
 	font-family: "my_riad_pro_regular";
 	font-size: 2.5em;
@@ -995,7 +1015,7 @@ footer img{
 	margin: 0;
 	text-align: left;
 }
-.texto-detalle h2 span{
+.texto-detalle h1 span, .texto-detalle h2 span{
 	font-weight: bold;
 }
 .texto-detalle p{
@@ -1397,7 +1417,7 @@ footer img{
 .contenedor-clientes{
 	width: 100%;
 }
-.contenedor-clientes h2{	
+.contenedor-clientes h1, .contenedor-clientes h2{	
     color: #2c3d6d;
     font-family: "my_riad_pro_bold";
     font-size: 2.5em;	
