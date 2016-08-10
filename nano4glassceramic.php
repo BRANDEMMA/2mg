@@ -6,7 +6,7 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG - SOMOS EXPORTADORES E IMPORTADORES DE PRODUCTOS, DAMOS SERVICIO Y SOLUCION EN PROCUREMENT DE INGENIERÍA.</title>
+	<title>2MG - NANO4GLASSCERAMIC.</title>
 	<meta name="author" content="Brandemma" />
 	<meta name="description" content="2MG es una empresa peruana que se dedica a la importación y exportación de productos, servicios y soluciones en Procurement de Ingeniería."/>
 
@@ -50,17 +50,16 @@
 		
 		<div class="descripcion-xado">
 			<div class="detalle-producto-xado-izq">
-				<img src="img/producto-xado1.jpg">
+				<img src="img/producto-nano4glassceramic.jpg">
 			</div>
 			
 			<div class="detalle-producto-xado-der">
 				<div class="titulo-producto-xado">
-					<h1>Special <strong>Maximun</strong></h1>
-					<p>950 ml</p>
+					<h1>NANO4GLASSCERAMIC</h1>
 				</div>
 
 				<div class="fondo-azul-xado">
-					<p>Atómica del metal del acondicionador máximo de camiones diesel para el motor diesel con 1 Etapa revitalizante es un producto innovador especialmente diseñado para motores diesel de vehículos pesados ​​con sistema de capacidad de aceite hasta 30-45 qt. Debido a revitalizante el producto reduce la fricción, reconstruye el metal usado en las piezas del motor y crea capa protectora contra el desgaste futuro, proporcionando así la restauración de las herramientas libres y de protección contra el desgaste. Aplicación del producto prolonga la vida del motor y permite evitar costosas reparaciones en el futuro. Un tratamiento tiene una duración de 60.000 millas!</p>
+					<p>Protección100% invisiblel, que impide la adherencia de líquidos  suciedad en las superfícies vidraidas. Protege de los rayos  ultra-violeta. Presenta una grand resistencia química y mecánica, siendo resistente al hielo y a lavados a presión de agua caliente. Tiene un alto rendimento, permite ahorrar tiempo y dinero; puede reducir hasta el 90% la utilización de productos de limpieza.</p>
 				</div>
 
 				<h2>Tecnología y certificados</h2>
@@ -75,16 +74,9 @@
 
 			<h3>Descripción</h3>
 			<ul>
-				<li><span>Restaura superficies de las piezas gastadas 'y compensa el desgaste actual.</span></li>
-				<li><span>Niveles y aumenta la compresión en los cilindros.</span></li>
-				<li><span>Reduce el consumo de combustible.</span></li>
-				<li><span>Aumenta la vida útil del motor.</span></li>
-				<li><span>Aumenta la presión en el sistema de aceite hasta el nivel nominal.</span></li>
-				<li><span>Crea sistema de protección activa contra la sobrecarga y sobrecalentamiento.</span></li>
-				<li><span>Reduce el ruido y la vibración.</span></li>
-				<li><span>Mejora las propiedades del aceite lubricante y las características tribológicas de las piezas del motor.</span></li>
-				<li><span>Aumenta la potencia del motor y la capacidad de aceleración.</span></li>
-				<li><span>Un tratamiento tiene una duración de 60,000 millas.</span></li>
+				<li><span>Lugares de aplicación: Todo de cristales y superfícies cerámicas vidriadas.</span></li>
+				<li><span>Versiones comercializadas: Comercial e industrial.</span></li>
+				<li><span>Embalajes: 100mL; 200mL; 500mL; 1000mL; 4L; 20L; 200L; 1000L.</span></li>
 			</ul>
 
 			<div class="solicitud-nota-xado">

@@ -1778,6 +1778,166 @@ footer img{
 
 
 
+/*================   ESTILOS DETALLE DEL PRODUCTO  ===============*/
+.detalle-producto-xado-izq{
+	border: 2px solid #2c3d6d;
+	border-radius: 10px;
+	float: left;
+	width: 50%;
+}
+.detalle-producto-xado-izq img{
+	border-radius: 10px;
+	width: 100%;
+}
+.detalle-producto-xado-der{
+	float: left;
+	padding-left: 4%;
+	width: 45%;
+}
+.detalle-producto-xado-der .titulo-producto-xado{
+	color: #2c3d6d;
+	font-family: "my_riad_pro_regular";
+	margin: 0 auto;
+	margin-bottom: 5%;
+	margin-top: 8%;
+	text-align: right;
+	width: 300px;
+}
+.detalle-producto-xado-der .titulo-producto-xado h1{
+	font-size: 2.5em;
+	font-weight:lighter;
+	margin: 0;
+}
+.detalle-producto-xado-der .titulo-producto-xado p{
+	font-size: 1.2em;
+	margin: 0;
+}
+.fondo-azul-xado{
+	background-color: #2c3d6d;
+	border-radius: 20px;
+	color: white;
+	font-family: "my_riad_pro_regular";
+	margin-bottom: 8%;
+	padding: 5%;
+}
+.fondo-azul-xado p{
+	color: white;
+	margin: 0;
+}
+.detalle-producto-xado-der h2{
+	color: #2c3d6d;
+	font-family: "my_riad_pro_regular";
+	font-weight: normal;
+}
+.certificados-xado{
+	display: flex;
+}
+.certificados-xado img{
+	height: 100%;
+	margin-right: 3%;
+	width: 15%;
+}
+.descripcion-xado h3{
+	color: #d57b2c;
+	font-family: "my_riad_pro_bold";
+}
+.descripcion-xado ul{
+	font-family: "my_riad_pro_regular";
+	padding-left: 20px;
+}
+.descripcion-xado ul li{
+	color: #d57b2c;
+}
+.descripcion-xado ul li span{
+	color: #2c3d6d;
+}
+.solicitud-nota-xado{
+	border-top: 2px solid #d57b2c;
+	display: flex;
+	margin-bottom: 5%;
+	margin-top: 3%;
+	padding-top: 2%;
+}
+.solicitud, .nota{
+	font-family: "my_riad_pro_regular";
+	text-align: justify;
+	width: 45%;
+}
+.solicitud{
+	padding-bottom: 6%;
+	padding-right: 5%;
+}
+.solicitud h4, .nota h4{
+	color:#d57b2c;
+}
+.solicitud p, .nota p{
+	color: #2c3d6d;
+	margin: 0;
+}
+.nota{
+	border-left: 2px solid #d57b2c;
+	padding-left: 5%;
+}
+.boton-solicitar-xado{
+	margin-bottom: 10%;
+	text-align: center;
+}
+.boton-solicitar-xado a{
+	background-color: #d57b2c;
+	border-radius: 15px 0;
+	color: white;
+	font-family: "my_riad_pro_regular";
+	font-size: 2em;
+	padding: 10px 40px;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*================   PRODUCTOS NANO4LIFE  ===============*/
+.titulo-xado2{
+	background-color: #d7b62e;
+	color: #2c3d6d;
+	font-family: "my_riad_pro_regular";
+	font-weight: lighter;
+	margin: 0 auto;
+	margin-bottom: 5%;
+	margin-top: 8%;
+	padding: 5px 10px;
+	text-align: center;
+	width: 350px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
