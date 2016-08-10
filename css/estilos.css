@@ -1659,6 +1659,128 @@ footer img{
 
 
 
+
+
+
+/*================   ESTILOS PRODUCTOS XANO  ===============*/
+.contenedor-xado{
+	border-bottom: 2px solid #CCCBCC;
+	margin: 0 auto;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    width: 90%;
+}
+.banner-xado{
+	width: 100%;
+}
+.descripcion-xado{
+	margin: 0 auto;
+    padding-top: 3%;
+    width: 90%;
+}
+.texto-xado-izq{
+	float: left;
+	width: 40%;
+}
+.texto-xado-izq img{
+	width: 100%;
+}
+.texto-xado-der{
+	float: left;
+	font-family: "my_riad_pro_regular";
+	margin-left: 10%;
+	width: 50%;
+}
+.texto-xado-der p{
+	margin: 0;
+	text-align: justify;
+}
+.texto-xado-der .boton-azul-xado{
+	background-color: #2c3d6d;
+	color: white;
+	float: right;
+	font-family: "my_riad_pro_semibold";
+	margin-top: 20px;
+	padding: 5px 10px;
+	text-decoration: none;
+}
+.titulo-xado{
+	background-color: #d7b62e;
+	color: #2c3d6d;
+	font-family: "my_riad_pro_regular";
+	font-weight: lighter;
+	margin: 0 auto;
+	margin-bottom: 5%;
+	margin-top: 8%;
+	padding: 5px 10px;
+	text-align: center;
+	width: 250px;
+}
+.subtitulo-xado{
+	color: #2c3d6d;
+	font-family: "my_riad_pro_regular";
+}
+.subtitulo-xado h2{
+	font-size: 2em;
+	margin-bottom: 5px;
+}
+.subtitulo-xado p{
+	margin: 0;
+	width: 300px;
+}
+.contenedor-productos-xado{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.producto-xado{
+	font-family: "my_riad_pro_regular";
+	margin-top: 5%;
+	text-align: center;
+	width: 25%;
+}
+.producto-xado img{
+	width: 70%;
+}
+.producto-xado h3{
+	font-weight: lighter;
+}
+.producto-xado .descripcion-producto-xado{
+	color: #707070;
+	font-size: 0.8em;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	width: 80%;
+}
+.producto-xado .codigo-producto-xado{
+	font-size: 0.8em;
+	font-family: "my_riad_pro_semibold";
+	margin: 0;
+	margin-bottom: 20%;
+}
+.producto-xado .mas-info-producto-xado{
+	border: 1.5px solid #2b3d6b;
+	color: black;
+	font-family: "my_riad_pro_semibold";
+	padding: 10px 20%;
+	text-decoration: none;
+}
+.producto-xado .mas-info-producto-xado:hover{
+	background-color: #2b3d6b;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 /*================   RESPONSIVE  ===============*/
 @media(max-width: 1310px){
 	.valores{
