@@ -1742,7 +1742,8 @@ footer img{
 .producto-xado img{
 	width: 70%;
 }
-.producto-xado h3{
+.contenedor-productos-xado .producto-xado h3{
+	color: black;
 	font-weight: lighter;
 }
 .producto-xado .descripcion-producto-xado{

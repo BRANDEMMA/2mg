@@ -6,7 +6,7 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG - SOMOS EXPORTADORES E IMPORTADORES DE PRODUCTOS, DAMOS SERVICIO Y SOLUCION EN PROCUREMENT DE INGENIERÍA.</title>
+	<title>2MG - XADO.</title>
 	<meta name="author" content="Brandemma" />
 	<meta name="description" content="2MG es una empresa peruana que se dedica a la importación y exportación de productos, servicios y soluciones en Procurement de Ingeniería."/>
 
@@ -76,7 +76,7 @@
 
 				<div class="producto-xado">
 					<img src="img/producto-xado1.jpg">
-					<h3>XADO</h3>
+					<h3>Atomic metal conditioner 1 Stage Maximum  for Diesel Truck</h3>
 					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
 					<p class="codigo-producto-xado">CODIGO: 97590</p>
 
@@ -85,7 +85,7 @@
 
 				<div class="producto-xado">
 					<img src="img/producto-xado2.jpg">
-					<h3>XADO</h3>
+					<h3>Atomic metal conditioner 1 Stage Maximum</h3>
 					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
 					<p class="codigo-producto-xado">CODIGO: 97590</p>
 
@@ -94,7 +94,7 @@
 
 				<div class="producto-xado">
 					<img src="img/producto-xado3.jpg">
-					<h3>XADO</h3>
+					<h3>Atomic metal conditioner Highway for Diesel Truck</h3>
 					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
 					<p class="codigo-producto-xado">CODIGO: 97590</p>
 
@@ -103,7 +103,7 @@
 
 				<div class="producto-xado">
 					<img src="img/producto-xado4.jpg">
-					<h3>XADO</h3>
+					<h3>Atomic metal conditioner Highway</h3>
 					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
 					<p class="codigo-producto-xado">CODIGO: 97590</p>
 
@@ -112,7 +112,7 @@
 
 				<div class="producto-xado">
 					<img src="img/producto-xado4.jpg">
-					<h3>XADO</h3>
+					<h3>1 STAGE engine revitalizant MAGNUM for diesel truck</h3>
 					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
 					<p class="codigo-producto-xado">CODIGO: 97590</p>
 
@@ -121,7 +121,7 @@
 
 				<div class="producto-xado">
 					<img src="img/producto-xado3.jpg">
-					<h3>XADO</h3>
+					<h3>1 STAGE engine revitalizant</h3>
 					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
 					<p class="codigo-producto-xado">CODIGO: 97590</p>
 
@@ -130,7 +130,7 @@
 
 				<div class="producto-xado">
 					<img src="img/producto-xado2.jpg">
-					<h3>XADO</h3>
+					<h3>REVITALIZANT EX120  for all types of fuel equipment</h3>
 					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
 					<p class="codigo-producto-xado">CODIGO: 97590</p>
 
@@ -139,7 +139,7 @@
 
 				<div class="producto-xado">
 					<img src="img/producto-xado1.jpg">
-					<h3>XADO</h3>
+					<h3>REVITALIZANT EX120 for automatic transmission</h3>
 					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
 					<p class="codigo-producto-xado">CODIGO: 97590</p>
 
