@@ -53,6 +53,14 @@
 	</ul>
 </div>
 
+<div class="marcas">
+	<img src="img/logo-nano-4life.png">
+	<img src="img/logo-xado.png">
+	<img src="img/logo-effectus.png">
+	<img src="img/logo-wodon.png">
+	<img src="img/logo-itw.png">
+</div>
+
 <!-- MENU RESPONSIVE -->
 <div class="menu-responsive">
 	<input type="checkbox" id="btn-menu">
