@@ -74,13 +74,11 @@ header{
 }
 .marcas{
 	display:flex;
-	float:right;
-	margin-top:-34px;
-	margin-right:20px;
 }
-.marcas img{
+.menu-principal nav ul li ul li .marcas a img{
 	height:50px;
 	margin:0 5px;
+	width: auto;
 }
 .redes-sociales{
 	display: flex;
@@ -1921,6 +1919,32 @@ footer img{
 	text-align: center;
 	width: 350px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+/*================   DISTRIBUIDOR AUTORIZADO INDEX  ===============*/
+.img-marcas{
+	margin: 0 2%;
+	margin-bottom: 5%;
+	width: 15%;
+}
+
+
+
+
+
+
+
+
 
 
 

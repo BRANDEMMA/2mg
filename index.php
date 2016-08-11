@@ -81,14 +81,21 @@
 
 			<div class="clear"></div>
 
-			<h2>Nuestros Clientes</h2>
+			<!-- <h2>Nuestros Clientes</h2>
 			<img class="clientes" src="img/votorantim.jpg">
 			<img class="clientes" src="img/ipp.jpg">
 			<img class="clientes" src="img/polycoas.jpg">
 			<img class="clientes" src="img/trieste.jpg">
 
 			<a class="btn-clientes" href="nuestros-clientes.php">Ver Todos</a>
-			<div class="clear"></div>
+			<div class="clear"></div> -->
+
+			<h2>Distribuidor Autorizado</h2>
+			<img class="img-marcas" src="img/logo-nano-4life.png">
+			<img class="img-marcas" src="img/logo-xado.png">
+			<img class="img-marcas" src="img/logo-effectus.png">
+			<img class="img-marcas" src="img/logo-wodon.png">
+			<img class="img-marcas" src="img/logo-itw.png">
 		</div>
 
 		<?php
