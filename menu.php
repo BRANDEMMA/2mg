@@ -31,8 +31,8 @@
 			<li><a href="representaciones-comerciales.php">Representaciones Comerciales</a>
 				<ul>
 					<li><div class="marcas">
-						<a href=""><img src="img/logo-nano-4life.png"></a>
-						<a href=""><img src="img/logo-xado.png"></a>
+						<a href="productos-nano4life.php"><img src="img/logo-nano-4life.png"></a>
+						<a href="productos-xado.php"><img src="img/logo-xado.png"></a>
 						<a href=""><img src="img/logo-effectus.png"></a>
 						<a href=""><img src="img/logo-wodon.png"></a>
 						<a href=""><img src="img/logo-itw.png"></a>
@@ -51,7 +51,7 @@
 			<li class="lineas"></li>
 			<li><a href="">Servicios</a></li>
 			<li class="lineas"></li>
-			<li><a href="">Clientes</a></li>
+			<li><a href="nuestros-clientes.php">Clientes</a></li>
 			<li class="lineas"></li>
 			<li><a href="index.php#contacto">Contacto</a></li>
 		</ul>

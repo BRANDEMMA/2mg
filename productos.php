@@ -103,7 +103,7 @@
 
 		<div class="clear"></div>
 
-		<div class="contenedor-productos"><a name="productos"></a>
+		<!-- <div class="contenedor-productos"><a name="productos"></a>
 			<h2>Productos</h2>
 
 			<div class="productos-centrados">
@@ -122,7 +122,7 @@
 					</p>
 					<p><strong>Para que sirve:</strong> Desempañar gafas de buceó, actividades de natación, lentes de seguridad de actividades industriales (minería).</p>
 					
-					<a href="arena-antifog.php"><div class="boton-mas-info"><!-- <img src="img/ver-mas-negro.png"> -->+ MÁS INFO.</div></a>
+					<a href="arena-antifog.php"><div class="boton-mas-info">+ MÁS INFO.</div></a>
 				</div>
 
 				<div class="producto">
@@ -140,7 +140,7 @@
 					</p>
 					<p><strong>Para que sirve:</strong> Reduce el consumo de água en la mezcla. Disminuye la retracción y aumenta la compacidad, Reduce la permeabilidad - Aumenta la resistencia y modulo - Reduz Teor de Cemento -Reduz la reacción Álcali – Agregado – aumenta la durabilidade de la Estrutura – Gano de altas Resistencias Iniciales –Reduccion del custo general de la Obra.
 </p>
-					<a href="ad-titanium.php"><div class="boton-mas-info"><!-- <img src="img/ver-mas-negro.png"> -->+ MÁS INFO.</div></a>
+					<a href="ad-titanium.php"><div class="boton-mas-info">+ MÁS INFO.</div></a>
 				</div>
 
 				<div class="producto espaciado-producto espaciado-top">
@@ -158,7 +158,7 @@
 					</p>
 					<p><strong>Para que sirve:</strong> Aplicación Industrial.</p>
 					
-					<a href="planchas-bimetalicas.php"><div class="boton-mas-info"><!-- <img src="img/ver-mas-negro.png"> -->+ MÁS INFO.</div></a>
+					<a href="planchas-bimetalicas.php"><div class="boton-mas-info">+ MÁS INFO.</div></a>
 				</div>
 
 				<div class="producto espaciado-top">
@@ -175,12 +175,12 @@
 					<br>
 					</p>
 					<p><strong>Para que sirve:</strong> Para revestir los rodillos de molinos verticales de cemento y otras aplicaciones.</p>
-					<a href="alambre-de-soldadura.php"><div class="boton-mas-info"><!-- <img src="img/ver-mas-negro.png"> -->+ MÁS INFO.</div></a>
+					<a href="alambre-de-soldadura.php"><div class="boton-mas-info">+ MÁS INFO.</div></a>
 				</div>
 
 				<div class="clear"></div>
 			</div>
-		</div>
+		</div> -->
 
 		<div class="contenedor-representaciones"><a name="representaciones"></a>
 			<h2 class="espaciado-repre">Representaciones</h2>
@@ -192,7 +192,7 @@
 					</div>
 					<div class="descripcion-empresa">
 						<p><img src="img/wodon.jpg">Tianjin Wodon Wear Resistant Material Co., Ltd (CHINA WODON). located in the northern international shipping center TIANJlN, which specialized in research, development, production and sales wear-resistant material, and have many years experience in this field. Now the company owns over 100 employees, has anual  output 60,000 square meters of wear plate and 8,000 metric tons of welding consumables.</p>
-						<a class="boton-empresas" href="http://chinawodon.com/ENGLISH/" target="_blank">WEB</a> <a class="boton-empresas" href="pdf/catalogo-wodon.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a>
+						<a class="boton-empresas" href="" target="_blank">VER MÁS</a> <a class="boton-empresas" href="pdf/catalogo-wodon.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a>
 						<div class="clear"></div>
 					</div>
 				</div>
@@ -206,7 +206,46 @@
 					</div>
 					<div class="descripcion-empresa">
 						<p><img src="img/logoeffectus.jpg">Effectus Indústria e Comércio Ltda., fundada em agosto/1993 , constantemente vem procurando renovar sua linha de produtos para tratamento e recuperação de concretos em geral . Com 100% de capital brasileiro, destina todo o seu trabalho na busca de novas tecnologias em produtos e sistemas para tratamento de concreto.</p>
-						<a class="boton-empresas" href="http://www.effectus.com.br/" target="_blank">WEB</a><!--<a class="boton-empresas" href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a> -->
+						<a class="boton-empresas" href="" target="_blank">VER MÁS</a><!--<a class="boton-empresas" href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a> -->
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>
+
+			<div class="representaciones-producto espaciado-producto">
+				<div class="empresas-derecha borde-inferior">
+					<div class="titulo">
+						<h2>NANO4LIFE -  <span>Bienvenido al mundo de la nanotecnología</span></h2>
+					</div>
+					<div class="descripcion-empresa">
+						<p><img src="img/logo-nano-4life.png">A NANO4LIFE® es la marca lider mundial en revestimientos de Nanotecnología que fueron específicamente desarrollados para sustituir a los convencionales para diferentes aplicaciones. Los revestimientos NANO4LIFE® tienen como base SiO2 (Cuarzo puro de dióxido de silicio) nuestros productos están hechos a partir del proceso de fabricación sol-gel.</p>
+						<a class="boton-empresas" href="productos-nano4life.php">VER MÁS</a><!--<a class="boton-empresas" href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a> -->
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>
+
+			<div class="representaciones-producto">
+				<div class="empresas-derecha borde-inferior">
+					<div class="titulo">
+						<h2>XADO -  <span>Innovative Nanotechnology</span></h2>
+					</div>
+					<div class="descripcion-empresa">
+						<p><img src="img/logo-xado.png">The main, leading brand of XADO Chemical Group. Registered in 1991. The first products with the XADO trademark appeared in automotive shops in 1999. If you see the XADO logo on the package, it means this is an innovative product containing revitalizant. It is the main feature and distinctive sign of the XADO trademark.</p>
+						<a class="boton-empresas" href="productos-xado.php">VER MÁS</a><!--<a class="boton-empresas" href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a> -->
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>
+
+			<div class="representaciones-producto">
+				<div class="empresas-derecha borde-inferior">
+					<div class="titulo">
+						<h2>ITW -  <span>Seu Parceiro Na Construçáo</span></h2>
+					</div>
+					<div class="descripcion-empresa">
+						<p><img src="img/logo-itw.png">Effectus Indústria e Comércio Ltda., fundada em agosto/1993 , constantemente vem procurando renovar sua linha de produtos para tratamento e recuperação de concretos em geral . Com 100% de capital brasileiro, destina todo o seu trabalho na busca de novas tecnologias em produtos e sistemas para tratamento de concreto.</p>
+						<a class="boton-empresas" href="" target="_blank">VER MÁS</a><!--<a class="boton-empresas" href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a> -->
 						<div class="clear"></div>
 					</div>
 				</div>

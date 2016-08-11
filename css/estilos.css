@@ -1112,6 +1112,8 @@ footer img{
 }
 
 .contenedor-representaciones{
+	display: flex;
+	flex-wrap: wrap;
 	width: 80%;
 	margin: 0 auto;
 }
@@ -1120,13 +1122,14 @@ footer img{
 	font-family: "my_riad_pro_semibold";
 	font-size: 2em;
 	margin-bottom: 3%;
+	width: 100%;
 }
 .contenedor-representaciones p{
 	color: #2C3D6D;
 	font-family: "my_riad_pro_regular";
 }
 .representaciones-producto{
-	float: left;
+	margin-bottom: 5%;
 	width: 48%;
 }
 .representaciones-producto img{

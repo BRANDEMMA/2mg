@@ -46,7 +46,7 @@
 
 	<script type="text/javascript">
 	$(document).ready(function(){
-		$('#industria').show();
+		$('#distribuidor').show();
 	});
 </script>
 
@@ -69,6 +69,19 @@
 				Tenemos la capacidad de atender al mercado de acuerdo con la necesidad especifica del cliente, <strong>cumpliendo plazos</strong> y así evitando las perdidas por las reducciones de productividad.</p>
 
 				<ul id="accordion" class="accordion">
+				<li>
+					<div class="link"><span>&#62;</span> Distribuidor <strong>Autorizado</strong></div>
+					<ul class="submenu" id="distribuidor">
+						<li>
+							<img src="img/logo-nano-4life.png">
+							<img src="img//logo-xado.png">
+							<img src="img/logo-effectus.png">
+							<img src="img/logo-wodon.png">
+							<img src="img/logo-itw.png">
+						</li>
+					</ul>
+					<div class="clear"></div>
+				</li>
 				<li>
 					<div class="link"><span>&#62;</span> Suministros <strong>Industriales</strong><a class="descarga-dossier" href="pdf/industria.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a></div>
 					<ul class="submenu" id="industria">
