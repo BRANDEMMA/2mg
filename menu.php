@@ -45,7 +45,7 @@
 			<li><a href="productos.php">Procurement en Ingeniería</a>
 				<ul>
 					<!-- <li><a href="productos.php#productos">Productos</a></li> -->
-					<li><a href="productos.php#representaciones">Representaciones</a></li>
+					<!-- <li><a href="productos.php#representaciones">Representaciones</a></li> -->
 				</ul>
 			</li>
 			<li class="lineas"></li>

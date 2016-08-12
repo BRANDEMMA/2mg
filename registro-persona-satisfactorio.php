@@ -50,60 +50,36 @@
 		
 		<div class="derecha-nosotros2">
 			<div class="derecha-nosotros-centrado">
-				<h1>2MG - ESPECIALISTAS EN PROCUREMENT DE INGENIERÍA Y EXPORTACIÓN E IMPORTACIÓN DE PRODUCTOS - GRAN SORTEO</h1>
+				<!-- <h1>2MG - ESPECIALISTAS EN PROCUREMENT DE INGENIERÍA Y EXPORTACIÓN E IMPORTACIÓN DE PRODUCTOS - GRAN SORTEO</h1>
 				<p class="texto-gris espaciado">Tenemos la gran alegría de invitarte a participar en el gran sorteo de 2MG en el marco de la XXII Convención Mundial de Exportación e Importación de Productos.<br><br>
-				Tenemos grandes premios para ti como un casa totalmente amoblada en la luna y muchos premios más, solo regístrate y participas automaticamente.</p>
+				Tenemos grandes premios para ti como un casa totalmente amoblada en la luna y muchos premios más, solo regístrate y participas automaticamente.</p> -->
 
-				<div class="fondo-formulario">
-					<h2>Participa en nuestro sorteo</h2>
-					
-					<div class="contenido-form-sorteo">
+				<div class="registro-ok">
+					<h2>Gracias por 
+					<span>Participar</span></h2>
 
-						<form class="form-main formulario-sorteo" name="ajax-form" id="ajax-form" method="POST" action="php/registrar.php">
+					<p>
+						Gracias por participar en nuestro sorteo. Este es tu código:
+					</p>
 
-							<div class="campos-formulario">
-								<label>Nombre:</label><br>
-								<input name="nombre" id="nombre" type="text" required>
-							</div>
+					<?php 
+						include 'php/conexion-db.php';
+						$rs = mysql_query("SELECT MAX(id) AS id FROM participantes");
+						if ($row = mysql_fetch_row($rs)) {
+						$id = trim($row[0]);
+						}
+					?>
 
-							<div class="campos-formulario">
-								<label>DNI:</label><br>
-								<input name="dni" id="dni" type="tel" required>
-							</div>
+					<div class="registro-ok-izq">
+						<img src="img/logo-2mg-blanco.png">
 
-							<div class="campos-formulario">
-								<label>Email:</label><br>
-								<input name="email" id="email" type="email" required>
-						    </div>
-
-							<div class="campos-formulario">
-								<label>Teléfono:</label><br>
-								<input name="telefono" id="telefono" type="tel" required>
-							</div>
-
-							<div class="campos-formulario">
-								<label>Empresa:</label><br>
-								<input name="empresa" id="empresa" type="text" required>
-							</div>
-							
-							<button type="submit" id="send" class="btn btn-primary boton-registrarse">Participa ahora</button>
-
-							<div class="clear"></div>
-						</form>
-
-						<div class="img-premio">
-							<img src="img/imagen-sorteo.jpg">
-						</div>
-
-						<div class="clear"></div>
+						<p>2MG-XADO-<?php echo $id?></p>
 					</div>
-
-					<img class="img-bottom-sorteo" src="img/imagen-bottom-sorteo.jpg">
-
+					<!-- <div class="registro-ok-der">
+						<img src="img/codigo-sorteo.jpg">
+					</div>
+					<div class="clear"></div> -->
 				</div>
-			<!-- <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
-			<script type="text/javascript" src="js/bootstrap.min.js"></script>  	
-		  	<script type="text/javascript" src="js/functions-sorteo.js"></script> -->
 			</div>
 			
 

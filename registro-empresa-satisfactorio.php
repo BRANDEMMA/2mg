@@ -50,27 +50,35 @@
 		
 		<div class="derecha-nosotros2">
 			<div class="derecha-nosotros-centrado">
-				<h1>2MG - ESPECIALISTAS EN PROCUREMENT DE INGENIERÍA Y EXPORTACIÓN E IMPORTACIÓN DE PRODUCTOS - GRAN SORTEO</h1>
+				<!-- <h1>2MG - ESPECIALISTAS EN PROCUREMENT DE INGENIERÍA Y EXPORTACIÓN E IMPORTACIÓN DE PRODUCTOS - GRAN SORTEO</h1>
 				<p class="texto-gris espaciado">Tenemos la gran alegría de invitarte a participar en el gran sorteo de 2MG en el marco de la XXII Convención Mundial de Exportación e Importación de Productos.<br><br>
-				Tenemos grandes premios para ti como un casa totalmente amoblada en la luna y muchos premios más, solo regístrate y participas automaticamente.</p>
+				Tenemos grandes premios para ti como un casa totalmente amoblada en la luna y muchos premios más, solo regístrate y participas automaticamente.</p> -->
 
 				<div class="registro-ok">
 					<h2>Gracias por 
 					<span>Participar</span></h2>
 
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin commodo aliquet velit, ut elementum ante auctor vel. Nam pulvinar porta pellentesque. Pellentesque molestie tortor quis elementum rhoncus. Nam molestie massa enim, sit amet consectetur nisl viverra quis. Nulla nec neque eu est dignissim ornare vel quis ante. Sed ac mauris ac ante eleifend ultricies eget non eros. Aenean commodo vehicula est, sed gravida velit. Curabitur id tincidunt orci.
+						Gracias por participar en nuestro sorteo. Tienes el doble de posibilidades de ganar con el siguiente código:
 					</p>
+
+					<?php 
+						include 'php/conexion-db.php';
+						$rs = mysql_query("SELECT MAX(id) AS id FROM participantes");
+						if ($row = mysql_fetch_row($rs)) {
+						$id = trim($row[0]);
+						}
+					?>
 
 					<div class="registro-ok-izq">
 						<img src="img/logo-2mg-blanco.png">
 
-						<p>DRJ19FL0716</p>
+						<p>2MG-XADO-<?php echo $id?></p>
 					</div>
-					<div class="registro-ok-der">
+					<!-- <div class="registro-ok-der">
 						<img src="img/codigo-sorteo.jpg">
 					</div>
-					<div class="clear"></div>
+					<div class="clear"></div> -->
 				</div>
 			</div>
 			

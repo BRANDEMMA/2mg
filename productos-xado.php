@@ -56,11 +56,30 @@
 			</div>
 			
 			<div class="texto-xado-der">
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin commodo aliquet velit, ut elementum ante auctor vel. Nam pulvinar porta pellentesque. Pellentesque molestie tortor quis elementum rhoncus. Nam molestie massa enim, sit amet consectetur nisl viverra quis. Nulla nec neque eu est dignissim ornare vel quis ante. Sed ac mauris ac ante eleifend ultricies eget non eros. Aenean commodo vehicula est, sed gravida velit. Curabitur id tincidunt orci.<br><br>
+				<p>El consorcio químico XADO se especializa en la producción e introducción de tecnologías economizadoras de energía y recursos, producción de aceites, lubricantes y productos químicos para automóviles.<br><br>
 
-				Sed quis metus mi. Integer condimentum neque pharetra tellus consequat ultrices. Donec efficitur eu diam a ornare. Nullam id mauris accumsan, consequat ligula eget, lacinia eros. In nec mattis nunc. Integer commodo rhoncus felis in varius. Duis id felis lobortis, rhoncus lectus laoreet, blandit ante. Nullam in imperdiet nulla, nec vestibulum odio. Integer et erat velit. Duis sem neque, dictum quis urna quis, efficitur auctor enim. Morbi scelerisque arcu eget metus molestie fermentum. Quisque ornare, nibh et malesuada aliquam, nulla mi blandit magna, sed viverra diam ante id nunc.</p>
+				Actualmente Xado es una moderna empresa química que cuenta con sistemas de producción altamente tecnológicos y equipos de avanzada.
+				Esto permite no solamente acrecentar los volúmenes de producción de sus propios productos, sino que también dedicarse a la fabricación de productos para terceros, a condiciones contractuales.  Cada partida de productos es sometida a riguroso control ya que la empresa trabaja bajo el sistema de control de calidad ISO 9001_2000.<br><br>
 
-				<a class="boton-azul-xado" href="">Leer Más</a>
+				Forman parte del Consorcio el Centro de investigación científica “XADO-Laboratories” con laboratorios físico-químicos, químico-motológicos, tribológicos, balísticos, metodológicos y un centro de investigación científica excelentemente equipados y certificados.<br><br>
+
+				La subdivisión estructural del Consorcio es la compañía VERYLUBE, que produce medios para el cuidado y mantenimiento de automóviles, incluyéndose prestaciones en forma de aerosol. En su producción se utilizan productos de la compañía BASF, líder mundial en la industria química. VERYLUBE es una marca comercial de uso popular, produce productos químicos automovilísticos de altísima calidad a precios bastante asequibles.<br><br>
+
+				La oficina central se encuentra en la ciudad de Kharkov, contando con representaciones generales en Ucrania, Rusia, Bielorrusia, Lituania, Holanda, EE.UU. Se ha creado además una red de representaciones y concesionarios que cubre ahora la mayoría de países del mundo.<br><br>
+
+				Los productos de ХАDО pueden ser adquiridos en más de 30000 puntos certificados de venta. Actualmente se viene realizando un programa para creación de centros oficiales de servicio técnico “ХАDО-Service”, donde se realiza el diagnóstico y tratamiento garantizado con la aplicación de la tecnología Xado.<br><br>
+
+				Los productos ХАDО cuentan con licencia de API — American Petroleum Institute (Instituto americano del petróleo) en sus más altas especificaciones API SL y API SM, lo que demuestra la altísima calidad de los aceites para motor producidos.<br><br>
+
+				El descubrimiento del fenómeno “Revitalización” se convirtió en la esencia y eslabón clave de una nueva tecnología — La tecnología ХАDО. Los productos fabricados en base a esta tecnología poseen propiedades únicas, tanto restauradoras, protectoras como de reparación, lo que permite economizar en portadores de energía y recursos, proteger el medio ambiente creando un nueva calidad de vida.<br><br>
+
+				La eficacia de los revitalizantes se ha confirmado mediante pruebas de certificación en 35 países del mundo. Este invento está protegido por patentes registradas en Australia, Alemania, China, Rusia, EE.UU., Ucrania, Sudáfrica y otros países.<br><br>
+
+				Hoy en día, el consorcio químico XADO ofrece más de 150 denominaciones de productos que pueden ser adquiridos en cualquier país del mundo. La singularidad y alta calidad de nuestros productos son confirmadas por la gran cantidad de premios, diplomas y condecoraciones recibidas en concursos y exposiciones internacionales.<br><br>
+
+				Pero, sin lugar a dudas, el mejor premio que podemos tener es el reconocimiento de los usuarios, quienes han hecho su elección en favor de los productos del Consorcio químico Xado.</p>
+
+				<!-- <a class="boton-azul-xado" href="">Leer Más</a> -->
 				<div class="clear"></div>
 			</div>
 			<div class="clear"></div>
@@ -69,7 +88,7 @@
 
 			<div class="subtitulo-xado">
 				<h2>Productos &nbsp; <i class="fa fa-sort-desc" aria-hidden="true"></i></h2>
-				<p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+				<p>Innovative Nanotechnology by XADO</p>
 			</div>
 
 			<div class="contenedor-productos-xado">
@@ -78,7 +97,6 @@
 					<img src="img/producto-xado1.jpg">
 					<h3>Atomic metal conditioner 1 Stage Maximum  for Diesel Truck</h3>
 					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
-					<p class="codigo-producto-xado">CODIGO: 97590</p>
 
 					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
@@ -87,7 +105,6 @@
 					<img src="img/producto-xado2.jpg">
 					<h3>Atomic metal conditioner 1 Stage Maximum</h3>
 					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
-					<p class="codigo-producto-xado">CODIGO: 97590</p>
 
 					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
@@ -96,7 +113,6 @@
 					<img src="img/producto-xado3.jpg">
 					<h3>Atomic metal conditioner Highway for Diesel Truck</h3>
 					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
-					<p class="codigo-producto-xado">CODIGO: 97590</p>
 
 					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
@@ -105,7 +121,6 @@
 					<img src="img/producto-xado4.jpg">
 					<h3>Atomic metal conditioner Highway</h3>
 					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
-					<p class="codigo-producto-xado">CODIGO: 97590</p>
 
 					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
@@ -114,7 +129,6 @@
 					<img src="img/producto-xado4.jpg">
 					<h3>1 STAGE engine revitalizant MAGNUM for diesel truck</h3>
 					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
-					<p class="codigo-producto-xado">CODIGO: 97590</p>
 
 					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
@@ -123,7 +137,6 @@
 					<img src="img/producto-xado3.jpg">
 					<h3>1 STAGE engine revitalizant</h3>
 					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
-					<p class="codigo-producto-xado">CODIGO: 97590</p>
 
 					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
@@ -132,7 +145,6 @@
 					<img src="img/producto-xado2.jpg">
 					<h3>REVITALIZANT EX120  for all types of fuel equipment</h3>
 					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
-					<p class="codigo-producto-xado">CODIGO: 97590</p>
 
 					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
@@ -141,13 +153,14 @@
 					<img src="img/producto-xado1.jpg">
 					<h3>REVITALIZANT EX120 for automatic transmission</h3>
 					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
-					<p class="codigo-producto-xado">CODIGO: 97590</p>
 
 					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 
 			</div>
+
+
 
 		</div>
 

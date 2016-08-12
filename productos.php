@@ -182,7 +182,7 @@
 			</div>
 		</div> -->
 
-		<div class="contenedor-representaciones"><a name="representaciones"></a>
+		<!-- <div class="contenedor-representaciones"><a name="representaciones"></a>
 			<h2 class="espaciado-repre">Representaciones</h2>
 
 			<div class="representaciones-producto espaciado-producto">
@@ -206,7 +206,7 @@
 					</div>
 					<div class="descripcion-empresa">
 						<p><img src="img/logoeffectus.jpg">Effectus Indústria e Comércio Ltda., fundada em agosto/1993 , constantemente vem procurando renovar sua linha de produtos para tratamento e recuperação de concretos em geral . Com 100% de capital brasileiro, destina todo o seu trabalho na busca de novas tecnologias em produtos e sistemas para tratamento de concreto.</p>
-						<a class="boton-empresas" href="" target="_blank">VER MÁS</a><!--<a class="boton-empresas" href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a> -->
+						<a class="boton-empresas" href="" target="_blank">VER MÁS</a>
 						<div class="clear"></div>
 					</div>
 				</div>
@@ -219,7 +219,7 @@
 					</div>
 					<div class="descripcion-empresa">
 						<p><img src="img/logo-nano-4life.png">A NANO4LIFE® es la marca lider mundial en revestimientos de Nanotecnología que fueron específicamente desarrollados para sustituir a los convencionales para diferentes aplicaciones. Los revestimientos NANO4LIFE® tienen como base SiO2 (Cuarzo puro de dióxido de silicio) nuestros productos están hechos a partir del proceso de fabricación sol-gel.</p>
-						<a class="boton-empresas" href="productos-nano4life.php">VER MÁS</a><!--<a class="boton-empresas" href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a> -->
+						<a class="boton-empresas" href="productos-nano4life.php">VER MÁS</a>
 						<div class="clear"></div>
 					</div>
 				</div>
@@ -232,7 +232,7 @@
 					</div>
 					<div class="descripcion-empresa">
 						<p><img src="img/logo-xado.png">The main, leading brand of XADO Chemical Group. Registered in 1991. The first products with the XADO trademark appeared in automotive shops in 1999. If you see the XADO logo on the package, it means this is an innovative product containing revitalizant. It is the main feature and distinctive sign of the XADO trademark.</p>
-						<a class="boton-empresas" href="productos-xado.php">VER MÁS</a><!--<a class="boton-empresas" href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a> -->
+						<a class="boton-empresas" href="productos-xado.php">VER MÁS</a>
 						<div class="clear"></div>
 					</div>
 				</div>
@@ -245,14 +245,14 @@
 					</div>
 					<div class="descripcion-empresa">
 						<p><img src="img/logo-itw.png">Effectus Indústria e Comércio Ltda., fundada em agosto/1993 , constantemente vem procurando renovar sua linha de produtos para tratamento e recuperação de concretos em geral . Com 100% de capital brasileiro, destina todo o seu trabalho na busca de novas tecnologias em produtos e sistemas para tratamento de concreto.</p>
-						<a class="boton-empresas" href="" target="_blank">VER MÁS</a><!--<a class="boton-empresas" href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a> -->
+						<a class="boton-empresas" href="" target="_blank">VER MÁS</a>
 						<div class="clear"></div>
 					</div>
 				</div>
 			</div>
 
 			<div class="clear"></div>
-		</div>
+		</div> -->
 	</div>
 	
 	<?php

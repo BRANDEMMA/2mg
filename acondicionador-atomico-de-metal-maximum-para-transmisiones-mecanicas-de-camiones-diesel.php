@@ -6,7 +6,7 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG - NANO4CSCYATCH.</title>
+	<title>2MG - ACONDICIONADOR ATÓMICO DE METAL MAXIMUM PARA TRANSMISIONES MECÁNICAS DE CAMIONES DIÉSEL.</title>
 	<meta name="author" content="Brandemma" />
 	<meta name="description" content="2MG es una empresa peruana que se dedica a la importación y exportación de productos, servicios y soluciones en Procurement de Ingeniería."/>
 
@@ -50,51 +50,56 @@
 		
 		<div class="descripcion-xado">
 			<div class="detalle-producto-xado-izq">
-				<img src="img/producto-nano4csc4yatch.jpg">
+				<img src="img/productos-xado/amc-maximum-disel-truck-transmission_new.jpg">
 			</div>
 			
 			<div class="detalle-producto-xado-der">
 				<div class="titulo-producto-xado">
-					<h1>NANO4CSCYATCH</h1>
+					<h1>Acondicionador atómico de metal Maximum para transmisiones mecánicas de camiones diésel</h1>
 				</div>
 
 				<div class="fondo-azul-xado">
-					<p>LIMPEZA: Gracias a la acción de dos poderosos componentes nanotecnológicos, elimina a fondo todo tipo de suciedades que haya en la superficie del barco. PULIMENTO: posee un gel con componentes que cubren rayaduras, dando lugar a una superfície brillante y devolviendo la apariencia del primer día. PROTECCIÓN: las nanopartículas de SiO2 repelen los líquidos e impiden la adhesión de polvo, sustancias oleosas y otros tipos de suciedad.</p>
+					<p>Destinado para la reparación, restauración y protección contra el desgaste de las piezas de transmisiones mecánicas de vehículos de cargas pesadas directamente durante su funcionamiento.<br><br>
+					Embalaje: Jeringa 50 ml.</p>
 				</div>
 
 				<h2>Tecnología y certificados</h2>
-				<?php
-					include 'certificados-nano4life.php';
-				?>
+				<div class="certificados-xado">
+					<img src="img/certificado-3c.jpg">
+					<img src="img/certificado-3rd.jpg">
+					<img src="img/certificado-62000.jpg">
+				</div>
 			</div>
 			<div class="clear"></div>
 
 
-			<h3>Descripción</h3>
+			<h3>Ventajas</h3>
 			<ul>
-				<li><span>Lugares de aplicación: Superfícies plásticas o rugosas, pintadas o no pintadas de barcos.</span></li>
-				<li><span>Versiones comercializadas: Única</span></li>
-				<li><span>Embalajes: 500mL; 1000mL; 4L.</span></li>
+				<li><span>Restaura las superficies de las piezas y compensa el desgaste actual.</span></li>
+				<li><span>Elimina rasguños y oquedades sobre las superficies de trabajo.</span></li>
+				<li><span>Optimiza los puntos de contacto en los engranajes.</span></li>
+				<li><span>Reduce ruidos y vibraciones de las unidades hasta 10 veces.</span></li>
+				<li><span>Mejora las propiedades lubricantes del aceite y las características tribológicas del mecanismo de marchas.</span></li>
+				<li><span>Mejora el funcionamiento de sincronizadores, eleva la precisión del cambio de marchas.</span></li>
+				<li><span>Contribuye al ahorro significativo de combustible.</span></li>
+				<li><span>Permite la operación de la unidad en caso de una pérdida grave de aceite (hasta 1000 km).</span></li>
 			</ul>
 
 			<div class="solicitud-nota-xado">
 				<div class="solicitud">
-					<h4>Solicitud</h4>
+					<h4>Aplicación</h4>
 					<p>
-						La temperatura del compuesto antes de la aplicación no debe ser inferior a 77 oF. Agite la botella. Aplicar el compuesto en el cuello de llenado de aceite del motor, calentado hasta la temperatura de funcionamiento. Arranque el motor y proporcionar su marcha en vacío durante 3-5 minutos.<br><br>
-
-						1 botella (950 ml) es suficiente para que el motor con un sistema de capacidad de aceite con 30-45 volumen qt. El nivel de aceite no debe exceder el nivel máximo de medidor de aceite. Evitar la sobredosificación.
+						Verter el contenido de la jeringa en el orificio de llenado del aceite de la caja de cambio de marchas, caja de transferencia o reductor del puente. El mecanismo debe estar calentado hasta la temperatura de operación.<br><br>
+						Recorrer durante 3–5 minutos. En lo sucesivo utilizar el vehículo en régimen normal.
 					</p>
 				</div>
 
 				<div class="nota">
-					<h4>Nota</h4>
+					<h4>Dosificación</h4>
 					<p>
-						Especialmente diseñado para motores diesel con turbocompresor que operan bajo altas modos cargados (SHDP - Super High Performance Diesel, UHPD - Ultra High Performance Diesel). Compatible con todos los tipos de aceites de motor. Revitalización lleva a cabo durante 600-900 millas. No se recomienda cambiar el aceite durante este período.<br><br>
+						1 jeringa (50 ml) está prevista para el tratamiento de la caja de cambio de marchas de 10-25 litros.<br><br>
 
-						Los gránulos de revitalizante atómico se disuelven completamente en el aceite de motor bajo la temperatura de funcionamiento.<br><br>
-
-						Para el más alto nivel de protección para el uso del motor de su vehículo XADO aceite Atómica en el futuro.
+						Art. XA 40017
 					</p>
 				</div>
 			</div>

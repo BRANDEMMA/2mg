@@ -1568,6 +1568,9 @@ footer img{
 	text-align: left;
 	width: 100%;
 }
+.formulario-sorteo .ocultar-campo{
+	display: none;
+}
 .formulario-sorteo input{
 	width: 100%;
 }
@@ -1629,7 +1632,7 @@ footer img{
 	text-align: justify;
 }
 .registro-ok-izq{
-	float: left;
+	margin: 0 auto;
 	margin-top: 4%;
 	text-align: center;
 	width: 70%;
@@ -1751,14 +1754,8 @@ footer img{
 	color: #707070;
 	font-size: 0.8em;
 	margin: 0 auto;
-	margin-bottom: 20px;
+	margin-bottom: 40px;
 	width: 80%;
-}
-.producto-xado .codigo-producto-xado{
-	font-size: 0.8em;
-	font-family: "my_riad_pro_semibold";
-	margin: 0;
-	margin-bottom: 20%;
 }
 .producto-xado .mas-info-producto-xado{
 	border: 1.5px solid #2b3d6b;
@@ -1921,6 +1918,15 @@ footer img{
 	padding: 5px 10px;
 	text-align: center;
 	width: 350px;
+}
+.certificados-nano4life{
+	display: flex;
+	flex-wrap: wrap;
+}
+.certificados-nano4life img{
+	height: 100%;
+	margin-right: 3%;
+	width: 20%;
 }
 
 

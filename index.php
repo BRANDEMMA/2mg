@@ -63,7 +63,7 @@
 
 			<div class="clear"></div>	
 
-			<a href="soluciones-eficiencia-energetica.php"><div class="eficiencia">
+			<a href="productos.php"><div class="eficiencia">
 				<img src="img/fondo-transparente2.png">
 			</div></a>
 		</div>

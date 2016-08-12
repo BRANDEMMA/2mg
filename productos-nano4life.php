@@ -48,7 +48,7 @@
 	
 	<div class="contenedor-xado">
 		
-		<img class="banner-xado" src="img/banner-xado.jpg">
+		<img class="banner-xado" src="img/banner-nano4life.jpg">
 
 		<div class="descripcion-xado">
 			<div class="texto-xado-izq">

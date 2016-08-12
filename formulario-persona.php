@@ -13,8 +13,6 @@
 	<!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
 	<link rel="stylesheet" type="text/css" href="css/estilos.css">
-	<link rel="stylesheet" href="css/lightbox.min.css">
-
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (TERMINA)  =====================-->
 
@@ -23,13 +21,6 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
 	<!--================== 	ENLACE ICONO (TERMINA)  =====================-->
-
-	<!--================== 	SCRIPT PARA LIGTHBOX (INICIA)  =====================-->
-
-	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-
-	<!--================== 	SCRIPT PARA LIGTHBOX (TERMINA)  =====================-->
-
 
 	<!--================== 	ENLACE GOOGLE ANALYTICS (INICIA)  =====================-->
 
@@ -65,59 +56,59 @@
 
 				<div class="fondo-formulario">
 					<h2>PARTICIPA EN NUESTRO GRAN SORTEO</h2>
+					
+					<div class="contenido-form-sorteo">
 
-					<div class="banner-premio">
-						<a href="img/imagen-sorteo.jpg" data-lightbox="example-set"><img src="img/banner-premio.jpg"></a>
-					</div>
+						<form class="form-main formulario-sorteo" name="ajax-form" id="ajax-form" method="POST" action="php/registrar-persona.php">
 
-					<div class="contenedor-opciones">
+							<div class="campos-formulario">
+								<label>Nombre:</label><br>
+								<input name="nombre" id="nombre" type="text" required>
+							</div>
 
-					<div class="opcion-sorteo">
-						<h3>REGÍSTRATE COMO EMPRESA</h3>
-						<img src="img/icono-empresa-sorteo.png">
+							<div class="campos-formulario">
+								<label>DNI:</label><br>
+								<input name="dni" id="dni" type="tel" required>
+							</div>
 
-						<div class="oportunidades-ganar">
-							<p class="letra-negra">POSIBILIDAD
-							DE GANAR</p>
-							<p class="letra-blanca">X2</p>
+							<div class="campos-formulario">
+								<label>Email:</label><br>
+								<input name="email" id="email" type="email" required>
+						    </div>
+
+							<div class="campos-formulario">
+								<label>Teléfono:</label><br>
+								<input name="telefono" id="telefono" type="tel" required>
+							</div>
+
+							<div class="campos-formulario ocultar-campo">
+								<label>Empresa:</label><br>
+								<input name="empresa" id="empresa" type="text">
+							</div>
+
+							<div class="campos-formulario ocultar-campo">
+								<label>RUC:</label><br>
+								<input name="ruc" id="ruc" type="tel">
+							</div>
+							
+							<button type="submit" id="send" class="btn btn-primary boton-registrarse">Participa ahora</button>
+
+							<div class="clear"></div>
+						</form>
+
+						<div class="img-premio">
+							<img src="img/imagen-sorteo.jpg">
 						</div>
 
-						<p class="promo-texto">Regístrate con tu empresa y obten el <strong>doble de posibilidades de ganar</strong> un <strong>Paquete de Revializantes XADO</strong>.</p>
-
-						<a class="normas-legales" href="javascript:void( window.open('http://2mg.com.pe/','blank','scrollbars=yes,toolbar=no,width=700,height=500'))">Normas Legales</a><br><br>
-
-						<a class="boton-participar" href="http://2mg.com.pe/formulario-empresa.php">EMPRESA</a>
-					</div>
-
-					<div class="opcion-sorteo espaciado-sorteo">
-						<h3>REGÍSTRATE COMO EMPRESA</h3>
-						<img src="img/icono-persona-sorteo.png">
-
-						<div class="oportunidades-ganar">
-							<p class="letra-negra">POSIBILIDAD
-							DE GANAR</p>
-							<p class="letra-blanca">X1</p>
-						</div>
-
-						<p class="promo-texto">Regístrate como persona natural y participa en nuestro sorteo de un <strong>Paquete de Revializantes XADO</strong>.</p>
-
-						<a class="normas-legales" href="javascript:void( window.open('http://2mg.com.pe/','blank','scrollbars=yes,toolbar=no,width=700,height=500'))">Normas Legales</a><br><br>
-
-						<a class="boton-participar" href="http://2mg.com.pe/formulario-persona.php">PERSONA</a>
-					</div>
-
-					<div class="img-premio2">
-						<a href="img/imagen-sorteo.jpg" data-lightbox="example-set"><img src="img/imagen-sorteo.jpg"></a>
-						<script src="js/lightbox-plus-jquery.min.js"></script>
-					</div>
-
-					<div class="clear"></div>
-
+						<div class="clear"></div>
 					</div>
 
 					<img class="img-bottom-sorteo" src="img/imagen-bottom-sorteo.jpg">
 
 				</div>
+			<!-- <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+			<script type="text/javascript" src="js/bootstrap.min.js"></script>  	
+		  	<script type="text/javascript" src="js/functions-sorteo.js"></script> -->
 			</div>
 			
 

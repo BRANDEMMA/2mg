@@ -73,11 +73,11 @@
 					<div class="link"><span>&#62;</span> Distribuidor <strong>Autorizado</strong></div>
 					<ul class="submenu" id="distribuidor">
 						<li>
-							<img src="img/logo-nano-4life.png">
-							<img src="img//logo-xado.png">
-							<img src="img/logo-effectus.png">
-							<img src="img/logo-wodon.png">
-							<img src="img/logo-itw.png">
+							<a href="productos-nano4life.php"><img src="img/logo-nano-4life.png"></a>
+							<a href="productos-xado.php"><img src="img//logo-xado.png"></a>
+							<a href=""><img src="img/logo-effectus.png"></a>
+							<a href=""><img src="img/logo-wodon.png"></a>
+							<a href=""><img src="img/logo-itw.png"></a>
 						</li>
 					</ul>
 					<div class="clear"></div>
@@ -276,7 +276,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="empresas-derecha">
+				<!-- <div class="empresas-derecha">
 					<div class="titulo">
 						<h2>WODON -  <span>Wear Resistant Material Professional Manufacturer</span></h2>
 					</div>
@@ -292,10 +292,10 @@
 					</div>
 					<div class="descripcion-empresa">
 						<p><img src="img/logoeffectus.jpg">Effectus Indústria e Comércio Ltda., fundada em agosto/1993 , constantemente vem procurando renovar sua linha de produtos para tratamento e recuperação de concretos em geral . Com 100% de capital brasileiro, destina todo o seu trabalho na busca de novas tecnologias em produtos e sistemas para tratamento de concreto.</p>
-						<a class="boton-empresas" href="http://www.effectus.com.br/" target="_blank">WEB</a> <!--<a class="boton-empresas" href=""><i class="fa fa-file-pdf-o" aria-hidden="true"></i>&nbsp;&nbsp;DOSSIER</a> -->
+						<a class="boton-empresas" href="http://www.effectus.com.br/" target="_blank">WEB</a>
 						<div class="clear"></div>
 					</div>
-				</div>
+				</div> -->
 			</div>
 
 			<div class="clear"></div>

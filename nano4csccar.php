@@ -66,11 +66,9 @@
 				</div>
 
 				<h2>Tecnología y certificados</h2>
-				<div class="certificados-xado">
-					<img src="img/certificado-3c.jpg">
-					<img src="img/certificado-3rd.jpg">
-					<img src="img/certificado-62000.jpg">
-				</div>
+				<?php
+					include 'certificados-nano4life.php';
+				?>
 			</div>
 			<div class="clear"></div>
 
