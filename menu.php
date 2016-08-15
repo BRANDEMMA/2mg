@@ -33,9 +33,9 @@
 					<li><div class="marcas">
 						<a href="productos-nano4life.php"><img src="img/logo-nano-4life.png"></a>
 						<a href="productos-xado.php"><img src="img/logo-xado.png"></a>
-						<a href=""><img src="img/logo-effectus.png"></a>
-						<a href=""><img src="img/logo-wodon.png"></a>
-						<a href=""><img src="img/logo-itw.png"></a>
+						<a href="productos-effectus.php"><img src="img/logo-effectus.png"></a>
+						<a href="productos-wodon.php"><img src="img/logo-wodon.png"></a>
+						<a href="productos-itw.php"><img src="img/logo-itw.png"></a>
 					</div></li>
 				</ul>
 			</li>
