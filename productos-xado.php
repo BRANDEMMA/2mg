@@ -120,108 +120,108 @@
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/xado_amc-maximum-for-diesel-truck_950ml.jpg">
-					<h3><a href="xado-1stage-maximum.php">XADO® Atomic metal conditioner 1 Stage Maximum for Diesel Truck <br>(box, bottle 950 ml)</a></h3>
+					<h3><a href="xado-maximum-for-diesel-truck.php">XADO® Atomic metal conditioner 1 Stage Maximum for Diesel Truck <br>(box, bottle 950 ml)</a></h3>
 					
-					<a class="mas-info-producto-xado" href="xado-1stage-maximum.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
-				</div>
-
-				<div class="producto-xado">
-					<img src="img/productos-xado/xado_amc-maximum_250ml.jpg">
-					<h3><a href="">XADO® Atomic metal conditioner 1 Stage Maximum <br>(box, bottle 225  ml)</a></h3>
 					<a class="mas-info-producto-xado" href="xado-maximum-for-diesel-truck.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
+					<img src="img/productos-xado/xado_amc-maximum_250ml.jpg">
+					<h3><a href="xado-1stage-maximum.php">XADO® Atomic metal conditioner 1 Stage Maximum <br>(box, bottle 225  ml)</a></h3>
+					<a class="mas-info-producto-xado" href="xado-1stage-maximum.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+				</div>
+
+				<div class="producto-xado">
 					<img src="img/productos-xado/xado_amc-highway-disel-truck.jpg">
-					<h3><a href="">XADO® Atomic metal conditioner Highway for Diesel Truck <br>(box, bottle 950 ml)</a></h3>
+					<h3><a href="xado-highway-for-diesel-truck.php">XADO® Atomic metal conditioner Highway for Diesel Truck <br>(box, bottle 950 ml)</a></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="xado-highway-for-diesel-truck.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/xado_amc-highway_225ml.jpg">
-					<h3><a href="">XADO® Atomic metal conditioner Highway <br>(box, bottle 225 ml)</a></h3>
+					<h3><a href="xado-highway.php">XADO® Atomic metal conditioner Highway <br>(box, bottle 225 ml)</a></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="xado-highway.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/xado_1stage_magnum_box-maximum.jpg">
-					<h3><a href="">ХАDО® 1 STAGE engine revitalizant MAGNUM diesel truck <br>(blister package, tube 90 ml)</a></h3>
+					<h3><a href="revitalizante-1stage-magnum.php">ХАDО® 1 STAGE engine revitalizant MAGNUM diesel truck <br>(blister package, tube 90 ml)</a></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="revitalizante-1stage-magnum.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/xado_1stage_27ml.jpg">
-					<h3><a href="">ХАDО® 1 STAGE engine revitalizant <br>(blister package, tube 27 ml)</a></h3>
+					<h3><a href="xado-1stage.php">ХАDО® 1 STAGE engine revitalizant <br>(blister package, tube 27 ml)</a></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="xado-1stage.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/xado_ex120-dlia_vseh_tipov_toplivnoy_apparatury_8ml.jpg">
-					<h3><a href="">ХАDО® REVITALIZANT EX120  for all types of fuel equipment <br>(blister package, syringe 8 ml)</a></h3>
+					<h3><a href="xado-revitalizante-ex120-para-todos-los-tipos-de-sistemas-de-combustible-y-sistemas-de-inyeccion.php">ХАDО® REVITALIZANT EX120  for all types of fuel equipment <br>(blister package, syringe 8 ml)</a></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="xado-revitalizante-ex120-para-todos-los-tipos-de-sistemas-de-combustible-y-sistemas-de-inyeccion.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/xado_ex120-dlia_akpp_8ml.jpg">
-					<h3><a href="">ХАDО® REVITALIZANT EX120 for automatic transmission <br>(blister package, syringe 8 ml)</a></h3>
+					<h3><a href="xado-revitalizante-ex120-para-las-cajas-de-cambio-automaticas.php">ХАDО® REVITALIZANT EX120 for automatic transmission <br>(blister package, syringe 8 ml)</a></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="xado-revitalizante-ex120-para-las-cajas-de-cambio-automaticas.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/xado_ex120-dlia_kpp_i_reduktorov_8ml.jpg">
-					<h3><a href="">XADO® REVITALIZANT EX120  for gear boxes, transfer cases and differentials <br>(blister package, syringe 8 ml)</a><br><br></h3>
+					<h3><a href="xado-revitalizante-ex120-para-cajas-de-cambio-y-reductores.php">XADO® REVITALIZANT EX120  for gear boxes, transfer cases and differentials <br>(blister package, syringe 8 ml)</a><br><br></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="xado-revitalizante-ex120-para-cajas-de-cambio-y-reductores.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/xado_injector_box-maximum-tr.jpg">
-					<h3><a href="">XADO® Atomic metal conditioner 1 Stage Maximum Transmission for Diesel Truck <br>(syringe 50 ml)</a><br><br></h3>
+					<h3><a href="acondicionador-atomico-de-metal-maximum-para-transmisiones-mecanicas-de-camiones-diesel.php">XADO® Atomic metal conditioner 1 Stage Maximum Transmission for Diesel Truck <br>(syringe 50 ml)</a><br><br></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="acondicionador-atomico-de-metal-maximum-para-transmisiones-mecanicas-de-camiones-diesel.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/amc-maximum-disel-truck-transmission-automat.jpg">
-					<h3><a href="">XADO® Atomic metal conditioner 1 Stage Maximum Automatic Transmission for Diesel Truck <br>(syringe 50 ml)</a><br><br></h3>
+					<h3><a href="acondicionador-atomico-de-metal-maximum-para-transmisiones-automaticas-de-camiones-diesel-jeringa.php">XADO® Atomic metal conditioner 1 Stage Maximum Automatic Transmission for Diesel Truck <br>(syringe 50 ml)</a><br><br></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="acondicionador-atomico-de-metal-maximum-para-transmisiones-automaticas-de-camiones-diesel-jeringa.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/amc-maximum-disel-truck-fuel_new.jpg">
-					<h3><a href="">XADO® Atomic metal conditioner with 1 Stage Revitalizant Maximum for Diesel Truck for all types of fuel equipment <br>(syringe 30 ml)</a></h3>
+					<h3><a href="acondicionador-atomico-de-metal-maximum-para-equipos-de-combustible-de-camiones-diesel.php">XADO® Atomic metal conditioner with 1 Stage Revitalizant Maximum for Diesel Truck for all types of fuel equipment <br>(syringe 30 ml)</a></h3>
+					
+
+					<a class="mas-info-producto-xado" href="acondicionador-atomico-de-metal-maximum-para-equipos-de-combustible-de-camiones-diesel.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+				</div>
+
+				<div class="producto-xado">
+					<img src="img/productos-xado/antirain-aerosol-can-320ml.jpg">
+					<h3><a href="">Antirain <br>(aerosol can 320 ml)</a><br><br></h3>
 					
 
 					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/productos-xado/">
-					<h3><a href="">Antirain <br>(aerosol can 320 ml)</a></h3>
-					
-
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
-				</div>
-
-				<div class="producto-xado">
-					<img src="img/productos-xado/">
-					<h3><a href="">Antifog <br>(aerosol can 320 ml)</a></h3>
+					<img src="img/productos-xado/antifog-aerosol-can-320ml.jpg">
+					<h3><a href="">Antifog <br>(aerosol can 320 ml)</a><br><br></h3>
 					
 
 					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
@@ -229,14 +229,14 @@
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/xado_gel-revitalizant-dlia-benzinovogo-dvigagatelia_9ml.jpg">
-					<h3><a href="">ХАDО® gel-REVITALIZANT for cylinders <br>(blister package, tube 9 ml)</a></h3>
+					<h3><a href="gel-renovador-para-los-motores-de-gasolina.php">ХАDО® Gel-REVITALIZANT for cylinders <br>(blister package, tube 9 ml)</a></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="gel-renovador-para-los-motores-de-gasolina.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/productos-xado/">
+					<img src="img/productos-xado/atomex-energy-drive-power-amplifier-for-gasoline-engine-aluminum-bottle-250ml.jpg">
 					<h3><a href="">Atomex Energy Drive. Power amplifier for gasoline engine <br>(aluminum bottle 250 ml)</a></h3>
 					
 
@@ -244,7 +244,7 @@
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/productos-xado/">
+					<img src="img/productos-xado/atomex-energy-drive-power-amplifier-for-diesel-engine-aluminum-bottle-250ml.jpg">
 					<h3><a href="">Atomex Energy Drive. Power amplifier for diesel engine <br>(aluminum bottle 250 ml)</a></h3>
 					
 
@@ -252,24 +252,24 @@
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/productos-xado/">
-					<h3><a href="">ХАDО® protective grease <br>(tube 125 ml)</a></h3>
+					<img src="img/productos-xado/xado-protective-grease-tube-125ml.jpg">
+					<h3><a href="">ХАDО® protective grease <br>(tube 125 ml)</a><br><br></h3>
 					
 
 					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/productos-xado/">
-					<h3><a href="">ХАDО® restoring grease <br>(tube 125 ml)</a></h3>
+					<img src="img/productos-xado/xado-restoring-grease-tube-125ml.jpg">
+					<h3><a href="">ХАDО® restoring grease <br>(tube 125 ml)</a><br><br></h3>
 					
 
 					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/productos-xado/">
-					<h3><a href=""> ХАDО® repairing grease <br>(tube 125 ml)</a></h3>
+					<img src="img/productos-xado/xado-repairing-grease-tube-125ml.jpg">
+					<h3><a href=""> ХАDО® repairing grease <br>(tube 125 ml)</a><br><br></h3>
 					
 
 					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
@@ -277,30 +277,30 @@
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/amc-maximum-disel-truck-transmission_new.jpg">
-					<h3><a href="">XADO® Atomic metal conditioner 1 Stage Maximum Transmission for Diesel Truck <br>(syringe 50 ml)</a></h3>
+					<h3><a href="acondicionador-atomico-de-metal-maximum-para-transmisiones-mecanicas-de-camiones-diesel.php">XADO® Atomic metal conditioner 1 Stage Maximum Transmission for Diesel Truck <br>(syringe 50 ml)</a></h3>
+					
+
+					<a class="mas-info-producto-xado" href="acondicionador-atomico-de-metal-maximum-para-transmisiones-mecanicas-de-camiones-diesel.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+				</div>
+
+				<div class="producto-xado">
+					<img src="img/productos-xado/xado-gel-revitalizant-snipex-for-shooting-sports-equipment-blister-package-tube-27ml.jpg">
+					<h3><a href=""> ХАDО® gel-REVITALIZANT SnipeX, for shooting sports equipment <br>(blister package, tube 27  ml)</a><br><br></h3>
 					
 
 					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/productos-xado/">
-					<h3><a href=""> ХАDО® gel-REVITALIZANT SnipeX, for shooting sports equipment <br>(blister package, tube 27  ml)</a></h3>
+					<img src="img/productos-xado/atomex-totalflush-oil-system-cleaner-aluminum-bottle-250ml.jpg">
+					<h3><a href="">Atomex TotalFlush. Oil system cleaner <br>(aluminum bottle 250 ml)</a><br><br></h3>
 					
 
 					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/productos-xado/">
-					<h3><a href="">Atomex TotalFlush. Oil system cleaner <br>(aluminum bottle 250 ml)</a></h3>
-					
-
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
-				</div>
-
-				<div class="producto-xado">
-					<img src="img/productos-xado/">
+					<img src="img/productos-xado/atomex-multi-cleaner-high-performance-fuel-system-cleaner-for-gasoline-and-lpg-engine-aluminum-bottle-250ml.jpg">
 					<h3><a href="">Atomex Multi Cleaner. High performance fuel system cleaner for gasoline and LPG engine <br>(aluminum bottle 250 ml)</a></h3>
 					
 
@@ -308,7 +308,7 @@
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/productos-xado/">
+					<img src="img/productos-xado/atomex-multi-cleaner-high-performance-fuel-system-cleaner-for-diesel-engine-aluminum-bottle-250ml.jpg">
 					<h3><a href="">Atomex Multi Cleaner. High performance fuel system cleaner for diesel engine <br>(aluminum bottle 250 ml)</a></h3>
 					
 
@@ -317,18 +317,18 @@
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/xado-xteme-cleaner.jpg">
-					<h3><a href="">Complex fuel system cleaner "Xtreme Cleaner for Diesel Truck" for up to 500 L of fuel <br>(can 500 ml)</a></h3>
+					<h3><a href="xtreme-complex-fuel-system-cleane.php">Complex fuel system cleaner "Xtreme Cleaner for Diesel Truck" for up to 500 L of fuel <br>(can 500 ml)</a></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="xtreme-complex-fuel-system-cleane.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/xado-xtreme-flush.jpg">
-					<h3><a href="">Oil System Cleaner «Xtreme Flush  for Diesel Truck» <br>(can 0,5 l)</a></h3>
+					<h3><a href="xtreme-flush.php">Oil System Cleaner «Xtreme Flush  for Diesel Truck» <br>(can 0,5 l)</a><br><br></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="xtreme-flush.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 

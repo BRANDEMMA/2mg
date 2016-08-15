@@ -50,7 +50,7 @@
 		
 		<div class="descripcion-xado">
 			<div class="detalle-producto-xado-izq">
-				<img src="img/productos-xado/xado_amc-maximum_250ml.jpg">
+				<img src="img/productos-xado/xado_amc-maximum-for-diesel-truck_950ml.jpg">
 			</div>
 			
 			<div class="detalle-producto-xado-der">

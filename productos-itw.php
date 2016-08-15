@@ -48,7 +48,7 @@
 	
 	<div class="contenedor-xado">
 		
-		<img class="banner-xado" src="img/banner-nano4life.jpg">
+		<img class="banner-xado" src="img/banner-itw.jpg">
 
 		<div class="descripcion-xado">
 			<div class="texto-xado-izq">
@@ -65,137 +65,108 @@
 
 			<div class="subtitulo-xado">
 				<h2>Productos &nbsp; <i class="fa fa-sort-desc" aria-hidden="true"></i></h2>
-				<p>Descubra lo que pueden hacer los productos Nano4Life® en su día a día.	</p>
+				<p>Las mejores soluciones para todas las necesidades que presentan el día a día.</p>
 			</div>
 
 			<div class="contenedor-productos-xado">
 
 				<div class="producto-xado">
-					<img src="img/producto-nano4bathcare.jpg">
-					<h3><a href="nano4bathcare.php">NANO 4 BATHCARE</a></h3>
+					<img src="img/productos-itw/easyline-edge-white.jpg">
+					<h3><a href="">EASYLINE EDGE WHITE</a></h3>
 					<p class="descripcion-producto-xado">Forma una barrera protectora 100% invisíble que impide la adherencia de suciedad y formación de manchas...</p>
 					
 
-					<a class="mas-info-producto-xado" href="nano4bathcare.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/producto-nano4carglass.jpg">
-					<h3><a href="nano4carglass.php">NANO 4 CARGLASS</a></h3>
+					<img src="img/productos-itw/easyline-edge-yellow.jpg">
+					<h3><a href="">EASYLINE EDGE YELLOW</a></h3>
 					<p class="descripcion-producto-xado">Protección 100% invisíble, que impide la adherencia de líquidos y suciedad al parabrisas y otros cristales...</p>
 					
 
-					<a class="mas-info-producto-xado" href="nano4carglass.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/producto-nano4carprotect.jpg">
-					<h3><a href="nano4carprotect.php">NANO 4 CARPROTECT</a></h3>
+					<img src="img/productos-itw/easyline-safe-step.jpg">
+					<h3><a href="">EASYLINE EDGE SAFE STEP</a></h3>
 					<p class="descripcion-producto-xado">Protección 100% invisible para la carrocería de los vehículos.  Crea una barrera contra los rayos UV...</p>
 					
 
-					<a class="mas-info-producto-xado" href="nano4carprotect.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
-				</div>
+					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+				</div>				
 
 				<div class="producto-xado">
-					<img src="img/producto-nano4chromemetal.jpg">
-					<h3><a href="nano4chromemetal.php">NANO 4 CHROMEMETAL</a></h3>
-					<p class="descripcion-producto-xado">Forma una barrera protectora 100% invisible, que impide la aparición de manchas y suciedad en las superfícies...</p>
-					
-
-					<a class="mas-info-producto-xado" href="nano4chromemetal.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
-				</div>
-
-				
-
-				<div class="producto-xado">
-					<img src="img/producto-nano4glassceramic.jpg">
-					<h3><a href="nano4glassceramic.php">NANO 4 GLASSCERAMIC</a></h3>
+					<img src="img/productos-itw/lps-2.jpg">
+					<h3><a href="">LPS 2</a></h3>
 					<p class="descripcion-producto-xado">Protección 100% invisible, que impide la adherencia de líquidos y suciedades a las superfícies vidriadas...</p>
 					
-					<a class="mas-info-producto-xado" href="nano4glassceramic.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/producto-nano4plastic.jpg">
-					<h3><a href="nano4plastic.php">NANO 4 PLASTIC</a></h3>
+					<img src="img/productos-itw/lps-3.jpg">
+					<h3><a href="">LPS 3</a><br><br></h3>
 					<p class="descripcion-producto-xado">Protección 100% invisible, que impide la adherencia de líquidos y suciedades a las superfícies plásticas...</p>
 					
 
-					<a class="mas-info-producto-xado" href="nano4plastic.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/producto-nano4preclean.jpg">
-					<h3><a href="nano4preclean.php">NANO 4 PRECLEAN</a></h3>
+					<img src="img/productos-itw/lps-cold-galvanize.jpg">
+					<h3><a href="">LPS COLD GALVANIZE</a><br><br></h3>
 					<p class="descripcion-producto-xado">Garantiza una limpieza eficaz en superfícies no porosas. Debe ser aplicado después de lavar la superfície...</p>
 					
 
-					<a class="mas-info-producto-xado" href="nano4preclean.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/producto-nano4premiumtextile.jpg">
-					<h3><a href="nano4premiumtextile.php">NANO 4 PREMIUMTEXTILE</a></h3>
+					<img src="img/productos-itw/lubricante-sin-grasa-contenedor-de-11oz-peso-neto-de11oz.jpg">
+					<h3><a href="">Lubricante Sin Grasa de 11 OZ</a><br><br></h3>
 					<p class="descripcion-producto-xado">Protección 100% invisible para los tejidos más gruesos. Protege los tejidos y evita la decoloración...</p>
 					
 
-					<a class="mas-info-producto-xado" href="nano4premiumtextile.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/producto-nano4rims.jpg">
-					<h3><a href="nano4rims.php">NANO 4 RIMS</a></h3>
+					<img src="img/productos-itw/lubricante-sin-grasa-tamaño-del-contenedor-5gal-peso-neto-33,36lb.jpg">
+					<h3><a href="">Lubricante Sin Grasa de 5 Galones</a></h3>
 					<p class="descripcion-producto-xado">Protección 100% invisible, que impide la adherencia de líquidos y suciedades a las llantas, confiriendo brillo...</p>
 					
 
-					<a class="mas-info-producto-xado" href="nano4rims.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/producto-nano4shoes.jpg">
-					<h3><a href="nano4shoes.php">NANO 4 SHOES</a></h3>
+					<img src="img/productos-itw/rocol-easyline-edge-applicator-with-2free-cans-of-paint.jpg">
+					<h3><a href="">Rocol Edge Applicator</a></h3>
 					<p class="descripcion-producto-xado">Protección 100% invisible, que hace al calzado ser repelente frente a cualquier tipo de suciedades...</p>
 					
 
-					<a class="mas-info-producto-xado" href="nano4shoes.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/producto-nano4stone.jpg">
-					<h3><a href="nano4stone.php">NANO 4 STONE</a></h3>
+					<img src="img/productos-itw/rocol-leak-detector-spray.jpg">
+					<h3><a href="">Rocol Leak Detector Spray</a></h3>
 					<p class="descripcion-producto-xado">Protección 100% invisible que repele eficazmente líquidos, incluyendo aceites, evitando la formación de algas...</p>
 					
 
-					<a class="mas-info-producto-xado" href="nano4stone.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 
 				<div class="producto-xado">
-					<img src="img/producto-nano4textile.jpg">
-					<h3><a href="nano4textile.php">NANO 4 TEXTILE</a></h3>
+					<img src="img/productos-itw/scrubs-toalha-para-limpieza.jpg">
+					<h3><a href="">Scrubs Toalha</a></h3>
 					<p class="descripcion-producto-xado">Protección 100% invisible para tejidos, protegiéndolos y haciéndoles ser repelentes a líquidos...</p>
 					
 
-					<a class="mas-info-producto-xado" href="nano4textile.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
-				</div>
-
-				<div class="producto-xado">
-					<img src="img/producto-nano4wood.jpg">
-					<h3><a href="nano4wood.php">NANO 4 WOOD</a></h3>
-					<p class="descripcion-producto-xado">Protección 100% invisible, no impide a la madera respirar, repele eficazmente los líquidos evitando...</p>
-					
-
-					<a class="mas-info-producto-xado" href="nano4wood.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
-				</div>
-
-				<div class="producto-xado">
-					<img src="img/producto-nano4deckwood.jpg">
-					<h3><a href="nano4woodendeck.php">NANO 4 WOODENDECK</a></h3>
-					<p class="descripcion-producto-xado">Impermeabilización absoluta, 100% invisible, sin impedir a la madera respirar, pero evitando la penetración...</p>
-					
-
-					<a class="mas-info-producto-xado" href="nano4woodendeck.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 			</div>
