@@ -1674,6 +1674,18 @@ footer img{
     margin-top: 2%;
     width: 90%;
 }
+
+h3 a{
+
+	color: #2c3d6d;
+	text-decoration: none;
+
+}
+
+h3 a:hover{
+	color:#EC8327;
+}
+
 .banner-xado{
 	width: 100%;
 }
@@ -1739,9 +1751,9 @@ footer img{
 }
 .producto-xado{
 	font-family: "my_riad_pro_regular";
-	margin-top: 5%;
+	margin-top: 10%;
 	text-align: center;
-	width: 25%;
+	width: 270px;
 }
 .producto-xado img{
 	width: 70%;
@@ -1754,7 +1766,7 @@ footer img{
 	color: #707070;
 	font-size: 0.8em;
 	margin: 0 auto;
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 	width: 80%;
 }
 .producto-xado .mas-info-producto-xado{

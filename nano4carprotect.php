@@ -6,7 +6,7 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG - NANO4CARPROTECT.</title>
+	<title>2MG - NANO4CARPROTECT - NANO4LIFE PERÚ</title>
 	<meta name="author" content="Brandemma" />
 	<meta name="description" content="2MG es una empresa peruana que se dedica a la importación y exportación de productos, servicios y soluciones en Procurement de Ingeniería."/>
 
@@ -59,7 +59,7 @@
 				</div>
 
 				<div class="fondo-azul-xado">
-					<p>Protección 100% invisíble para las superfícies pintadas de los vehículos. Crea una barrera contra los rayos UV, impide la adherencia de líquidos y facilita la eliminación de insectos, suciedades y hielo. Presenta gran resistencia química y mecánica, siendo resistente a lavados com chorro de água caliente o vapor de alta presión. Tiene un elevado rendimento, permite ahorrar tiempo y dinero: posibilitando reducir hasta el 90% la utilización de materiales de limpieza.</p>
+					<p>Protección 100% invisible para la carrocería de los vehículos. Crea una barrera contra los rayos UV, impide la adherencia de líquidos y facilita la eliminación de insectos, suciedades y hielo. Presenta gran resistencia química y mecánica, siendo resistente a lavados con un chorro de agua caliente o vapor a presión.  Con un elevado rendimiento, permite ahorrar tiempo y dinero, posibilitando reducir hasta un 90% la utilización de productos de limpieza.</p>
 				</div>
 
 				<h2>Tecnología y certificados</h2>
@@ -70,39 +70,42 @@
 			<div class="clear"></div>
 
 
-			<h3>Descripción</h3>
+			<h3>Lugares de aplicación: </h3>
 			<ul>
-				<li><span>Lugares de aplicación: Carrocerias y superficies pintadas de todo o tipo de vehículos.</span></li>
-				<li><span>Versiones comercializadas: Industrial (versión única).</span></li>
-				<li><span>Embalajes: 100mL; 200mL; 500mL; 1000mL; 4L; 20L; 200L; 1000L.</span></li>
+				<li><span>Carrocerías y superficies pintadas de todo tipo de vehículos.</span></li>
+				
 			</ul>
 
-			<div class="solicitud-nota-xado">
-				<div class="solicitud">
-					<h4>Solicitud</h4>
-					<p>
-						La temperatura del compuesto antes de la aplicación no debe ser inferior a 77 oF. Agite la botella. Aplicar el compuesto en el cuello de llenado de aceite del motor, calentado hasta la temperatura de funcionamiento. Arranque el motor y proporcionar su marcha en vacío durante 3-5 minutos.<br><br>
+			<h3>Versiones comercializadas: </h3>
+			<ul>
+				<li><span>Única.</span></li>
+				
+			</ul>
+			<h3>Envases: </h3>
+			<ul>
+				<li><span>100 ml</span></li>
+				<li><span>200 ml</span></li>
+				<li><span>300 ml</span></li>
+				<li><span>1000 ml</span></li>
+				
+			</ul>
 
-						1 botella (950 ml) es suficiente para que el motor con un sistema de capacidad de aceite con 30-45 volumen qt. El nivel de aceite no debe exceder el nivel máximo de medidor de aceite. Evitar la sobredosificación.
-					</p>
-				</div>
+			<h3>Documentación: </h3>
 
-				<div class="nota">
-					<h4>Nota</h4>
-					<p>
-						Especialmente diseñado para motores diesel con turbocompresor que operan bajo altas modos cargados (SHDP - Super High Performance Diesel, UHPD - Ultra High Performance Diesel). Compatible con todos los tipos de aceites de motor. Revitalización lleva a cabo durante 600-900 millas. No se recomienda cambiar el aceite durante este período.<br><br>
+			<ul>
+				<li><span>	<a href="pdf/carprotect-nano4life.pdf" target="_blank">Ficha técnica</a></span></li>
+				
+				
+			</ul>
+		
+			
 
-						Los gránulos de revitalizante atómico se disuelven completamente en el aceite de motor bajo la temperatura de funcionamiento.<br><br>
+			
+			
 
-						Para el más alto nivel de protección para el uso del motor de su vehículo XADO aceite Atómica en el futuro.
-					</p>
-				</div>
-			</div>
+			
 
-			<div class="boton-solicitar-xado">
-				<a href="">Solicitalo &nbsp;<i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-			</div>
-
+		
 		</div>
 
 		<?php

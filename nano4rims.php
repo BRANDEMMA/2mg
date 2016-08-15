@@ -6,7 +6,7 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG - NANO4GLASSCERAMIC - NANO4LIFE PERÚ</title>
+	<title>2MG - NANO4RIMS - NANO4LIFE PERÚ</title>
 	<meta name="author" content="Brandemma" />
 	<meta name="description" content="2MG es una empresa peruana que se dedica a la importación y exportación de productos, servicios y soluciones en Procurement de Ingeniería."/>
 
@@ -50,16 +50,16 @@
 		
 		<div class="descripcion-xado">
 			<div class="detalle-producto-xado-izq">
-				<img src="img/producto-nano4glassceramic.jpg">
+				<img src="img/producto-nano4plastic.jpg">
 			</div>
 			
 			<div class="detalle-producto-xado-der">
 				<div class="titulo-producto-xado">
-					<h1>NANO4GLASSCERAMIC</h1>
+					<h1>NANO4RIMS - NANO4LIFE PERÚ</h1>
 				</div>
 
 				<div class="fondo-azul-xado">
-					<p>Protección 100% invisible, que impide la adherencia de líquidos y suciedades a las superfícies vidriadas. Confiere protección contra la acción de los rayos ultra-violeta. Presenta gran resistencia química y mecánica, siendo resistente al hielo y a lavados con un chorro de agua caliente. Con un elevado rendimiento, permite ahorrar tiempo y dinero, posibilitando reducir hasta un 90% la utilización de productos de limpieza.</p>
+					<p>Protección 100% invisible, que impide la adherencia de líquidos y suciedades a las llantas, confiriendo brillo y dando aspecto de nuevo a la llanta. Confiere protección prolongada contra la radiación ultra-violeta. Presenta gran resistencia química y mecánica, siendo resistente al hielo y a los lavados con un chorro de agua caliente o vapor a presión.  Con un elevado rendimiento, permite ahorrar tiempo y dinero, posibilitando reducir hasta un 90% la utilización de productos de limpeza.</p>
 				</div>
 
 				<h2>Tecnología y certificados</h2>
@@ -73,13 +73,13 @@
 
 			<h3>Lugares de aplicación: </h3>
 			<ul>
-				<li><span>Superfícies metálicas.</span></li>
+				<li><span>Llantas de vehículos.</span></li>
 				
 			</ul>
 
 			<h3>Versiones comercializadas: </h3>
 			<ul>
-				<li><span>Comercial e industrial.</span></li>
+				<li><span>Única.</span></li>
 				
 			</ul>
 			<h3>Envases: </h3>
@@ -91,16 +91,14 @@
 				
 			</ul>
 
-			<h3>Documentación: </h3>
+		
+<h3>Documentación: </h3>
 
 			<ul>
-				<li><span>	<a href="pdf/glassceramic-nano4life.pdf" target="_blank">Ficha técnica</a></span></li>
+				<li><span>	<a href="pdf/rims-nano4life.pdf" target="_blank">Ficha técnica</a></span></li>
 				
 				
 			</ul>
-		
-			
-
 			
 			
 

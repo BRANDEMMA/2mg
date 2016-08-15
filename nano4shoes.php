@@ -6,7 +6,7 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG - NANO4GLASSCERAMIC - NANO4LIFE PERÚ</title>
+	<title>2MG - NANO4SHOES - NANO4LIFE PERÚ</title>
 	<meta name="author" content="Brandemma" />
 	<meta name="description" content="2MG es una empresa peruana que se dedica a la importación y exportación de productos, servicios y soluciones en Procurement de Ingeniería."/>
 
@@ -50,16 +50,16 @@
 		
 		<div class="descripcion-xado">
 			<div class="detalle-producto-xado-izq">
-				<img src="img/producto-nano4glassceramic.jpg">
+				<img src="img/producto-nano4carprotect.jpg">
 			</div>
 			
 			<div class="detalle-producto-xado-der">
 				<div class="titulo-producto-xado">
-					<h1>NANO4GLASSCERAMIC</h1>
+					<h1>NANO4SHOES</h1>
 				</div>
 
 				<div class="fondo-azul-xado">
-					<p>Protección 100% invisible, que impide la adherencia de líquidos y suciedades a las superfícies vidriadas. Confiere protección contra la acción de los rayos ultra-violeta. Presenta gran resistencia química y mecánica, siendo resistente al hielo y a lavados con un chorro de agua caliente. Con un elevado rendimiento, permite ahorrar tiempo y dinero, posibilitando reducir hasta un 90% la utilización de productos de limpieza.</p>
+					<p>Protección 100% invisible, que hace al calzado ser repelente frente a cualquier tipo de suciedades y manchas causadas por líquidos permitiendo eliminar la mayor parte de la suciedad con un poco de agua. Previene la formación de manchas y el desarrollo bacteriano, además de evitar la decoloración provocada por los rayos ultra-violeta, aumentando la vida útil del calzado. Con un elevado rendimiento, permite ahorrar tiempo y dinero, posibilitando reducir hasta un 90% la utilización de productos de limpieza. Bastará enjuagar con agua para mantener el tejido limpio..</p>
 				</div>
 
 				<h2>Tecnología y certificados</h2>
@@ -70,16 +70,15 @@
 			<div class="clear"></div>
 
 
-
 			<h3>Lugares de aplicación: </h3>
 			<ul>
-				<li><span>Superfícies metálicas.</span></li>
+				<li><span>Todo tipo de calzado no encerado.</span></li>
 				
 			</ul>
 
 			<h3>Versiones comercializadas: </h3>
 			<ul>
-				<li><span>Comercial e industrial.</span></li>
+				<li><span>Única.</span></li>
 				
 			</ul>
 			<h3>Envases: </h3>
@@ -94,7 +93,7 @@
 			<h3>Documentación: </h3>
 
 			<ul>
-				<li><span>	<a href="pdf/glassceramic-nano4life.pdf" target="_blank">Ficha técnica</a></span></li>
+				<li><span>	<a href="pdf/shoes-nano4life.pdf" target="_blank">Ficha técnica</a></span></li>
 				
 				
 			</ul>

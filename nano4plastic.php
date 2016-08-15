@@ -6,7 +6,7 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG - NANO4PLASTIC.</title>
+	<title>2MG - NANO4PLASTIC - NANO4LIFE PERÚ</title>
 	<meta name="author" content="Brandemma" />
 	<meta name="description" content="2MG es una empresa peruana que se dedica a la importación y exportación de productos, servicios y soluciones en Procurement de Ingeniería."/>
 
@@ -55,7 +55,7 @@
 			
 			<div class="detalle-producto-xado-der">
 				<div class="titulo-producto-xado">
-					<h1>NANO4PLASTIC</h1>
+					<h1>NANO4PLASTIC - NANO4LIFE PERÚ</h1>
 				</div>
 
 				<div class="fondo-azul-xado">
@@ -70,39 +70,43 @@
 			<div class="clear"></div>
 
 
-			<h3>Descripción</h3>
+
+			<h3>Lugares de aplicación: </h3>
 			<ul>
-				<li><span>Lugares de aplicación: Todo tipo de superfícies plásticas a excepción de acrílicos.</span></li>
-				<li><span>Versiones comercializadas: Comercial e industrial.</span></li>
-				<li><span>Embalajes: 100mL; 200mL; 500mL; 1000mL; 4L; 20L; 200L; 1000L.</span></li>
+				<li><span>Todo tipo de superfícies plásticas salvo acrílicos.</span></li>
+				
 			</ul>
 
-			<div class="solicitud-nota-xado">
-				<div class="solicitud">
-					<h4>Solicitud</h4>
-					<p>
-						La temperatura del compuesto antes de la aplicación no debe ser inferior a 77 oF. Agite la botella. Aplicar el compuesto en el cuello de llenado de aceite del motor, calentado hasta la temperatura de funcionamiento. Arranque el motor y proporcionar su marcha en vacío durante 3-5 minutos.<br><br>
+			<h3>Versiones comercializadas: </h3>
+			<ul>
+				<li><span>Comercial e industrial.</span></li>
+				
+			</ul>
+			<h3>Envases: </h3>
+			<ul>
+				<li><span>100 ml</span></li>
+				<li><span>200 ml</span></li>
+				<li><span>300 ml</span></li>
+				<li><span>1000 ml</span></li>
+				
+			</ul>
 
-						1 botella (950 ml) es suficiente para que el motor con un sistema de capacidad de aceite con 30-45 volumen qt. El nivel de aceite no debe exceder el nivel máximo de medidor de aceite. Evitar la sobredosificación.
-					</p>
-				</div>
+			<h3>Documentación: </h3>
 
-				<div class="nota">
-					<h4>Nota</h4>
-					<p>
-						Especialmente diseñado para motores diesel con turbocompresor que operan bajo altas modos cargados (SHDP - Super High Performance Diesel, UHPD - Ultra High Performance Diesel). Compatible con todos los tipos de aceites de motor. Revitalización lleva a cabo durante 600-900 millas. No se recomienda cambiar el aceite durante este período.<br><br>
+			<ul>
+				<li><span>	<a href="pdf/plastic-nano4life.pdf" target="_blank">Ficha técnica</a></span></li>
+				
+				
+			</ul>
+		
+			
 
-						Los gránulos de revitalizante atómico se disuelven completamente en el aceite de motor bajo la temperatura de funcionamiento.<br><br>
+			
+			
 
-						Para el más alto nivel de protección para el uso del motor de su vehículo XADO aceite Atómica en el futuro.
-					</p>
-				</div>
-			</div>
+			
 
-			<div class="boton-solicitar-xado">
-				<a href="">Solicitalo &nbsp;<i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-			</div>
-
+		
 		</div>
 
 		<?php
