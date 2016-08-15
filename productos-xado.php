@@ -119,14 +119,14 @@
 			<div class="contenedor-productos-xado espacio-inferior-xado">
 
 				<div class="producto-xado">
-					<img src="img/productos-xado/xado_amc-maximum_250ml.jpg">
+					<img src="img/productos-xado/xado_amc-maximum-for-diesel-truck_950ml.jpg">
 					<h3><a href="xado-1stage-maximum.php">XADO® Atomic metal conditioner 1 Stage Maximum for Diesel Truck <br>(box, bottle 950 ml)</a></h3>
 					
 					<a class="mas-info-producto-xado" href="xado-1stage-maximum.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/productos-xado/xado_amc-maximum-for-diesel-truck_950ml.jpg">
+					<img src="img/productos-xado/xado_amc-maximum_250ml.jpg">
 					<h3><a href="">XADO® Atomic metal conditioner 1 Stage Maximum <br>(box, bottle 225  ml)</a></h3>
 					<a class="mas-info-producto-xado" href="xado-maximum-for-diesel-truck.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
