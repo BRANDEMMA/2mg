@@ -22,9 +22,6 @@
 
 	<!--================== 	ENLACE ICONO <br>(TERMINA)  =====================-->
 
-<<<<<<< HEAD
-	<!--================== 	ENLACE GOOGLE ANALYTICS <br>(INICIA)  =====================-->
-=======
 	<!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR UN DIV (INICIA)  =====================-->
 
 	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
@@ -52,7 +49,6 @@
 <!--================== 	SCRIPT PARA LLAMAR A DIV OCULTO (TERMINA)  =====================-->
 
 	<!--================== 	ENLACE GOOGLE ANALYTICS (INICIA)  =====================-->
->>>>>>> origin/master
 
 	<script>
 	  <br>(function<br>(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function<br>(){
@@ -123,7 +119,6 @@
 			<div class="contenedor-productos-xado espacio-inferior-xado">
 
 				<div class="producto-xado">
-<<<<<<< HEAD
 					<img src="img/productos-xado/xado_amc-maximum_250ml.jpg">
 					<h3><a href="xado-1stage-maximum.php">XADO® Atomic metal conditioner 1 Stage Maximum for Diesel Truck <br>(box, bottle 950 ml)</a></h3>
 					
@@ -133,22 +128,7 @@
 				<div class="producto-xado">
 					<img src="img/productos-xado/xado_amc-maximum-for-diesel-truck_950ml.jpg">
 					<h3><a href="">XADO® Atomic metal conditioner 1 Stage Maximum <br>(box, bottle 225  ml)</a></h3>
-					
-=======
-					<img src="img/productos-xado/xado_amc-maximum-for-diesel-truck_950ml.jpg">
-					<h3><a href="xado-maximum-for-diesel-truck.php">XADO® Atomic metal conditioner 1 Stage Maximum  for Diesel Truck (box, bottle 950 ml)</a></h3>
-					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
-
 					<a class="mas-info-producto-xado" href="xado-maximum-for-diesel-truck.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
-				</div>
-
-				<div class="producto-xado">
-					<img src="img/productos-xado/xado_amc-maximum_250ml.jpg">
-					<h3><a href="xado-1stage-maximum.php">XADO® Atomic metal conditioner 1 Stage Maximum (box, bottle 225  ml)</a></h3>
-					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
->>>>>>> origin/master
-
-					<a class="mas-info-producto-xado" href="xado-1stage-maximum.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
