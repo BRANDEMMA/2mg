@@ -1694,6 +1694,17 @@ h3 a:hover{
     padding-top: 3%;
     width: 90%;
 }
+.texto-todo-xado{
+	font-family: "my_riad_pro_regular";
+	margin: 0;
+	text-align: justify;
+	width: 100%;
+}
+.texto-todo-xado img{
+	float: left;
+	margin: 0 5% 5% 0;
+	width: 45%;
+}
 .texto-xado-izq{
 	float: left;
 	width: 40%;
@@ -1780,6 +1791,10 @@ h3 a:hover{
 	background-color: #2b3d6b;
 	color: white;
 }
+.espacio-inferior-xado{
+	padding-bottom: 5%;
+}
+
 
 
 
