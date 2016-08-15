@@ -183,20 +183,20 @@
 
 				<div class="producto-xado">
 					<img src="img/producto-nano4wood.jpg">
-					<h3><a href="nano4plastic.php">NANO 4 WOOD</a></h3>
+					<h3><a href="nano4wood.php">NANO 4 WOOD</a></h3>
 					<p class="descripcion-producto-xado">Protección 100% invisible, no impide a la madera respirar, repele eficazmente los líquidos evitando...</p>
 					
 
-					<a class="mas-info-producto-xado" href="nano4plastic.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="nano4wood.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/producto-nano4deckwood.jpg">
-					<h3><a href="nano4plastic.php">NANO 4 WOODENDECK</a></h3>
+					<h3><a href="nano4woodendeck.php">NANO 4 WOODENDECK</a></h3>
 					<p class="descripcion-producto-xado">Impermeabilización absoluta, 100% invisible, sin impedir a la madera respirar, pero evitando la penetración...</p>
 					
 
-					<a class="mas-info-producto-xado" href="nano4plastic.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="nano4woodendeck.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 			</div>

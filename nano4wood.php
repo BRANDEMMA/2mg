@@ -6,7 +6,7 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG - NANO4STONE - NANO4LIFE PERÚ</title>
+	<title>2MG - NANO4WOOD - NANO4LIFE PERÚ</title>
 	<meta name="author" content="Brandemma" />
 	<meta name="description" content="2MG es una empresa peruana que se dedica a la importación y exportación de productos, servicios y soluciones en Procurement de Ingeniería."/>
 
@@ -50,16 +50,16 @@
 		
 		<div class="descripcion-xado">
 			<div class="detalle-producto-xado-izq">
-				<img src="img/producto-nano4stone.jpg">
+				<img src="img/producto-nano4wood.jpg">
 			</div>
 			
 			<div class="detalle-producto-xado-der">
 				<div class="titulo-producto-xado">
-					<h1>NANO4STONE - NANO4LIFE PERÚ</h1>
+					<h1>NANO4WOOD - NANO4LIFE PERÚ</h1>
 				</div>
 
 				<div class="fondo-azul-xado">
-					<p>Protección 100% invisible que repele eficazmente líquidos, incluyendo aceites, evitando la formación de algas, hongos y mohos. Facilita la eliminación de la suciedad, protege contra el hielo, impide la penetración de sal (en zonas costeras) y evita la decoloración por acción de los rayos ultra-violeta. No impide a la pared transpirar. El producto no se ve afectado por las condiciones climáticas.</p>
+					<p>Protección 100% invisible, no impide a la madera respirar, repele eficazmente los líquidos evitando su penetración. Evita a descoloración de la radiación ultra-violeta, confiere protección contra el hielo y previene la formación de algas, hongos y mohos en la superfície de la madera. No se ve afectado por la acción de agentes climáticos.</p>
 				</div>
 
 				<h2>Tecnología y certificados</h2>
@@ -73,7 +73,7 @@
 
 			<h3>Lugares de aplicación: </h3>
 			<ul>
-				<li><span>Adobe, ladrillo, tejas, piedra no pulida.</span></li>
+				<li><span>Maderas exteriores e interiores.</span></li>
 				
 			</ul>
 
@@ -95,7 +95,7 @@
 <h3>Documentación: </h3>
 
 			<ul>
-				<li><span>	<a href="pdf/stone-nano4life.pdf" target="_blank">Ficha técnica</a></span></li>
+				<li><span>	<a href="pdf/wood-nano4life.pdf" target="_blank">Ficha técnica</a></span></li>
 				
 				
 			</ul>
