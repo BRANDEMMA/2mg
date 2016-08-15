@@ -90,10 +90,10 @@
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/xado_amc-maximum_250ml.jpg">
-					<h3><a href="">XADO® Atomic metal conditioner 1 Stage Maximum  for Diesel Truck (box, bottle 950 ml)</a></h3>
+					<h3><a href="xado-1stage-maximum.php">XADO® Atomic metal conditioner 1 Stage Maximum  for Diesel Truck (box, bottle 950 ml)</a></h3>
 					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="xado-1stage-maximum.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
