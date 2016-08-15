@@ -52,7 +52,7 @@
 
 		<div class="descripcion-xado">
 			<div class="texto-xado-izq">
-				<img src="img/marco-nano4life.jpg">
+				<img src="img/logos/logo-efectus-big.jpg">
 			</div>
 			
 			<div class="texto-xado-der">

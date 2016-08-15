@@ -52,13 +52,12 @@
 
 		<div class="descripcion-xado">
 			<div class="texto-xado-izq">
-				<img src="img/marco-nano4life.jpg">
+				<img src="img/logos/logo-itw-big.jpg">
 			</div>
 			
 			<div class="texto-xado-der">
-				<p>NANO4LIFE® PERÚ es la marca lider mundial en revestimientos de Nanotecnología que fueron específicamente desarrollados para sustituir a los convencionales para diferentes aplicaciones.<br><br>
-				Los revestimientos NANO4LIFE® tienen como base SiO2 (Cuarzo puro de dióxido de silicio) nuestros productos están hechos a partir del proceso de fabricación sol-gel de forma que obtenemos y garantizamos revestimientos altamente duraderos, seguros y reconocidos por su rapidez y facilidad de aplicación además son totalmente ecológicos.<br><br>
-				Las superficies tratadas con soluciones NANO4LIFE® se vuelven “cómo por arte de magia” facilmente limpiables, hidrofóbicas, impiden la adherencia de partículas, además cómo son muy resistentes a los rayos UV permitan aumentar la vida útil y conservar las características originales de los materiales sin alterar sus propiedades , apariencias o su capacidad de transpiración aunque estos sean porosos.</p>
+				<p>Desde nuestra fundación hace más de 100 años , ITW ha convertido en uno de los principales fabricantes diversificadas del mundo de equipos especializados industriales , consumibles , y las empresas de servicios relacionados.<br><br>
+				ITW empresas ofrecen servicios a clientes y mercados locales en todo el mundo , con una presencia significativa en los países desarrollados , así como los mercados emergentes . La compañía tiene operaciones en 57 países que emplean a más de 48.000 mujeres y hombres que se adhieren a los más altos estándares éticos . Estas personas con talento , muchos de los cuales se han especializado de ingeniería o de conocimientos científicos , contribuyen a nuestro liderazgo mundial en la innovación . Estamos orgullosos de nuestra amplia cartera de más de 16.000 patentes concedidas y pendientes.</p>
 			</div>
 			<div class="clear"></div>
 

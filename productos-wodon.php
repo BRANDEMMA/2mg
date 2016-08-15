@@ -52,11 +52,14 @@
 
 		<div class="descripcion-xado">
 			<div class="texto-xado-izq">
-				<img src="img/marco-nano4life.jpg">
+				<img src="img/logos/logo-wodon-big.jpg">
 			</div>
 			
 			<div class="texto-xado-der">
 				<p>Tianjin Wodon Wear Resistant Material Co., Ltd (CHINA WODON). located in the northern international shipping center TIANJlN, which specialized in research, development, production and sales wear-resistant material, and have many years experience in this field. Now the company owns over 100 employees, has anual  output 60,000 square meters of wear plate and 8,000 metric tons of welding consumables.</p>
+				
+				<a class="boton-azul-xado" href="pdf/catalogo-wodon.pdf" >Dossier</a>
+				<div class="clear"></div>
 			</div>
 			<div class="clear"></div>
 
@@ -70,39 +73,21 @@
 			<div class="contenedor-productos-xado">
 
 				<div class="producto-xado">
-					<img src="img/producto-nano4bathcare.jpg">
-					<h3><a href="nano4bathcare.php">NANO 4 BATHCARE</a></h3>
-					<p class="descripcion-producto-xado">Forma una barrera protectora 100% invisíble que impide la adherencia de suciedad y formación de manchas...</p>
+					<img src="img/planchas-bimetalicas-antidesgastes.jpg">
+					<h3><a href="planchas-bimetalicas.php">Planchas Bimetalicas antidesgastes</a></h3>
+					<p class="descripcion-producto-xado">Para usar en aplicaciones industriales...</p>
 					
 
-					<a class="mas-info-producto-xado" href="nano4bathcare.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="planchas-bimetalicas.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/producto-nano4carglass.jpg">
-					<h3><a href="nano4carglass.php">NANO 4 CARGLASS</a></h3>
-					<p class="descripcion-producto-xado">Protección 100% invisíble, que impide la adherencia de líquidos y suciedad al parabrisas y otros cristales...</p>
+					<img src="img/alambre-de-soldadura-para-placas-bimetalicas.jpg">
+					<h3><a href="alambre-de-soldadura.php">Alambre de Soldadura para Placas Bimetálicas</a></h3>
+					<p class="descripcion-producto-xado">Para revestir los rodillos de molinos verticales de cemento y otras aplicaciones....</p>
 					
 
-					<a class="mas-info-producto-xado" href="nano4carglass.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
-				</div>
-
-				<div class="producto-xado">
-					<img src="img/producto-nano4carprotect.jpg">
-					<h3><a href="nano4carprotect.php">NANO 4 CARPROTECT</a></h3>
-					<p class="descripcion-producto-xado">Protección 100% invisible para la carrocería de los vehículos.  Crea una barrera contra los rayos UV...</p>
-					
-
-					<a class="mas-info-producto-xado" href="nano4carprotect.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
-				</div>
-
-				<div class="producto-xado">
-					<img src="img/producto-nano4chromemetal.jpg">
-					<h3><a href="nano4chromemetal.php">NANO 4 CHROMEMETAL</a></h3>
-					<p class="descripcion-producto-xado">Forma una barrera protectora 100% invisible, que impide la aparición de manchas y suciedad en las superfícies...</p>
-					
-
-					<a class="mas-info-producto-xado" href="nano4chromemetal.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="alambre-de-soldadura.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 			</div>
