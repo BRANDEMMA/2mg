@@ -22,7 +22,37 @@
 
 	<!--================== 	ENLACE ICONO <br>(TERMINA)  =====================-->
 
+<<<<<<< HEAD
 	<!--================== 	ENLACE GOOGLE ANALYTICS <br>(INICIA)  =====================-->
+=======
+	<!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR UN DIV (INICIA)  =====================-->
+
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#leer-mas-xado').on('click', function(){
+				$('#texto-xado-oculto').slideDown('slow');
+				$('#leer-mas-xado').hide();
+				$('#leer-menos-xado').show();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#leer-menos-xado').on('click', function(){
+				$('#texto-xado-oculto').slideUp('slow');
+				$('#leer-menos-xado').hide();
+				$('#leer-mas-xado').show();
+			});
+		});
+	</script>
+
+<!--================== 	SCRIPT PARA LLAMAR A DIV OCULTO (TERMINA)  =====================-->
+
+	<!--================== 	ENLACE GOOGLE ANALYTICS (INICIA)  =====================-->
+>>>>>>> origin/master
 
 	<script>
 	  <br>(function<br>(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function<br>(){
@@ -56,9 +86,12 @@
 			Actualmente Xado es una moderna empresa química que cuenta con sistemas de producción altamente tecnológicos y equipos de avanzada.
 			Esto permite no solamente acrecentar los volúmenes de producción de sus propios productos, sino que también dedicarse a la fabricación de productos para terceros, a condiciones contractuales.  Cada partida de productos es sometida a riguroso control ya que la empresa trabaja bajo el sistema de control de calidad ISO 9001_2000.<br><br>
 
-			Forman parte del Consorcio el Centro de investigación científica “XADO-Laboratories” con laboratorios físico-químicos, químico-motológicos, tribológicos, balísticos, metodológicos y un centro de investigación científica excelentemente equipados y certificados.<br><br>
+			Forman parte del Consorcio el Centro de investigación científica “XADO-Laboratories” con laboratorios físico-químicos, químico-motológicos, tribológicos, balísticos, metodológicos y un centro de investigación científica excelentemente equipados y certificados.<br><br></p>
 
-			La subdivisión estructural del Consorcio es la compañía VERYLUBE, que produce medios para el cuidado y mantenimiento de automóviles, incluyéndose prestaciones en forma de aerosol. En su producción se utilizan productos de la compañía BASF, líder mundial en la industria química. VERYLUBE es una marca comercial de uso popular, produce productos químicos automovilísticos de altísima calidad a precios bastante asequibles.<br><br>
+			<a class="boton-azul-xado" id="leer-mas-xado">Leer Más</a>
+			<div class="clear"></div>
+
+			<p class="texto-todo-xado ocultar" id="texto-xado-oculto">La subdivisión estructural del Consorcio es la compañía VERYLUBE, que produce medios para el cuidado y mantenimiento de automóviles, incluyéndose prestaciones en forma de aerosol. En su producción se utilizan productos de la compañía BASF, líder mundial en la industria química. VERYLUBE es una marca comercial de uso popular, produce productos químicos automovilísticos de altísima calidad a precios bastante asequibles.<br><br>
 
 			La oficina central se encuentra en la ciudad de Kharkov, contando con representaciones generales en Ucrania, Rusia, Bielorrusia, Lituania, Holanda, EE.UU. Se ha creado además una red de representaciones y concesionarios que cubre ahora la mayoría de países del mundo.<br><br>
 
@@ -74,8 +107,9 @@
 
 			Pero, sin lugar a dudas, el mejor premio que podemos tener es el reconocimiento de los usuarios, quienes han hecho su elección en favor de los productos del Consorcio químico Xado.</p>
 
-			<!-- <a class="boton-azul-xado" href="">Leer Más</a> -->
+			<a class="boton-azul-xado ocultar" id="leer-menos-xado">Leer Menos</a>
 			<div class="clear"></div>
+
 		</div>
 		<div class="clear"></div>
 
@@ -89,6 +123,7 @@
 			<div class="contenedor-productos-xado espacio-inferior-xado">
 
 				<div class="producto-xado">
+<<<<<<< HEAD
 					<img src="img/productos-xado/xado_amc-maximum_250ml.jpg">
 					<h3><a href="xado-1stage-maximum.php">XADO® Atomic metal conditioner 1 Stage Maximum for Diesel Truck <br>(box, bottle 950 ml)</a></h3>
 					
@@ -99,8 +134,21 @@
 					<img src="img/productos-xado/xado_amc-maximum-for-diesel-truck_950ml.jpg">
 					<h3><a href="">XADO® Atomic metal conditioner 1 Stage Maximum <br>(box, bottle 225  ml)</a></h3>
 					
+=======
+					<img src="img/productos-xado/xado_amc-maximum-for-diesel-truck_950ml.jpg">
+					<h3><a href="xado-maximum-for-diesel-truck.php">XADO® Atomic metal conditioner 1 Stage Maximum  for Diesel Truck (box, bottle 950 ml)</a></h3>
+					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="xado-maximum-for-diesel-truck.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+				</div>
+
+				<div class="producto-xado">
+					<img src="img/productos-xado/xado_amc-maximum_250ml.jpg">
+					<h3><a href="xado-1stage-maximum.php">XADO® Atomic metal conditioner 1 Stage Maximum (box, bottle 225  ml)</a></h3>
+					<p class="descripcion-producto-xado">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+>>>>>>> origin/master
+
+					<a class="mas-info-producto-xado" href="xado-1stage-maximum.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
