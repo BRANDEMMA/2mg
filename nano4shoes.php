@@ -50,7 +50,7 @@
 		
 		<div class="descripcion-xado">
 			<div class="detalle-producto-xado-izq">
-				<img src="img/producto-nano4carprotect.jpg">
+				<img src="img/producto-nano4shoes.jpg">
 			</div>
 			
 			<div class="detalle-producto-xado-der">
