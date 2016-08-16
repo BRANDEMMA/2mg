@@ -69,17 +69,11 @@
 				<p>Descubra lo que pueden hacer los productos Nano4Life® en su día a día.	</p>
 			</div>
 
+			<div class="subtitulo-xado">
+				<h2>Automotriz</h2>
+			</div>
+
 			<div class="contenedor-productos-xado">
-
-				<div class="producto-xado">
-					<img src="img/producto-nano4bathcare.jpg">
-					<h3><a href="nano4bathcare.php">NANO 4 BATHCARE</a></h3>
-					<p class="descripcion-producto-xado">Forma una barrera protectora 100% invisíble que impide la adherencia de suciedad y formación de manchas...</p>
-					
-
-					<a class="mas-info-producto-xado" href="nano4bathcare.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
-				</div>
-
 				<div class="producto-xado">
 					<img src="img/producto-nano4carglass.jpg">
 					<h3><a href="nano4carglass.php">NANO 4 CARGLASS</a></h3>
@@ -99,6 +93,54 @@
 				</div>
 
 				<div class="producto-xado">
+					<img src="img/producto-nano4rims.jpg">
+					<h3><a href="nano4rims.php">NANO 4 RIMS</a></h3>
+					<p class="descripcion-producto-xado">Protección 100% invisible, que impide la adherencia de líquidos y suciedades a las llantas, confiriendo brillo...</p>
+					
+
+					<a class="mas-info-producto-xado" href="nano4rims.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+				</div>
+			</div>
+
+			<div class="subtitulo-xado">
+				<h2>Nautica</h2>
+			</div>
+
+			<div class="contenedor-productos-xado">
+				<div class="producto-xado">
+					<img src="img/producto-nano4yatch.jpg">
+					<h3><a href="nano4yatch.php">NANO 4 YATCH</a></h3>
+					<p class="descripcion-producto-xado">Protección 100% invisible de las superfícies exteriores de los barcos, facilitando la eliminación...</p>
+					
+
+					<a class="mas-info-producto-xado" href="nano4yatch.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+				</div>
+
+				<div class="producto-xado">
+					<img src="img/producto-nano4shipinox.jpg">
+					<h3><a href="nano4shipinox.php">NANO 4 SHIPINOX</a></h3>
+					<p class="descripcion-producto-xado">Protección 100% invisíble, que impide la adherencia de líquidos y suciedad a las superfícies metálicas...</p>
+					
+
+					<a class="mas-info-producto-xado" href="nano4shipinox.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+				</div>
+			</div>
+
+			<div class="subtitulo-xado">
+				<h2>Hogar</h2>
+			</div>
+
+			<div class="contenedor-productos-xado">
+				<div class="producto-xado">
+					<img src="img/producto-nano4bathcare.jpg">
+					<h3><a href="nano4bathcare.php">NANO 4 BATHCARE</a></h3>
+					<p class="descripcion-producto-xado">Forma una barrera protectora 100% invisíble que impide la adherencia de suciedad y formación de manchas...</p>
+					
+
+					<a class="mas-info-producto-xado" href="nano4bathcare.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+				</div>
+
+				<div class="producto-xado">
 					<img src="img/producto-nano4chromemetal.jpg">
 					<h3><a href="nano4chromemetal.php">NANO 4 CHROMEMETAL</a></h3>
 					<p class="descripcion-producto-xado">Forma una barrera protectora 100% invisible, que impide la aparición de manchas y suciedad en las superfícies...</p>
@@ -106,8 +148,6 @@
 
 					<a class="mas-info-producto-xado" href="nano4chromemetal.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
-
-				
 
 				<div class="producto-xado">
 					<img src="img/producto-nano4glassceramic.jpg">
@@ -145,40 +185,12 @@
 				</div>
 
 				<div class="producto-xado">
-					<img src="img/producto-nano4rims.jpg">
-					<h3><a href="nano4rims.php">NANO 4 RIMS</a></h3>
-					<p class="descripcion-producto-xado">Protección 100% invisible, que impide la adherencia de líquidos y suciedades a las llantas, confiriendo brillo...</p>
-					
-
-					<a class="mas-info-producto-xado" href="nano4rims.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
-				</div>
-
-				<div class="producto-xado">
-					<img src="img/producto-nano4shoes.jpg">
-					<h3><a href="nano4shoes.php">NANO 4 SHOES</a></h3>
-					<p class="descripcion-producto-xado">Protección 100% invisible, que hace al calzado ser repelente frente a cualquier tipo de suciedades...</p>
-					
-
-					<a class="mas-info-producto-xado" href="nano4shoes.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
-				</div>
-
-				<div class="producto-xado">
 					<img src="img/producto-nano4stone.jpg">
 					<h3><a href="nano4stone.php">NANO 4 STONE</a></h3>
 					<p class="descripcion-producto-xado">Protección 100% invisible que repele eficazmente líquidos, incluyendo aceites, evitando la formación de algas...</p>
 					
 
 					<a class="mas-info-producto-xado" href="nano4stone.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
-				</div>
-
-
-				<div class="producto-xado">
-					<img src="img/producto-nano4textile.jpg">
-					<h3><a href="nano4textile.php">NANO 4 TEXTILE</a></h3>
-					<p class="descripcion-producto-xado">Protección 100% invisible para tejidos, protegiéndolos y haciéndoles ser repelentes a líquidos...</p>
-					
-
-					<a class="mas-info-producto-xado" href="nano4textile.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
@@ -198,7 +210,30 @@
 
 					<a class="mas-info-producto-xado" href="nano4woodendeck.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
+			</div>
 
+			<div class="subtitulo-xado">
+				<h2>Prendas de Vestir</h2>
+			</div>
+
+			<div class="contenedor-productos-xado">
+				<div class="producto-xado">
+					<img src="img/producto-nano4shoes.jpg">
+					<h3><a href="nano4shoes.php">NANO 4 SHOES</a></h3>
+					<p class="descripcion-producto-xado">Protección 100% invisible, que hace al calzado ser repelente frente a cualquier tipo de suciedades...</p>
+					
+
+					<a class="mas-info-producto-xado" href="nano4shoes.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+				</div>
+
+				<div class="producto-xado">
+					<img src="img/producto-nano4textile.jpg">
+					<h3><a href="nano4textile.php">NANO 4 TEXTILE</a></h3>
+					<p class="descripcion-producto-xado">Protección 100% invisible para tejidos, protegiéndolos y haciéndoles ser repelentes a líquidos...</p>
+					
+
+					<a class="mas-info-producto-xado" href="nano4textile.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+				</div>
 			</div>
 
 		</div>
