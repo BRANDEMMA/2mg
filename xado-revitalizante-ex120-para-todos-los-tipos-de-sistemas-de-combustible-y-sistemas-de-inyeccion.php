@@ -84,6 +84,11 @@
 				<li><span>Reduce la cantidad de componentes tóxicos en los gases de escape</span></li>
 			</ul>
 
+			<h3>Documentación</h3>
+			<ul>
+				<li><span><a href="pdf/ex120-revitalizant-for-fuel-equipment.pdf" target="_blank">Ficha de seguridad</a></span></li>
+			</ul>
+
 			<div class="solicitud-nota-xado">
 				<div class="solicitud">
 					<h4>Aplicación</h4>

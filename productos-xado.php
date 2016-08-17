@@ -213,18 +213,18 @@
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/antirain-aerosol-can-320ml.jpg">
-					<h3><a href="">Antirain <br>(aerosol can 320 ml)</a><br><br></h3>
+					<h3><a href="pdf/antirain.pdf" target="_blank">Antirain <br>(aerosol can 320 ml)</a><br><br></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="pdf/antirain.pdf" target="_blank"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/antifog-aerosol-can-320ml.jpg">
-					<h3><a href="">Antifog <br>(aerosol can 320 ml)</a><br><br></h3>
+					<h3><a href="pdf/antifog.pdf" target="_blank">Antifog <br>(aerosol can 320 ml)</a><br><br></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="pdf/antifog.pdf" target="_blank"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
@@ -237,42 +237,42 @@
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/atomex-energy-drive-power-amplifier-for-gasoline-engine-aluminum-bottle-250ml.jpg">
-					<h3><a href="">Atomex Energy Drive. Power amplifier for gasoline engine <br>(aluminum bottle 250 ml)</a></h3>
+					<h3><a href="pdf/atomex-energy-drive-gasoline.pdf" target="_blank">Atomex Energy Drive. Power amplifier for gasoline engine <br>(aluminum bottle 250 ml)</a></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="pdf/atomex-energy-drive-gasoline.pdf" target="_blank"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/atomex-energy-drive-power-amplifier-for-diesel-engine-aluminum-bottle-250ml.jpg">
-					<h3><a href="">Atomex Energy Drive. Power amplifier for diesel engine <br>(aluminum bottle 250 ml)</a></h3>
+					<h3><a href="pdf/atomex-energy-drive-diesel.pdf" target="_blank">Atomex Energy Drive. Power amplifier for diesel engine <br>(aluminum bottle 250 ml)</a></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="pdf/atomex-energy-drive-diesel.pdf" target="_blank"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/xado-protective-grease-tube-125ml.jpg">
-					<h3><a href="">ХАDО® protective grease <br>(tube 125 ml)</a><br><br></h3>
+					<h3><a href="pdf/greases-repairing-restoring-protective.pdf" target="_blank">ХАDО® protective grease <br>(tube 125 ml)</a><br><br></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="pdf/greases-repairing-restoring-protective.pdf" target="_blank"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/xado-restoring-grease-tube-125ml.jpg">
-					<h3><a href="">ХАDО® restoring grease <br>(tube 125 ml)</a><br><br></h3>
+					<h3><a href="pdf/greases-repairing-restoring-protective.pdf" target="_blank">ХАDО® restoring grease <br>(tube 125 ml)</a><br><br></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="pdf/greases-repairing-restoring-protective.pdf" target="_blank"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/xado-repairing-grease-tube-125ml.jpg">
-					<h3><a href=""> ХАDО® repairing grease <br>(tube 125 ml)</a><br><br></h3>
+					<h3><a href="pdf/greases-repairing-restoring-protective.pdf" target="_blank"> ХАDО® repairing grease <br>(tube 125 ml)</a><br><br></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="pdf/greases-repairing-restoring-protective.pdf" target="_blank"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
@@ -285,34 +285,34 @@
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/xado-gel-revitalizant-snipex-for-shooting-sports-equipment-blister-package-tube-27ml.jpg">
-					<h3><a href=""> ХАDО® gel-REVITALIZANT SnipeX, for shooting sports equipment <br>(blister package, tube 27  ml)</a><br><br></h3>
+					<h3><a href="pdf/revitalizant-snipex.pdf" target="_blank"> ХАDО® gel-REVITALIZANT SnipeX, for shooting sports equipment <br>(blister package, tube 27  ml)</a><br><br></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="pdf/revitalizant-snipex.pdf" target="_blank"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/atomex-totalflush-oil-system-cleaner-aluminum-bottle-250ml.jpg">
-					<h3><a href="">Atomex TotalFlush. Oil system cleaner <br>(aluminum bottle 250 ml)</a><br><br></h3>
+					<h3><a href="pdf/atomex-total-flush.pdf" target="_blank">Atomex TotalFlush. Oil system cleaner <br>(aluminum bottle 250 ml)</a><br><br></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="pdf/atomex-total-flush.pdf" target="_blank"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/atomex-multi-cleaner-high-performance-fuel-system-cleaner-for-gasoline-and-lpg-engine-aluminum-bottle-250ml.jpg">
-					<h3><a href="">Atomex Multi Cleaner. High performance fuel system cleaner for gasoline and LPG engine <br>(aluminum bottle 250 ml)</a></h3>
+					<h3><a href="pdf/atomex-multi-cleaner-gasoline.pdf" target="_blank">Atomex Multi Cleaner. High performance fuel system cleaner for gasoline and LPG engine <br>(aluminum bottle 250 ml)</a></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="pdf/atomex-multi-cleaner-gasoline.pdf" target="_blank"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-xado/atomex-multi-cleaner-high-performance-fuel-system-cleaner-for-diesel-engine-aluminum-bottle-250ml.jpg">
-					<h3><a href="">Atomex Multi Cleaner. High performance fuel system cleaner for diesel engine <br>(aluminum bottle 250 ml)</a></h3>
+					<h3><a href="pdf/atomex-multi-cleaner-diesel.pdf" target="_blank">Atomex Multi Cleaner. High performance fuel system cleaner for diesel engine <br>(aluminum bottle 250 ml)</a></h3>
 					
 
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<a class="mas-info-producto-xado" href="pdf/atomex-multi-cleaner-diesel.pdf" target="_blank"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">

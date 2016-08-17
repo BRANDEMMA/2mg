@@ -78,8 +78,9 @@
 		<ul class="re">
 			<li><a href="nosotros.php">Nosotros</a></li>
 			<li><a href="representaciones-comerciales.php">Representaciones Comerciales</a></li>
-			<li><a href="soluciones-eficiencia-energetica.php">Soluciones de Eficiencia Energética</a></li>
 			<li><a href="productos.php">Procurement en Ingeniería</a></li>
+			<li><a href="">Servicios</a></li>
+			<li><a href="nuestros-clientes.php">Clientes</a></li>
 			<li><a href="index.php#contacto">Contacto</a></li>
 		</ul>
 	</nav>

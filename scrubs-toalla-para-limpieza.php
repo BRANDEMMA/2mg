@@ -6,7 +6,7 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>2MG - XADO 1 STAGE</title>
+	<title>2MG - SCRUBS TOALLA PARA LIMPEZA</title>
 	<meta name="author" content="Brandemma" />
 	<meta name="description" content="2MG es una empresa peruana que se dedica a la importación y exportación de productos, servicios y soluciones en Procurement de Ingeniería."/>
 
@@ -50,64 +50,45 @@
 		
 		<div class="descripcion-xado">
 			<div class="detalle-producto-xado-izq">
-				<img src="img/productos-xado/xado_1stage_27ml.jpg">
+				<img src="img/productos-itw/scrubs-toalha-para-limpieza.jpg">
 			</div>
 			
 			<div class="detalle-producto-xado-der">
 				<div class="titulo-producto-xado">
-					<h1>XADO 1 Stage</h1>
+					<h1>SCRUBS TOALLA PARA LIMPEZA</h1>
 				</div>
 
 				<div class="fondo-azul-xado">
-					<p>Está previsto para la reparación reconstructiva de los motorores de automóviles sin necesidad de desarmarlos, y para la protección garantizada contra el desgaste para 100 000 km de recorrido.<br><br>
-
-					XADO 1 Stage — el más eficiente producto en la línea de renovadores. Se destaca por la alta rapidez de acción (la renovación se lleva a cabo antes de los 1000 кm de recorrido), universalidad de la aplicación (para los motores de gasolina y los motores Diesel) y por el tratamiento en una sola etapa.<br><br>
-
-					Para el automóvil que tiene un recorrido determinado.<br><br>
-
-					Permite renovar y mantener la compresión, la potencia y la economicidad a nivel superior.<br><br>
-
-					Para un automóvil nuevo.<br><br>
-
-					Permite ajustar idealmente los elementos uno a otro y asegurar el recurso máximo.<br><br>
-
-					Embalaje: Blister 27 ml - Tubo 27 ml.</p>
+					<p>Las toallas para limpiar las manos Scrubs albergan un eficiente sistema patentado de limpieza para las manos y piezas. El producto remueve sin necesidad de agua incluso suciedad considerable , en forma rápida y minuciosa y sin dañar la superficie, adecuado por ejemplo para grasa, aceite, adhesivos, alquitrán, cera, hollín, pintura, tinta, impermeabilizante, poliuretano (PU), etc.<br><br>
+					Suministradas protegidas contra secado en un cubo, las toallas para limpiar las manos son ideales para llevar en viajes. Después de limpiarse las manos, las toallas poseen todavía suficiente poder de limpieza para remover eficazmente la suciedad de herramientas y equipos. La cara rugosa es para superficies con suciedad considerable. La cara blanda para la limpieza suave de las manos. Antibacterial e hidratante. Biodegradable. Producto licenciado bajo los números de patente EE.UU.: 5.683.971; 4.853.281; 4.833.003; 4.775.582 </p>
 				</div>
 
-				<h2>Tecnología y certificados</h2>
+				<!-- <h2>Tecnología y certificados</h2>
 				<div class="certificados-xado">
 					<img src="img/certificado-3c.jpg">
 					<img src="img/certificado-3rd.jpg">
 					<img src="img/certificado-62000.jpg">
-				</div>
+				</div> -->
 			</div>
 			<div class="clear"></div>
 
-
-			<h3>Ventajas</h3>
+			
+			<h3>Características</h3>
 			<ul>
-				<li><span>Restablece las superficies de fricción, protege y refuerza las partes del motor.</span></li>
-				<li><span>Aumenta y alinea la compresión en los cilindros.</span></li>
-				<li><span>Aumenta la potencia y la capacidad de aceleracion del motor.</span></li>
-				<li><span>Reduce el consumo de combustible.</span></li>
-				<li><span>Aumenta la presión en el sistema de aceite del motor hasta la nominal.</span></li>
-				<li><span>Aumenta el plazo de servicio de las partes mecánicas en 2 – 4 veces.</span></li>
-				<li><span>Protege contra las consecuencias negativas de la puesta en marcha en estado frío.</span></li>
-				<li><span>Reduce el nivel de los ruidos y la vibración.</span></li>
+				<li><span>Suave para la piel y de olor agradable.</span></li>
+				<li><span>Limpieza rápida de las manos sin agua.</span></li>
+				<li><span>Utilizable en todas partes, ideal para llevar en viajes.</span></li>
+				<li><span>Dermatológicamente probado.</span></li>
+				<li><span>72 toallas.</span></li>
 			</ul>
 
-			<h3>Documentación</h3>
-			<ul>
-				<li><span><a href="pdf/revitalizant-1stage-27ml-and-magnum-90ml.pdf" target="_blank">Ficha de seguridad</a></span></li>
-			</ul>
-
-			<div class="solicitud-nota-xado">
+			<!-- <div class="solicitud-nota-xado">
 				<div class="solicitud">
-					<h4>Aplicación</h4>
+					<h4>Nota</h4>
 					<p>
-						1. Vaciar el contenido en el mismo acceso del aceite a temperatura de trabajo del automóvil.<br><br>
-
-						2. Arrancar el motor y asegurar su funcionamiento sin marcha durante unos 3­5 minutos.
+						Este es un sistema autónomo: El Easyline Edge aplicador está diseñado específicamente para su uso con EASYLINE® Edge aerosol marcado de líneas de pintura - otras latas de aerosol no son compatibles.<br><br>
+						La boquilla amarilla debe ser utilizado para marcar las líneas con EASYLINE ® Edge Aplicador - un concepto exclusivo de la interconexión.<br><br>
+						El pico tiene que ser utilizado para el uso de plantillas / mano marcado en aplicador de mano.
 					</p>
 				</div>
 
@@ -121,11 +102,11 @@
 
 					Para los motores excesivamente desgastados puede ser necesario el tratamiento repetido.</p>
 				</div>
-			</div>
+			</div> -->
 
-			<div class="boton-solicitar-xado">
+			<!-- <div class="boton-solicitar-xado">
 				<a href="">Solicitalo &nbsp;<i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-			</div>
+			</div> -->
 
 		</div>
 

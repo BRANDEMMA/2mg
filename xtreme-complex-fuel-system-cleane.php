@@ -83,6 +83,11 @@
 				<li><span>Reduce el contenido de componentes nocivos en los gases de escape.</span></li>
 			</ul>
 
+			<h3>Documentación</h3>
+			<ul>
+				<li><span><a href="pdf/xtreme-cleaner-complex-cleaner-diesel.pdf" target="_blank">Ficha de seguridad</a></span></li>
+			</ul>
+
 			<div class="solicitud-nota-xado">
 				<div class="solicitud">
 					<h4>Aplicación</h4>

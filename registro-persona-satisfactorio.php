@@ -62,23 +62,25 @@
 						Gracias por participar en nuestro sorteo. Este es tu código:
 					</p>
 
-					<?php 
-						include 'php/conexion-db.php';
-						$rs = mysql_query("SELECT MAX(id) AS id FROM participantes");
-						if ($row = mysql_fetch_row($rs)) {
-						$id = trim($row[0]);
-						}
-					?>
-
 					<div class="registro-ok-izq">
 						<img src="img/logo-2mg-blanco.png">
+						<?php
+						$checkdni=$dni;
+						$registro = mysql_query("SELECT * FROM participantes WHERE dni='$checkdni'");
 
-						<p>2MG-XADO-<?php echo $id?></p>
+						while($reg=mysql_fetch_array($registro))
+						{
+						?>
+						<p>2MG-XADO-<?php echo $reg['id'];?></p>
+						<?php
+					}
+						?>
 					</div>
 					<!-- <div class="registro-ok-der">
 						<img src="img/codigo-sorteo.jpg">
 					</div>
 					<div class="clear"></div> -->
+
 				</div>
 			</div>
 			

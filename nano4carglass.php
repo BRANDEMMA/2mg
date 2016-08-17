@@ -70,7 +70,7 @@
 			<div class="clear"></div>
 <h3>Lugares de aplicación: </h3>
 			<ul>
-				<li><span>Cristales de todo tipo de vehículos.</span></li>
+				<li><span>Todos los tipos de parabrisas de vehículos.</span></li>
 				
 			</ul>
 
@@ -81,9 +81,10 @@
 			</ul>
 			<h3>Envases: </h3>
 			<ul>
+				<li><span>16 ml</span></li>
 				<li><span>100 ml</span></li>
 				<li><span>200 ml</span></li>
-				<li><span>300 ml</span></li>
+				<li><span>500 ml</span></li>
 				<li><span>1000 ml</span></li>
 				
 			</ul>

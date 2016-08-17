@@ -72,101 +72,69 @@
 
 				<div class="producto-xado">
 					<img src="img/productos-itw/easyline-edge-white.jpg">
-					<h3><a href="">EASYLINE EDGE WHITE</a></h3>
-					<p class="descripcion-producto-xado">Forma una barrera protectora 100% invisíble que impide la adherencia de suciedad y formación de manchas...</p>
-					
-
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<h3><a href="easyline-edge-aerosol-de-pintura.php">EASYLINE® Edge aerosol de pintura</a></h3>
+					<a class="mas-info-producto-xado" href="easyline-edge-aerosol-de-pintura.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-itw/easyline-edge-yellow.jpg">
-					<h3><a href="">EASYLINE EDGE YELLOW</a></h3>
-					<p class="descripcion-producto-xado">Protección 100% invisíble, que impide la adherencia de líquidos y suciedad al parabrisas y otros cristales...</p>
-					
-
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<h3><a href="easyline-amarilla-edge-aerosol-de-pintura.php">EASYLINE® Edge aerosol de pintura</a></h3>
+					<a class="mas-info-producto-xado" href="easyline-amarilla-edge-aerosol-de-pintura.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-itw/easyline-safe-step.jpg">
-					<h3><a href="">EASYLINE EDGE SAFE STEP</a></h3>
-					<p class="descripcion-producto-xado">Protección 100% invisible para la carrocería de los vehículos.  Crea una barrera contra los rayos UV...</p>
-					
-
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<h3><a href="safe-step.php">EASYLINE EDGE SAFE STEP</a><br><br></h3>
+					<a class="mas-info-producto-xado" href="safe-step.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>				
 
 				<div class="producto-xado">
 					<img src="img/productos-itw/lps-2.jpg">
-					<h3><a href="">LPS 2</a></h3>
-					<p class="descripcion-producto-xado">Protección 100% invisible, que impide la adherencia de líquidos y suciedades a las superfícies vidriadas...</p>
-					
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<h3><a href="lps2-heavy-duty-lubricant.php">LPS 2 Heavy-Duty Lubricant</a><br><br></h3>
+					<a class="mas-info-producto-xado" href="lps2-heavy-duty-lubricant.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-itw/lps-3.jpg">
-					<h3><a href="">LPS 3</a><br><br></h3>
-					<p class="descripcion-producto-xado">Protección 100% invisible, que impide la adherencia de líquidos y suciedades a las superfícies plásticas...</p>
-					
-
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<h3><a href="lps3-premier-rust-inhibitor.php">LPS 3 Premier Rust Inhibitor</a><br><br></h3>
+					<a class="mas-info-producto-xado" href="lps3-premier-rust-inhibitor.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-itw/lps-cold-galvanize.jpg">
-					<h3><a href="">LPS COLD GALVANIZE</a><br><br></h3>
-					<p class="descripcion-producto-xado">Garantiza una limpieza eficaz en superfícies no porosas. Debe ser aplicado después de lavar la superfície...</p>
-					
-
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<h3><a href="cold-galvanizecorrosion-inhibitor.php">Cold GalvanizeCorrosion Inhibitor</a></h3>
+					<a class="mas-info-producto-xado" href="cold-galvanizecorrosion-inhibitor.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-itw/lubricante-sin-grasa-contenedor-de-11oz-peso-neto-de11oz.jpg">
-					<h3><a href="">Lubricante Sin Grasa de 11 OZ</a><br><br></h3>
-					<p class="descripcion-producto-xado">Protección 100% invisible para los tejidos más gruesos. Protege los tejidos y evita la decoloración...</p>
-					
-
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<h3><a href="lps1-lubricante-sin-grasa-11oz.php">LPS 1 Lubricante Sin Grasa de 11 OZ</a></h3>
+					<a class="mas-info-producto-xado" href="lps1-lubricante-sin-grasa-11oz.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-itw/lubricante-sin-grasa-tamaño-del-contenedor-5gal-peso-neto-33,36lb.jpg">
-					<h3><a href="">Lubricante Sin Grasa de 5 Galones</a></h3>
-					<p class="descripcion-producto-xado">Protección 100% invisible, que impide la adherencia de líquidos y suciedades a las llantas, confiriendo brillo...</p>
-					
-
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<h3><a href="lps1-lubricante-sin-grasa-5galones.php">LPS 1 Lubricante Sin Grasa de 5 Galones</a></h3>
+					<a class="mas-info-producto-xado" href="lps1-lubricante-sin-grasa-5galones.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-itw/rocol-easyline-edge-applicator-with-2free-cans-of-paint.jpg">
-					<h3><a href="">Rocol Edge Applicator</a></h3>
-					<p class="descripcion-producto-xado">Protección 100% invisible, que hace al calzado ser repelente frente a cualquier tipo de suciedades...</p>
-					
-
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<h3><a href="aplicador-easyline.php">Aplicador EASYLINE</a></h3>
+					<a class="mas-info-producto-xado" href="aplicador-easyline.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 				<div class="producto-xado">
 					<img src="img/productos-itw/rocol-leak-detector-spray.jpg">
-					<h3><a href="">Rocol Leak Detector Spray</a></h3>
-					<p class="descripcion-producto-xado">Protección 100% invisible que repele eficazmente líquidos, incluyendo aceites, evitando la formación de algas...</p>
-					
-
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<h3><a href="rocol-leak-detector-spray.php">Rocol Leak Detector Spray</a></h3>
+					<a class="mas-info-producto-xado" href="rocol-leak-detector-spray.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 
 				<div class="producto-xado">
 					<img src="img/productos-itw/scrubs-toalha-para-limpieza.jpg">
-					<h3><a href="">Scrubs Toalha</a></h3>
-					<p class="descripcion-producto-xado">Protección 100% invisible para tejidos, protegiéndolos y haciéndoles ser repelentes a líquidos...</p>
-					
-
-					<a class="mas-info-producto-xado" href=""><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
+					<h3><a href="scrubs-toalla-para-limpieza.php">SCRUBS TOALLA PARA LIMPEZA</a></h3>
+					<a class="mas-info-producto-xado" href="scrubs-toalla-para-limpieza.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
 
 			</div>

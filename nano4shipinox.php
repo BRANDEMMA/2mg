@@ -73,7 +73,7 @@
 
 			<h3>Lugares de aplicación: </h3>
 			<ul>
-				<li><span>Superfícies metálicas expuestas a condiciones climáticas severas.</span></li>
+				<li><span>Todas las superficies de acero inoxidable.</span></li>
 				
 			</ul>
 
@@ -88,10 +88,10 @@
 				<li><span>200 ml</span></li>
 				<li><span>500 ml</span></li>
 				<li><span>1000 ml</span></li>
-				<li><span>4 l</span></li>
+				<!-- <li><span>4 l</span></li>
 				<li><span>20 l</span></li>
 				<li><span>200 l</span></li>
-				<li><span>1000 l</span></li>				
+				<li><span>1000 l</span></li> -->				
 			</ul>
 
 		

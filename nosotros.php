@@ -48,19 +48,19 @@
 	
 	<div class="contenido linea-energetica">
 		<div class="izquierda-nosotros2">
-			<img src="img/construccion-altamira.jpg">
+			<img src="img/banner-nosotros-2mg.jpg">
 		</div>
 		<div class="derecha-nosotros2">
 			<div class="derecha-nosotros-centrado">
 				<h1>2MG - ESPECIALISTAS EN PROCUREMENT DE INGENIERÍA Y EXPORTACIÓN E IMPORTACIÓN DE PRODUCTOS.</h1>
 				<p class="texto-gris espaciado">Somos una empresa peruana cuyos socios fundadores son brasileños inmigrantes en Perú hace más de 10 años y nos dedicamos a actividades de importación y exportación de productos, servicios y soluciones en Procurement de Ingeniería.<br><br>
-				Iniciamos nuestras operaciones en el ano 2015 y nuestra misión ‘es ser una empresa de importación y exportación de productos, servicios y tecnologías de alta gama para el mercado Peruano y Sudamérica.<br><br>
+				Iniciamos nuestras operaciones en el año 2015 y nuestra misión es ser una empresa de importación y exportación de productos, servicios y tecnologías de alta gama para el mercado Peruano y Sudamérica.<br><br>
 				A través de nuestra joint venture con la empresa americana HF Business Corporation, empresa con sede en Pembroke Pines, Florida, brindamos a nuestros clientes la facilidad de ejecución de operaciones de importación desde Estados Unidos con mayor agilidad, garantizando los plazos al cliente.<br><br>
 				Somos una empresa joven, dinámica y que detiene conocimiento técnico necesario para brindar atención en el mercado Peruano y Sudamérica, ofreciendo soluciones y sinergia en logística de manera completa y satisfactoria para nuestros clientes.</p>
 
 				<div class="mision">
 					<h3>Misión</h3>
-					<p class="texto-gris espaciado">Promocionar negocios con empresas nacionales y extranjeras exportadoras y importadores de productos, equipamientos y nuevas tecnologías, relacionadas a las áreas de Construcción/Infraestructura y Industrial, cuya calidad sea superior a los existentes localmente, que propicien mejorías en los procesos productivos de la economía Peruana, tornando-a competitiva a nivel mundial.</p>
+					<p class="texto-gris espaciado">Promocionar negocios con empresas nacionales y extranjeras exportadoras y importadores de productos, equipamientos y nuevas tecnologías, relacionadas a las áreas de Construcción/Infraestructura e Industrial, cuya calidad sea superior a los existentes localmente, que propicien mejorías en los procesos productivos de la economía Peruana, tornando-a competitiva a nivel mundial.</p>
 				</div>
 				
 				<div class="vision">
@@ -87,7 +87,7 @@
 				</div>
 
 				<h2 id="asociados">Asociados</h2>
-				<p>Somos una empresa peruana cuyos socios fundadores son brasileños inmigrantes en Perú hace mas de 10 años y <strong>nos dedicamos a actividades de importación y exportación de productos, servicios y soluciones en Procurement de Ingenieria.</strong></p>
+				<p>Somos una empresa peruana cuyos socios fundadores son brasileños inmigrantes en Perú hace más de 10 años y <strong>nos dedicamos a actividades de importación y exportación de productos, servicios y soluciones en Procurement de Ingeniería.</strong></p>
 				<div class="contenedor-asociados">
 					<div class="socios">
 						<div class="izquierda-socios">
@@ -122,7 +122,7 @@
 						<div class="derecha-socios">
 							<h3>Jayme Girio de Almeida</h3>
 							<h4>Ingeniero Mecánico</h4>
-							<p>Especialista en gestión logística de proyectos, coordinanciones de empresas comerciales... </p>
+							<p>Especialista en gestión logística de proyectos, coordinaciones de empresas comerciales... </p>
 							<a class="ver-socio" href="jayme-girio-de-almeida.php">VER MÁS +</a>
 						</div>
 						<div class="clear"></div>

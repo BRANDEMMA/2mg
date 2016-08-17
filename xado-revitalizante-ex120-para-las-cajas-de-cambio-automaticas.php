@@ -84,6 +84,11 @@
 				<li><span>Protege las piezas contra el desgaste en casos de bajo nivel de aceite</span></li>
 			</ul>
 
+			<h3>Documentación</h3>
+			<ul>
+				<li><span><a href="pdf/ex120-revitalizant-for-automatic-transmission.pdf" target="_blank">Ficha de seguridad</a></span></li>
+			</ul>
+
 			<div class="solicitud-nota-xado">
 				<div class="solicitud">
 					<h4>Aplicación</h4>

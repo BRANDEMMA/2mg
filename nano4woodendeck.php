@@ -87,7 +87,7 @@
 			<ul>
 				<li><span>100 ml</span></li>
 				<li><span>200 ml</span></li>
-				<li><span>300 ml</span></li>
+				<li><span>500 ml</span></li>
 				<li><span>1000 ml</span></li>
 				
 			</ul>

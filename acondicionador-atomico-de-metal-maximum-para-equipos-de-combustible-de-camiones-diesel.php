@@ -84,6 +84,11 @@
 				<li><span>Mejora las propiedades lubricantes del combustible, asegura un nivel adicional de la protección contra el desgaste.</span></li>
 			</ul>
 
+			<h3>Documentación</h3>
+			<ul>
+				<li><span><a href="pdf/amc-maximum-for-diesel-truck-fuel-equipment.pdf" target="_blank">Ficha de seguridad</a></span></li>
+			</ul>
+
 			<div class="solicitud-nota-xado">
 				<div class="solicitud">
 					<h4>Aplicación</h4>

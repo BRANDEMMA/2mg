@@ -56,9 +56,9 @@
 			</div>
 			
 			<div class="texto-xado-der">
-				<p>NANO4LIFE® PERÚ es la marca lider mundial en revestimientos de Nanotecnología que fueron específicamente desarrollados para sustituir a los convencionales para diferentes aplicaciones.<br><br>
+				<p>NANO4LIFE® PERÚ es la marca líder mundial en revestimientos de Nanotecnología que fueron específicamente desarrollados para sustituir a los convencionales para diferentes aplicaciones.<br><br>
 				Los revestimientos NANO4LIFE® tienen como base SiO2 (Cuarzo puro de dióxido de silicio) nuestros productos están hechos a partir del proceso de fabricación sol-gel de forma que obtenemos y garantizamos revestimientos altamente duraderos, seguros y reconocidos por su rapidez y facilidad de aplicación además son totalmente ecológicos.<br><br>
-				Las superficies tratadas con soluciones NANO4LIFE® se vuelven “cómo por arte de magia” facilmente limpiables, hidrofóbicas, impiden la adherencia de partículas, además cómo son muy resistentes a los rayos UV permitan aumentar la vida útil y conservar las características originales de los materiales sin alterar sus propiedades , apariencias o su capacidad de transpiración aunque estos sean porosos.</p>
+				Las superficies tratadas con soluciones NANO4LIFE® se vuelven “como por arte de magia” fácilmente limpiables, hidrofóbicas, impiden la adherencia de partículas, además cómo son muy resistentes a los rayos UV permitan aumentar la vida útil y conservar las características originales de los materiales sin alterar sus propiedades, apariencias o su capacidad de transpiración aunque estos sean porosos.</p>
 			</div>
 			<div class="clear"></div>
 
@@ -212,7 +212,7 @@
 				</div>
 			</div>
 
-			<div class="subtitulo-xado">
+			<!-- <div class="subtitulo-xado">
 				<h2>Prendas de Vestir</h2>
 			</div>
 
@@ -234,7 +234,7 @@
 
 					<a class="mas-info-producto-xado" href="nano4textile.php"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;MÁS INFO</a>
 				</div>
-			</div>
+			</div> -->
 
 		</div>
 

@@ -59,7 +59,7 @@
 					
 					<div class="contenido-form-sorteo">
 
-						<form class="form-main formulario-sorteo" name="ajax-form" id="ajax-form" method="POST" action="php/registrar-persona.php">
+						<form class="form-main formulario-sorteo" name="ajax-form" id="ajax-form" method="POST" action="registrar-persona.php">
 
 							<div class="campos-formulario">
 								<label>Nombre:</label><br>

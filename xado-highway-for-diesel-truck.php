@@ -89,6 +89,11 @@
 				<li><span>El producto tiene la acción compleja. Gracias al nanocomponente REVITALIZANT® se completa la modificación de las superficies en fricción del motor directamente durante su funcionamiento (formación de una cubierta metalocerámica protectora). El acondicionador de metal fortalece la película lubricante del aceite y reduce las pérdidas por fricción.</span></li>
 			</ul>
 
+			<h3>Documentación</h3>
+			<ul>
+				<li><span><a href="pdf/amc-maximum-highway-for-diesel-truck.pdf" target="_blank">Ficha de seguridad</a></span></li>
+			</ul>
+
 			<div class="solicitud-nota-xado">
 				<div class="solicitud">
 					<h4>Aplicación</h4>

@@ -90,6 +90,11 @@
 				<li><span>Extensión de la vida útil de 2-3 veces.</span></li>
 			</ul>
 
+			<h3>Documentación</h3>
+			<ul>
+				<li><span><a href="pdf/revitalizant-1stage-27ml-and-magnum-90ml.pdf" target="_blank">Ficha de seguridad</a></span></li>
+			</ul>
+
 			<div class="solicitud-nota-xado">
 				<div class="solicitud">
 					<h4>Aplicación</h4>

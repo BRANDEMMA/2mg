@@ -90,6 +90,11 @@
 				<li><span>En caso de quedarse sin aceite, admite el funcionamiento del motor hasta por 300km.</span></li>
 			</ul>
 
+			<h3>Documentación</h3>
+			<ul>
+				<li><span><a href="pdf/injector-cleaner-for-gasoline-engine.pdf" target="_blank">Ficha de seguridad</a></span></li>
+			</ul>
+
 			<div class="solicitud-nota-xado">
 				<div class="solicitud">
 					<h4>Aplicación</h4>

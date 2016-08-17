@@ -85,6 +85,11 @@
 				<li><span>Permite el funcionamiento de los puntos de unión de la transmisión en casos de pérdida de aceite, hasta 1000 km</span></li>
 			</ul>
 
+			<h3>Documentación</h3>
+			<ul>
+				<li><span><a href="pdf/ex120-revitalizant-for-manual-gear-boxes.pdf" target="_blank">Ficha de seguridad</a></span></li>
+			</ul>
+
 			<div class="solicitud-nota-xado">
 				<div class="solicitud">
 					<h4>Aplicación</h4>

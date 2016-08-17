@@ -73,7 +73,7 @@
 
 			<h3>Lugares de aplicación: </h3>
 			<ul>
-				<li><span>Llantas de vehículos.</span></li>
+				<li><span>Todos los tipos de aro.</span></li>
 				
 			</ul>
 
@@ -86,7 +86,7 @@
 			<ul>
 				<li><span>100 ml</span></li>
 				<li><span>200 ml</span></li>
-				<li><span>300 ml</span></li>
+				<li><span>500 ml</span></li>
 				<li><span>1000 ml</span></li>
 				
 			</ul>

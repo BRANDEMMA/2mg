@@ -84,10 +84,10 @@
 			</ul>
 			<h3>Envases: </h3>
 			<ul>
-				<li><span>100 ml</span></li>
-				<li><span>200 ml</span></li>
-				<li><span>300 ml</span></li>
-				<li><span>1000 ml</span></li>
+				<li><span>1 l</span></li>
+				<li><span>5 l</span></li>
+				<li><span>10 l</span></li>
+				<li><span>20 l</span></li>
 				
 			</ul>
 

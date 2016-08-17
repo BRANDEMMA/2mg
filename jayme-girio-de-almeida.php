@@ -43,7 +43,7 @@
 				Es ingeniero mecánico egresado de la Universidad de Mogi das Cruzes - UMC en São Paulo – Brasil  1985)​<br><br>
 				En el ámbito profesional, se ha desempeñado como Gerente General de empresa de residuos públicos y relleno sanitario, Gerente  mantenimiento en obras de infraestructuras, experto en construcciones de túneles y Gerente de Logísticas y Equipos.​</p>
 				<h4>Idiomas:</h4>
-				<p>Portugués, Español e Inglés.</p>
+				<p>Portugués, español e inglés.</p>
 <br><br>
 				
 			</div>

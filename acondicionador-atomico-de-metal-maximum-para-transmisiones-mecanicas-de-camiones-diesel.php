@@ -85,6 +85,11 @@
 				<li><span>Permite la operación de la unidad en caso de una pérdida grave de aceite (hasta 1000 km).</span></li>
 			</ul>
 
+			<h3>Documentación</h3>
+			<ul>
+				<li><span><a href="pdf/amc-maximum-transmission-for-diesel-truck.pdf" target="_blank">Ficha de seguridad</a></span></li>
+			</ul>
+
 			<div class="solicitud-nota-xado">
 				<div class="solicitud">
 					<h4>Aplicación</h4>

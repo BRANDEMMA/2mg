@@ -85,6 +85,11 @@
 				<li><span>Garantiza la protección sin desgaste del motor por 100 000 km del recorrido.</span></li>
 			</ul>
 
+			<h3>Documentación</h3>
+			<ul>
+				<li><span><a href="pdf/amc-maximum.pdf" target="_blank">Ficha de seguridad</a></span></li>
+			</ul>
+
 			<div class="solicitud-nota-xado">
 				<div class="solicitud">
 					<h4>Aplicación</h4>

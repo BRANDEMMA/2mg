@@ -73,7 +73,12 @@
 			<h3>Lugares de aplicación: </h3>
 			<ul>
 				<li><span>Cuartos de baño, WCs públicos.</span></li>
-				
+				<li><span>Superficies ceramicas pulidas.</span></li>
+				<li><span>Superficies ceramics vidriadas</span></li>
+				<li><span>Cuartos de Baños</span></li>
+				<li><span>Cocinas</span></li>
+				<li><span>Piscinas con azulejos</span></li>
+				<li><span>Todos los tipos de cerámicas.</span></li>
 			</ul>
 
 			<h3>Versiones comercializadas: </h3>
@@ -85,7 +90,7 @@
 			<ul>
 				<li><span>100 ml</span></li>
 				<li><span>200 ml</span></li>
-				<li><span>300 ml</span></li>
+				<li><span>500 ml</span></li>
 				<li><span>1000 ml</span></li>
 				
 			</ul>
