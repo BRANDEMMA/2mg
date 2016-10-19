@@ -88,6 +88,7 @@
 
 				<h2 id="asociados">Asociados</h2>
 				<p>Somos una empresa peruana cuyos socios fundadores son brasileños inmigrantes en Perú hace más de 10 años y <strong>nos dedicamos a actividades de importación y exportación de productos, servicios y soluciones en Procurement de Ingeniería.</strong></p>
+				
 				<div class="contenedor-asociados">
 					<div class="socios">
 						<div class="izquierda-socios">
@@ -115,31 +116,7 @@
 						<div class="clear"></div>
 					</div>
 
-					<div class="socios">
-						<div class="izquierda-socios">
-							<img src="img/jayme-girio.jpg">
-						</div>
-						<div class="derecha-socios">
-							<h3>Jayme Girio de Almeida</h3>
-							<h4>Ingeniero Mecánico</h4>
-							<p>Especialista en gestión logística de proyectos, coordinaciones de empresas comerciales... </p>
-							<a class="ver-socio" href="jayme-girio-de-almeida.php">VER MÁS +</a>
-						</div>
-						<div class="clear"></div>
-					</div>
-
-					<div class="socios espacio-socios">
-						<div class="izquierda-socios">
-							<img src="img/marcos-de-moura.jpg">
-						</div>
-						<div class="derecha-socios">
-							<h3>Marcos de Moura</h3>
-							<h4>Ingeniero Civil</h4>
-							<p>Especialista en Estructuras por la Universidad Federal de Minas Gerais, Brasil y Master en... </p>
-							<a class="ver-socio" href="marcos-de-moura.php">VER MÁS +</a>
-						</div>
-						<div class="clear"></div>
-					</div>
+					
 
 					<div class="clear"></div>
 				</div>
